@@ -1,0 +1,6 @@
+database:
+  dbname: scc
+  user: nyam-erdene
+  password: L@lala75
+  host: localhost
+  port: 5432

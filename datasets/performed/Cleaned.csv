@@ -1,0 +1,2256 @@
+Index,Date,name,Scenario,Figure,Value,BusinessUnit,Factor
+0,2019-02-01,Rate (Mt.EFH Km),Actual,Month,6512.41596,Geomining Innovations,1
+2,2019-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3448.19628,Mineral Extraction Technologies,1
+3,2019-02-01,Utility (%),Actual,Month,81.6,Deep Earth Exploration Unit,1
+4,2019-02-01,Utility (%),Plan,Year-To-Date,71.424,Deep Earth Exploration Unit,1
+5,2019-02-01,Utility (%),Plan,Month,71.388,Deep Earth Exploration Unit,1
+6,2019-02-01,Coal Dry Mining (Mt),Actual,Month,0.71772,Deep Earth Exploration Unit,1000000
+7,2019-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.16648,Deep Earth Exploration Unit,1000000
+8,2019-02-01,Coal Dry Mining (Mt),Plan,Month,1.02816,Deep Earth Exploration Unit,1000000
+9,2019-02-01,Utility (%),Actual,Year-To-Date,86.4,Deep Earth Exploration Unit,1
+10,2019-02-01,Rate (Mt.EFH Km),Actual,Month,3568.035,Mineral Extraction Technologies,1
+11,2019-02-01,Coal Mined (Mt),Actual,Year-To-Date,13.51188,Deep Earth Exploration Unit,1000000
+12,2019-02-01,Coal Mined (Mt),Actual,Month,5.79072,Deep Earth Exploration Unit,1000000
+13,2019-02-01,Coal Mined (Mt),Plan,Year-To-Date,15.20316,Deep Earth Exploration Unit,1000000
+15,2019-02-01,Coal Mined (Mt),Actual,Year-To-Date,2.04168,ACME,1000000
+16,2019-02-01,Coal Mined (Mt),Actual,Month,1.00548,ACME,1000000
+17,2019-02-01,Coal Mined (Mt),Plan,Year-To-Date,7.21512,ACME,1000000
+18,2019-02-01,Coal Mined (Mt),Plan,Month,1.22568,ACME,1000000
+19,2019-02-01,Yield (%),Actual,Year-To-Date,43.92,Deep Earth Exploration Unit,1
+20,2019-02-01,Yield (%),Actual,Month,43.2,Deep Earth Exploration Unit,1
+21,2019-02-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+22,2019-02-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+23,2019-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.46088,Deep Earth Exploration Unit,1000000
+24,2019-02-01,Drills per Hour (TOH),Actual,Month,27250.96248,Pacific Surface Mining Solutions,1
+25,2019-02-01,Drills per Hour (TOH),Actual,Month,21135.04836,Geomining Innovations,1
+26,2019-02-01,Drills per Hour (TOH),Actual,Month,211.87104,Deep Earth Exploration Unit,1
+27,2019-02-01,Drills per Hour (TOH),Actual,Month,138.40116,ACME,1
+28,2019-02-01,Drills per Hour (TOH),Actual,Month,4857.7428,Core Extraction Systems,1
+29,2019-02-01,Drills per Hour (TOH),Actual,Month,7001.8068,Mineral Extraction Technologies,1
+30,2019-03-01,Coal Mined (Mt),Actual,Year-To-Date,19.1316,Deep Earth Exploration Unit,1000000
+31,2019-03-01,Coal Mined (Mt),Actual,Month,5.61972,Deep Earth Exploration Unit,1000000
+32,2019-03-01,Coal Dry Mining (Mt),Plan,Month,1.13832,Deep Earth Exploration Unit,1000000
+33,2019-03-01,Utility (%),Actual,Year-To-Date,81.6,Deep Earth Exploration Unit,1
+34,2019-03-01,Utility (%),Actual,Month,87.6,Deep Earth Exploration Unit,1
+35,2019-03-01,Utility (%),Plan,Year-To-Date,73.02,Deep Earth Exploration Unit,1
+36,2019-03-01,Utility (%),Plan,Month,76.056,Deep Earth Exploration Unit,1
+37,2019-03-01,Coal Mined (Mt),Plan,Year-To-Date,23.1912,Deep Earth Exploration Unit,1000000
+38,2019-03-01,Coal Mined (Mt),Plan,Month,7.98804,Deep Earth Exploration Unit,1000000
+39,2019-03-01,Coal Mined (Mt),Actual,Year-To-Date,3.42576,ACME,1000000
+40,2019-03-01,Coal Mined (Mt),Actual,Month,1.38396,ACME,1000000
+41,2019-03-01,Coal Mined (Mt),Plan,Year-To-Date,7.98804,ACME,1000000
+42,2019-03-01,Coal Mined (Mt),Plan,Month,1.32,ACME,1000000
+43,2019-03-01,Yield (%),Actual,Year-To-Date,42.72,Deep Earth Exploration Unit,1
+44,2019-03-01,Yield (%),Actual,Month,40.8,Deep Earth Exploration Unit,1
+45,2019-03-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+46,2019-03-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+47,2019-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.31024,Deep Earth Exploration Unit,1000000
+48,2019-03-01,Coal Dry Mining (Mt),Actual,Month,0.84936,Deep Earth Exploration Unit,1000000
+49,2019-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.3048,Deep Earth Exploration Unit,1000000
+50,2019-03-01,Drills per Hour (TOH),Actual,Month,7145.09844,Pacific Surface Mining Solutions,1
+51,2019-03-01,Drills per Hour (TOH),Actual,Month,21973.01508,Geomining Innovations,1
+52,2019-03-01,Drills per Hour (TOH),Actual,Month,223.49268,Deep Earth Exploration Unit,1
+53,2019-03-01,Drills per Hour (TOH),Actual,Month,136.07208,ACME,1
+54,2019-03-01,Drills per Hour (TOH),Actual,Month,4402.94784,Core Extraction Systems,1
+55,2019-03-01,Drills per Hour (TOH),Actual,Month,6714.11496,Mineral Extraction Technologies,1
+56,2019-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6838.308,Geomining Innovations,1
+57,2019-03-01,Rate (Mt.EFH Km),Actual,Month,7351.87872,Geomining Innovations,1
+58,2019-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3201.80688,Mineral Extraction Technologies,1
+59,2019-04-01,Coal Mined (Mt),Actual,Year-To-Date,26.09004,Deep Earth Exploration Unit,1000000
+60,2019-04-01,Coal Mined (Mt),Actual,Month,6.95856,Deep Earth Exploration Unit,1000000
+61,2019-04-01,Coal Dry Mining (Mt),Plan,Month,1.1016,Deep Earth Exploration Unit,1000000
+62,2019-04-01,Utility (%),Actual,Year-To-Date,87.84,Deep Earth Exploration Unit,1
+63,2019-04-01,Utility (%),Actual,Month,92.4,Deep Earth Exploration Unit,1
+64,2019-04-01,Utility (%),Plan,Year-To-Date,72.6,Deep Earth Exploration Unit,1
+65,2019-04-01,Utility (%),Plan,Month,71.328,Deep Earth Exploration Unit,1
+66,2019-04-01,Coal Mined (Mt),Plan,Year-To-Date,30.9216,Deep Earth Exploration Unit,1000000
+67,2019-04-01,Coal Mined (Mt),Plan,Month,7.7304,Deep Earth Exploration Unit,1000000
+68,2019-04-01,Coal Mined (Mt),Actual,Year-To-Date,4.95684,ACME,1000000
+69,2019-04-01,Coal Mined (Mt),Actual,Month,1.5312,ACME,1000000
+70,2019-04-01,Coal Mined (Mt),Plan,Year-To-Date,7.7304,ACME,1000000
+71,2019-04-01,Coal Mined (Mt),Plan,Month,1.27872,ACME,1000000
+72,2019-04-01,Yield (%),Actual,Year-To-Date,44.86104,Deep Earth Exploration Unit,1
+73,2019-04-01,Yield (%),Actual,Month,50.4,Deep Earth Exploration Unit,1
+74,2019-04-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+75,2019-04-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+76,2019-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.411,Deep Earth Exploration Unit,1000000
+77,2019-04-01,Coal Dry Mining (Mt),Actual,Month,1.10076,Deep Earth Exploration Unit,1000000
+78,2019-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.4064,Deep Earth Exploration Unit,1000000
+79,2019-04-01,Drills per Hour (TOH),Actual,Month,14123.41164,Pacific Surface Mining Solutions,1
+80,2019-04-01,Drills per Hour (TOH),Actual,Month,24392.03616,Geomining Innovations,1
+81,2019-04-01,Drills per Hour (TOH),Actual,Month,236.50536,Deep Earth Exploration Unit,1
+82,2019-04-01,Drills per Hour (TOH),Actual,Month,139.03212,ACME,1
+83,2019-04-01,Drills per Hour (TOH),Actual,Month,4623.54708,Core Extraction Systems,1
+84,2019-04-01,Drills per Hour (TOH),Actual,Month,6968.35188,Mineral Extraction Technologies,1
+85,2019-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6751.82292,Geomining Innovations,1
+86,2019-04-01,Rate (Mt.EFH Km),Actual,Month,6492.4878,Geomining Innovations,1
+87,2019-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3230.90364,Mineral Extraction Technologies,1
+88,2019-05-01,Coal Mined (Mt),Plan,Year-To-Date,38.81172,Deep Earth Exploration Unit,1000000
+89,2019-05-01,Coal Mined (Mt),Plan,Month,7.89012,Deep Earth Exploration Unit,1000000
+90,2019-05-01,Coal Dry Mining (Mt),Actual,Month,0.0012,ACME,1000000
+91,2019-05-01,Utility (%),Actual,Year-To-Date,82.872,Deep Earth Exploration Unit,1
+92,2019-05-01,Utility (%),Actual,Month,84.0,Deep Earth Exploration Unit,1
+93,2019-05-01,Utility (%),Plan,Year-To-Date,69.156,Deep Earth Exploration Unit,1
+94,2019-05-01,Utility (%),Plan,Month,55.848,Deep Earth Exploration Unit,1
+95,2019-05-01,Coal Mined (Mt),Actual,Year-To-Date,6.14976,ACME,1000000
+96,2019-05-01,Coal Mined (Mt),Actual,Month,1.19292,ACME,1000000
+97,2019-05-01,Coal Mined (Mt),Plan,Year-To-Date,7.89012,ACME,1000000
+98,2019-05-01,Coal Mined (Mt),Plan,Month,1.32,ACME,1000000
+99,2019-05-01,Yield (%),Actual,Year-To-Date,45.24876,Deep Earth Exploration Unit,1
+100,2019-05-01,Yield (%),Actual,Month,46.8,Deep Earth Exploration Unit,1
+101,2019-05-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+102,2019-05-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+103,2019-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,4.5624,Deep Earth Exploration Unit,1000000
+104,2019-05-01,Coal Dry Mining (Mt),Actual,Month,1.15152,Deep Earth Exploration Unit,1000000
+105,2019-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,5.54472,Deep Earth Exploration Unit,1000000
+106,2019-05-01,Coal Dry Mining (Mt),Plan,Month,1.13832,Deep Earth Exploration Unit,1000000
+107,2019-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.0012,ACME,1000000
+108,2019-05-01,Drills per Hour (TOH),Actual,Month,9970.50516,Pacific Surface Mining Solutions,1
+109,2019-05-01,Drills per Hour (TOH),Actual,Month,21367.21764,Geomining Innovations,1
+110,2019-05-01,Drills per Hour (TOH),Actual,Month,215.99544,Deep Earth Exploration Unit,1
+111,2019-05-01,Drills per Hour (TOH),Actual,Month,148.51548,ACME,1
+112,2019-05-01,Drills per Hour (TOH),Actual,Month,4183.36848,Core Extraction Systems,1
+113,2019-05-01,Drills per Hour (TOH),Actual,Month,5842.79412,Mineral Extraction Technologies,1
+114,2019-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6821.16792,Geomining Innovations,1
+115,2019-05-01,Rate (Mt.EFH Km),Actual,Month,7089.50664,Geomining Innovations,1
+116,2019-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3232.15068,Mineral Extraction Technologies,1
+117,2019-05-01,Rate (Mt.EFH Km),Actual,Month,3237.55872,Mineral Extraction Technologies,1
+118,2019-05-01,Coal Mined (Mt),Actual,Year-To-Date,32.7072,Deep Earth Exploration Unit,1000000
+119,2019-06-01,Yield (%),Actual,Year-To-Date,44.5074,Deep Earth Exploration Unit,1
+120,2019-06-01,Yield (%),Actual,Month,40.8,Deep Earth Exploration Unit,1
+121,2019-06-01,Utility (%),Actual,Month,63.6,Deep Earth Exploration Unit,1
+122,2019-06-01,Utility (%),Plan,Year-To-Date,67.2,Deep Earth Exploration Unit,1
+123,2019-06-01,Utility (%),Plan,Month,57.372,Deep Earth Exploration Unit,1
+124,2019-06-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+125,2019-06-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+126,2019-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.82276,Deep Earth Exploration Unit,1000000
+127,2019-06-01,Coal Dry Mining (Mt),Actual,Month,1.26036,Deep Earth Exploration Unit,1000000
+128,2019-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,6.32232,Deep Earth Exploration Unit,1000000
+129,2019-06-01,Coal Dry Mining (Mt),Plan,Month,0.7776,Deep Earth Exploration Unit,1000000
+130,2019-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.0504,ACME,1000000
+131,2019-06-01,Coal Dry Mining (Mt),Actual,Month,0.0492,ACME,1000000
+132,2019-06-01,Utility (%),Actual,Year-To-Date,83.16,Deep Earth Exploration Unit,1
+133,2019-06-01,Drills per Hour (TOH),Actual,Month,32067.5094,Pacific Surface Mining Solutions,1
+134,2019-06-01,Drills per Hour (TOH),Actual,Month,22308.45024,Geomining Innovations,1
+135,2019-06-01,Drills per Hour (TOH),Actual,Month,195.76428,Deep Earth Exploration Unit,1
+136,2019-06-01,Drills per Hour (TOH),Actual,Month,129.6108,ACME,1
+137,2019-06-01,Drills per Hour (TOH),Actual,Month,3964.21536,Core Extraction Systems,1
+138,2019-06-01,Drills per Hour (TOH),Actual,Month,6097.7328,Mineral Extraction Technologies,1
+139,2019-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6977.63532,Geomining Innovations,1
+140,2019-06-01,Rate (Mt.EFH Km),Actual,Month,7764.97056,Geomining Innovations,1
+141,2019-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3324.1176,Mineral Extraction Technologies,1
+142,2019-06-01,Rate (Mt.EFH Km),Actual,Month,3834.58884,Mineral Extraction Technologies,1
+143,2019-06-01,Coal Mined (Mt),Actual,Year-To-Date,39.4938,Deep Earth Exploration Unit,1000000
+144,2019-06-01,Coal Mined (Mt),Actual,Month,6.7866,Deep Earth Exploration Unit,1000000
+145,2019-06-01,Coal Mined (Mt),Plan,Year-To-Date,44.76408,Deep Earth Exploration Unit,1000000
+146,2019-06-01,Coal Mined (Mt),Plan,Month,5.95224,Deep Earth Exploration Unit,1000000
+147,2019-06-01,Coal Mined (Mt),Actual,Year-To-Date,7.52304,ACME,1000000
+148,2019-06-01,Coal Mined (Mt),Actual,Month,1.37328,ACME,1000000
+149,2019-06-01,Coal Mined (Mt),Plan,Year-To-Date,5.95224,ACME,1000000
+150,2019-07-01,Coal Mined (Mt),Plan,Year-To-Date,52.56708,Deep Earth Exploration Unit,1000000
+151,2019-07-01,Coal Mined (Mt),Plan,Month,7.803,Deep Earth Exploration Unit,1000000
+152,2019-07-01,Coal Dry Mining (Mt),Actual,Month,0.12984,ACME,1000000
+153,2019-07-01,Utility (%),Actual,Year-To-Date,80.76,Deep Earth Exploration Unit,1
+154,2019-07-01,Utility (%),Actual,Month,67.2,Deep Earth Exploration Unit,1
+155,2019-07-01,Utility (%),Plan,Year-To-Date,65.04,Deep Earth Exploration Unit,1
+156,2019-07-01,Utility (%),Plan,Month,52.428,Deep Earth Exploration Unit,1
+157,2019-07-01,Coal Mined (Mt),Actual,Year-To-Date,8.70024,ACME,1000000
+158,2019-07-01,Coal Mined (Mt),Actual,Month,1.1772,ACME,1000000
+159,2019-07-01,Coal Mined (Mt),Plan,Year-To-Date,7.803,ACME,1000000
+160,2019-07-01,Coal Mined (Mt),Plan,Month,0.94344,ACME,1000000
+161,2019-07-01,Yield (%),Actual,Year-To-Date,43.4634,Deep Earth Exploration Unit,1
+162,2019-07-01,Yield (%),Actual,Month,37.2,Deep Earth Exploration Unit,1
+163,2019-07-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+164,2019-07-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+165,2019-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.8976,Deep Earth Exploration Unit,1000000
+166,2019-07-01,Coal Dry Mining (Mt),Actual,Month,1.07484,Deep Earth Exploration Unit,1000000
+167,2019-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,7.46064,Deep Earth Exploration Unit,1000000
+168,2019-07-01,Coal Dry Mining (Mt),Plan,Month,1.13832,Deep Earth Exploration Unit,1000000
+169,2019-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.18024,ACME,1000000
+170,2019-07-01,Drills per Hour (TOH),Actual,Month,31512.51828,Pacific Surface Mining Solutions,1
+171,2019-07-01,Drills per Hour (TOH),Actual,Month,24518.19468,Geomining Innovations,1
+172,2019-07-01,Drills per Hour (TOH),Actual,Month,229.58604,Deep Earth Exploration Unit,1
+173,2019-07-01,Drills per Hour (TOH),Actual,Month,128.18772,ACME,1
+174,2019-07-01,Drills per Hour (TOH),Actual,Month,4282.8258,Core Extraction Systems,1
+175,2019-07-01,Drills per Hour (TOH),Actual,Month,7106.679,Mineral Extraction Technologies,1
+176,2019-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7210.31136,Geomining Innovations,1
+177,2019-07-01,Rate (Mt.EFH Km),Actual,Month,8568.52704,Geomining Innovations,1
+178,2019-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,21967.9842,Core Extraction Systems,1
+179,2019-07-01,Rate (Mt.EFH Km),Actual,Month,3656.06724,Core Extraction Systems,1
+180,2019-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3385.44264,Mineral Extraction Technologies,1
+181,2019-07-01,Rate (Mt.EFH Km),Actual,Month,3774.19896,Mineral Extraction Technologies,1
+182,2019-07-01,Coal Mined (Mt),Actual,Year-To-Date,46.17048,Deep Earth Exploration Unit,1000000
+183,2019-08-01,Coal Mined (Mt),Plan,Year-To-Date,60.27768,Deep Earth Exploration Unit,1000000
+184,2019-08-01,Coal Mined (Mt),Plan,Month,7.7106,Deep Earth Exploration Unit,1000000
+185,2019-08-01,Coal Dry Mining (Mt),Actual,Month,0.1866,ACME,1000000
+186,2019-08-01,Utility (%),Actual,Year-To-Date,76.32,Deep Earth Exploration Unit,1
+187,2019-08-01,Utility (%),Actual,Month,45.6,Deep Earth Exploration Unit,1
+188,2019-08-01,Utility (%),Plan,Year-To-Date,61.608,Deep Earth Exploration Unit,1
+189,2019-08-01,Utility (%),Plan,Month,38.1,Deep Earth Exploration Unit,1
+190,2019-08-01,Coal Mined (Mt),Actual,Year-To-Date,9.82596,ACME,1000000
+191,2019-08-01,Coal Mined (Mt),Actual,Month,1.12572,ACME,1000000
+192,2019-08-01,Coal Mined (Mt),Plan,Year-To-Date,7.7106,ACME,1000000
+193,2019-08-01,Coal Mined (Mt),Plan,Month,0.92856,ACME,1000000
+194,2019-08-01,Yield (%),Actual,Year-To-Date,42.83052,Deep Earth Exploration Unit,1
+195,2019-08-01,Yield (%),Actual,Month,38.4,Deep Earth Exploration Unit,1
+196,2019-08-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+197,2019-08-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+198,2019-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,8.26608,Deep Earth Exploration Unit,1000000
+199,2019-08-01,Coal Dry Mining (Mt),Actual,Month,1.36848,Deep Earth Exploration Unit,1000000
+200,2019-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,8.59896,Deep Earth Exploration Unit,1000000
+201,2019-08-01,Coal Dry Mining (Mt),Plan,Month,1.13832,Deep Earth Exploration Unit,1000000
+202,2019-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.36684,ACME,1000000
+203,2019-08-01,Drills per Hour (TOH),Actual,Month,31652.74368,Pacific Surface Mining Solutions,1
+204,2019-08-01,Drills per Hour (TOH),Actual,Month,23067.85284,Geomining Innovations,1
+205,2019-08-01,Drills per Hour (TOH),Actual,Month,163.96824,Deep Earth Exploration Unit,1
+206,2019-08-01,Drills per Hour (TOH),Actual,Month,112.18896,ACME,1
+207,2019-08-01,Drills per Hour (TOH),Actual,Month,4220.38092,Core Extraction Systems,1
+208,2019-08-01,Drills per Hour (TOH),Actual,Month,6922.73196,Mineral Extraction Technologies,1
+209,2019-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7306.2864,Geomining Innovations,1
+210,2019-08-01,Rate (Mt.EFH Km),Actual,Month,7962.50232,Geomining Innovations,1
+211,2019-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,13159.34928,Core Extraction Systems,1
+212,2019-08-01,Rate (Mt.EFH Km),Actual,Month,3942.70476,Core Extraction Systems,1
+213,2019-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3434.83224,Mineral Extraction Technologies,1
+214,2019-08-01,Rate (Mt.EFH Km),Actual,Month,3797.3172,Mineral Extraction Technologies,1
+215,2019-08-01,Coal Mined (Mt),Actual,Year-To-Date,53.16396,Deep Earth Exploration Unit,1000000
+216,2019-09-01,Coal Mined (Mt),Plan,Year-To-Date,68.12988,Deep Earth Exploration Unit,1000000
+217,2019-09-01,Coal Mined (Mt),Plan,Month,7.8522,Deep Earth Exploration Unit,1000000
+218,2019-09-01,Coal Dry Mining (Mt),Actual,Month,0.17316,ACME,1000000
+219,2019-09-01,Utility (%),Actual,Year-To-Date,73.50672,Deep Earth Exploration Unit,1
+220,2019-09-01,Utility (%),Actual,Month,70.8,Deep Earth Exploration Unit,1
+221,2019-09-01,Utility (%),Plan,Year-To-Date,61.728,Deep Earth Exploration Unit,1
+222,2019-09-01,Utility (%),Plan,Month,62.736,Deep Earth Exploration Unit,1
+223,2019-09-01,Coal Mined (Mt),Actual,Year-To-Date,11.21628,ACME,1000000
+224,2019-09-01,Coal Mined (Mt),Actual,Month,1.39032,ACME,1000000
+225,2019-09-01,Coal Mined (Mt),Plan,Year-To-Date,7.8522,ACME,1000000
+226,2019-09-01,Coal Mined (Mt),Plan,Month,1.452,ACME,1000000
+227,2019-09-01,Yield (%),Actual,Year-To-Date,42.33828,Deep Earth Exploration Unit,1
+228,2019-09-01,Yield (%),Actual,Month,38.4,Deep Earth Exploration Unit,1
+229,2019-09-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+230,2019-09-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+231,2019-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.61956,Deep Earth Exploration Unit,1000000
+232,2019-09-01,Coal Dry Mining (Mt),Actual,Month,1.35348,Deep Earth Exploration Unit,1000000
+233,2019-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,9.70056,Deep Earth Exploration Unit,1000000
+234,2019-09-01,Coal Dry Mining (Mt),Plan,Month,1.1016,Deep Earth Exploration Unit,1000000
+235,2019-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.54,ACME,1000000
+236,2019-09-01,Drills per Hour (TOH),Actual,Month,31273.46892,Pacific Surface Mining Solutions,1
+237,2019-09-01,Drills per Hour (TOH),Actual,Month,22536.59868,Geomining Innovations,1
+238,2019-09-01,Drills per Hour (TOH),Actual,Month,239.42892,Deep Earth Exploration Unit,1
+239,2019-09-01,Drills per Hour (TOH),Actual,Month,93.78228,ACME,1
+240,2019-09-01,Drills per Hour (TOH),Actual,Month,4596.81132,Core Extraction Systems,1
+241,2019-09-01,Drills per Hour (TOH),Actual,Month,6979.41276,Mineral Extraction Technologies,1
+242,2019-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7560.35472,Geomining Innovations,1
+243,2019-09-01,Rate (Mt.EFH Km),Actual,Month,9617.95584,Geomining Innovations,1
+244,2019-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,10241.49288,Core Extraction Systems,1
+245,2019-09-01,Rate (Mt.EFH Km),Actual,Month,4071.59832,Core Extraction Systems,1
+246,2019-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3506.15844,Mineral Extraction Technologies,1
+247,2019-09-01,Rate (Mt.EFH Km),Actual,Month,4120.79448,Mineral Extraction Technologies,1
+248,2019-09-01,Coal Mined (Mt),Actual,Year-To-Date,60.32472,Deep Earth Exploration Unit,1000000
+249,2019-10-01,Coal Mined (Mt),Plan,Year-To-Date,76.4064,Deep Earth Exploration Unit,1000000
+250,2019-10-01,Coal Mined (Mt),Plan,Month,8.2764,Deep Earth Exploration Unit,1000000
+251,2019-10-01,Coal Dry Mining (Mt),Actual,Month,0.17112,ACME,1000000
+252,2019-10-01,Utility (%),Actual,Year-To-Date,72.876,Deep Earth Exploration Unit,1
+253,2019-10-01,Utility (%),Actual,Month,67.2,Deep Earth Exploration Unit,1
+254,2019-10-01,Utility (%),Plan,Year-To-Date,62.724,Deep Earth Exploration Unit,1
+255,2019-10-01,Utility (%),Plan,Month,71.472,Deep Earth Exploration Unit,1
+256,2019-10-01,Coal Mined (Mt),Actual,Year-To-Date,12.34752,ACME,1000000
+257,2019-10-01,Coal Mined (Mt),Actual,Month,1.13124,ACME,1000000
+258,2019-10-01,Coal Mined (Mt),Plan,Year-To-Date,8.2764,ACME,1000000
+259,2019-10-01,Coal Mined (Mt),Plan,Month,1.49988,ACME,1000000
+260,2019-10-01,Yield (%),Actual,Year-To-Date,42.18444,Deep Earth Exploration Unit,1
+261,2019-10-01,Yield (%),Actual,Month,40.8,Deep Earth Exploration Unit,1
+262,2019-10-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+263,2019-10-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+264,2019-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,10.78608,Deep Earth Exploration Unit,1000000
+265,2019-10-01,Coal Dry Mining (Mt),Actual,Month,1.16652,Deep Earth Exploration Unit,1000000
+266,2019-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,10.83888,Deep Earth Exploration Unit,1000000
+267,2019-10-01,Coal Dry Mining (Mt),Plan,Month,1.13832,Deep Earth Exploration Unit,1000000
+268,2019-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.71112,ACME,1000000
+269,2019-10-01,Drills per Hour (TOH),Actual,Month,31462.61052,Pacific Surface Mining Solutions,1
+270,2019-10-01,Drills per Hour (TOH),Actual,Month,23418.69936,Geomining Innovations,1
+271,2019-10-01,Drills per Hour (TOH),Actual,Month,239.53416,Deep Earth Exploration Unit,1
+272,2019-10-01,Drills per Hour (TOH),Actual,Month,108.01032,ACME,1
+273,2019-10-01,Drills per Hour (TOH),Actual,Month,4443.11148,Core Extraction Systems,1
+274,2019-10-01,Drills per Hour (TOH),Actual,Month,6938.93208,Mineral Extraction Technologies,1
+275,2019-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7685.84496,Geomining Innovations,1
+276,2019-10-01,Rate (Mt.EFH Km),Actual,Month,8790.79932,Geomining Innovations,1
+277,2019-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8612.35008,Core Extraction Systems,1
+278,2019-10-01,Rate (Mt.EFH Km),Actual,Month,3702.01404,Core Extraction Systems,1
+279,2019-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3560.33616,Mineral Extraction Technologies,1
+280,2019-10-01,Rate (Mt.EFH Km),Actual,Month,4064.56992,Mineral Extraction Technologies,1
+281,2019-10-01,Coal Mined (Mt),Actual,Year-To-Date,67.72308,Deep Earth Exploration Unit,1000000
+282,2019-11-01,Coal Mined (Mt),Plan,Year-To-Date,84.48708,Deep Earth Exploration Unit,1000000
+283,2019-11-01,Coal Mined (Mt),Plan,Month,8.08068,Deep Earth Exploration Unit,1000000
+284,2019-11-01,Coal Dry Mining (Mt),Actual,Month,0.15324,ACME,1000000
+285,2019-11-01,Utility (%),Actual,Year-To-Date,71.26908,Deep Earth Exploration Unit,1
+286,2019-11-01,Utility (%),Actual,Month,55.2,Deep Earth Exploration Unit,1
+287,2019-11-01,Utility (%),Plan,Year-To-Date,63.912,Deep Earth Exploration Unit,1
+288,2019-11-01,Utility (%),Plan,Month,75.972,Deep Earth Exploration Unit,1
+289,2019-11-01,Coal Mined (Mt),Actual,Year-To-Date,13.73448,ACME,1000000
+290,2019-11-01,Coal Mined (Mt),Actual,Month,1.38696,ACME,1000000
+291,2019-11-01,Coal Mined (Mt),Plan,Year-To-Date,8.08068,ACME,1000000
+292,2019-11-01,Coal Mined (Mt),Plan,Month,1.52064,ACME,1000000
+293,2019-11-01,Yield (%),Actual,Year-To-Date,41.07672,Deep Earth Exploration Unit,1
+294,2019-11-01,Yield (%),Actual,Month,30.0,Deep Earth Exploration Unit,1
+295,2019-11-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+296,2019-11-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+297,2019-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,11.52792,Deep Earth Exploration Unit,1000000
+298,2019-11-01,Coal Dry Mining (Mt),Actual,Month,0.74184,Deep Earth Exploration Unit,1000000
+299,2019-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,11.94048,Deep Earth Exploration Unit,1000000
+300,2019-11-01,Coal Dry Mining (Mt),Plan,Month,1.1016,Deep Earth Exploration Unit,1000000
+301,2019-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.86436,ACME,1000000
+302,2019-11-01,Drills per Hour (TOH),Actual,Month,31664.9538,Pacific Surface Mining Solutions,1
+303,2019-11-01,Drills per Hour (TOH),Actual,Month,22432.42296,Geomining Innovations,1
+304,2019-11-01,Drills per Hour (TOH),Actual,Month,202.61652,Deep Earth Exploration Unit,1
+305,2019-11-01,Drills per Hour (TOH),Actual,Month,107.16924,ACME,1
+306,2019-11-01,Drills per Hour (TOH),Actual,Month,4221.59136,Core Extraction Systems,1
+307,2019-11-01,Drills per Hour (TOH),Actual,Month,6831.10776,Mineral Extraction Technologies,1
+308,2019-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7649.0514,Geomining Innovations,1
+309,2019-11-01,Rate (Mt.EFH Km),Actual,Month,7276.77816,Geomining Innovations,1
+310,2019-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7710.72048,Core Extraction Systems,1
+311,2019-11-01,Rate (Mt.EFH Km),Actual,Month,3928.86348,Core Extraction Systems,1
+312,2019-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3598.6974,Mineral Extraction Technologies,1
+313,2019-11-01,Rate (Mt.EFH Km),Actual,Month,4007.26668,Mineral Extraction Technologies,1
+314,2019-11-01,Coal Mined (Mt),Actual,Year-To-Date,72.06204,Deep Earth Exploration Unit,1000000
+315,2019-12-01,Coal Mined (Mt),Actual,Month,0.51144,Deep Earth Exploration Unit,1000000
+316,2019-12-01,Coal Mined (Mt),Plan,Year-To-Date,92.95236,Deep Earth Exploration Unit,1000000
+317,2019-12-01,Coal Dry Mining (Mt),Actual,Month,0.25428,ACME,1000000
+318,2019-12-01,Utility (%),Actual,Year-To-Date,69.6,Deep Earth Exploration Unit,1
+319,2019-12-01,Utility (%),Actual,Month,34.8,Deep Earth Exploration Unit,1
+320,2019-12-01,Utility (%),Plan,Year-To-Date,64.932,Deep Earth Exploration Unit,1
+321,2019-12-01,Utility (%),Plan,Month,75.936,Deep Earth Exploration Unit,1
+322,2019-12-01,Coal Mined (Mt),Plan,Month,8.46528,Deep Earth Exploration Unit,1000000
+323,2019-12-01,Coal Mined (Mt),Actual,Year-To-Date,15.21144,ACME,1000000
+324,2019-12-01,Coal Mined (Mt),Actual,Month,1.47708,ACME,1000000
+325,2019-12-01,Coal Mined (Mt),Plan,Year-To-Date,8.46528,ACME,1000000
+326,2019-12-01,Coal Mined (Mt),Plan,Month,1.644,ACME,1000000
+327,2019-12-01,Yield (%),Actual,Year-To-Date,38.45364,Deep Earth Exploration Unit,1
+328,2019-12-01,Yield (%),Actual,Month,9.6,Deep Earth Exploration Unit,1
+329,2019-12-01,Yield (%),Plan,Year-To-Date,51.0,Deep Earth Exploration Unit,1
+330,2019-12-01,Yield (%),Plan,Month,51.0,Deep Earth Exploration Unit,1
+331,2019-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,11.538,Deep Earth Exploration Unit,1000000
+332,2019-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,13.0788,Deep Earth Exploration Unit,1000000
+333,2019-12-01,Coal Dry Mining (Mt),Plan,Month,1.13832,Deep Earth Exploration Unit,1000000
+334,2019-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.11864,ACME,1000000
+335,2019-12-01,Drills per Hour (TOH),Actual,Month,32066.84352,Pacific Surface Mining Solutions,1
+336,2019-12-01,Drills per Hour (TOH),Actual,Month,21368.89056,Geomining Innovations,1
+337,2019-12-01,Drills per Hour (TOH),Actual,Month,115.8978,Deep Earth Exploration Unit,1
+338,2019-12-01,Drills per Hour (TOH),Actual,Month,119.50872,ACME,1
+339,2019-12-01,Drills per Hour (TOH),Actual,Month,5091.00204,Core Extraction Systems,1
+340,2019-12-01,Drills per Hour (TOH),Actual,Month,7171.19748,Mineral Extraction Technologies,1
+341,2019-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7585.02576,Geomining Innovations,1
+342,2019-12-01,Rate (Mt.EFH Km),Actual,Month,6895.20156,Geomining Innovations,1
+343,2019-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7074.88068,Core Extraction Systems,1
+344,2019-12-01,Rate (Mt.EFH Km),Actual,Month,3885.06672,Core Extraction Systems,1
+345,2019-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3611.38368,Mineral Extraction Technologies,1
+346,2019-12-01,Rate (Mt.EFH Km),Actual,Month,3754.41936,Mineral Extraction Technologies,1
+347,2020-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6808.71444,Geomining Innovations,1
+348,2020-01-01,Rate (Mt.EFH Km),Actual,Month,6808.71444,Geomining Innovations,1
+349,2020-01-01,Utility (%),Actual,Month,50.4,Deep Earth Exploration Unit,1
+350,2020-01-01,Utility (%),Plan,Year-To-Date,41.88,Deep Earth Exploration Unit,1
+351,2020-01-01,Utility (%),Plan,Month,41.88,Deep Earth Exploration Unit,1
+352,2020-01-01,Coal Dry Mining (Mt),Actual,Month,0.85752,Deep Earth Exploration Unit,1000000
+353,2020-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+354,2020-01-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+355,2020-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.32976,ACME,1000000
+356,2020-01-01,Coal Dry Mining (Mt),Actual,Month,0.32976,ACME,1000000
+357,2020-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.24108,ACME,1000000
+358,2020-01-01,Coal Dry Mining (Mt),Plan,Month,0.24108,ACME,1000000
+359,2020-01-01,Utility (%),Actual,Year-To-Date,50.4,Deep Earth Exploration Unit,1
+360,2020-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4113.06024,Core Extraction Systems,1
+361,2020-01-01,Rate (Mt.EFH Km),Actual,Month,4113.06024,Core Extraction Systems,1
+362,2020-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4008.23652,Mineral Extraction Technologies,1
+363,2020-01-01,Rate (Mt.EFH Km),Actual,Month,4008.23652,Mineral Extraction Technologies,1
+364,2020-01-01,Coal Mined (Mt),Actual,Year-To-Date,6.41532,Deep Earth Exploration Unit,1000000
+365,2020-01-01,Coal Mined (Mt),Actual,Month,6.41532,Deep Earth Exploration Unit,1000000
+366,2020-01-01,Coal Mined (Mt),Plan,Year-To-Date,5.91396,Deep Earth Exploration Unit,1000000
+367,2020-01-01,Coal Mined (Mt),Plan,Month,5.91396,Deep Earth Exploration Unit,1000000
+368,2020-01-01,Coal Mined (Mt),Actual,Year-To-Date,1.44096,ACME,1000000
+369,2020-01-01,Coal Mined (Mt),Actual,Month,1.44096,ACME,1000000
+370,2020-01-01,Coal Mined (Mt),Plan,Year-To-Date,5.916,ACME,1000000
+371,2020-01-01,Coal Mined (Mt),Plan,Month,1.56,ACME,1000000
+372,2020-01-01,Yield (%),Actual,Year-To-Date,28.04988,Deep Earth Exploration Unit,1
+373,2020-01-01,Yield (%),Actual,Month,28.04988,Deep Earth Exploration Unit,1
+374,2020-01-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+375,2020-01-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+376,2020-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.85752,Deep Earth Exploration Unit,1000000
+377,2020-01-01,Drills per Hour (TOH),Actual,Month,31202.20416,Pacific Surface Mining Solutions,1
+378,2020-01-01,Drills per Hour (TOH),Actual,Month,22060.86756,Geomining Innovations,1
+379,2020-01-01,Drills per Hour (TOH),Actual,Month,175.641,Deep Earth Exploration Unit,1
+380,2020-01-01,Drills per Hour (TOH),Actual,Month,114.63732,ACME,1
+381,2020-01-01,Drills per Hour (TOH),Actual,Month,4545.31248,Core Extraction Systems,1
+382,2020-01-01,Drills per Hour (TOH),Actual,Month,7012.98924,Mineral Extraction Technologies,1
+383,2020-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5652.5484,Quarrying Ventures,1
+384,2020-02-01,Coal Mined (Mt),Actual,Year-To-Date,2.91816,ACME,1000000
+385,2020-02-01,Coal Mined (Mt),Actual,Month,1.4772,ACME,1000000
+386,2020-02-01,Coal Dry Mining (Mt),Plan,Month,0.22548,ACME,1000000
+387,2020-02-01,Utility (%),Actual,Year-To-Date,56.4,Deep Earth Exploration Unit,1
+388,2020-02-01,Utility (%),Actual,Month,61.2,Deep Earth Exploration Unit,1
+389,2020-02-01,Utility (%),Plan,Year-To-Date,44.4,Deep Earth Exploration Unit,1
+390,2020-02-01,Utility (%),Plan,Month,46.2,Deep Earth Exploration Unit,1
+391,2020-02-01,Coal Mined (Mt),Plan,Year-To-Date,6.43308,ACME,1000000
+392,2020-02-01,Coal Mined (Mt),Plan,Month,1.54608,ACME,1000000
+393,2020-02-01,Yield (%),Actual,Year-To-Date,28.44,Deep Earth Exploration Unit,1
+394,2020-02-01,Yield (%),Actual,Month,28.8,Deep Earth Exploration Unit,1
+395,2020-02-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+396,2020-02-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+397,2020-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.97448,Deep Earth Exploration Unit,1000000
+398,2020-02-01,Coal Dry Mining (Mt),Actual,Month,1.11696,Deep Earth Exploration Unit,1000000
+399,2020-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+400,2020-02-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+401,2020-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.63576,ACME,1000000
+402,2020-02-01,Coal Dry Mining (Mt),Actual,Month,0.30588,ACME,1000000
+403,2020-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.46656,ACME,1000000
+404,2020-02-01,Drills per Hour (TOH),Actual,Month,31616.28012,Pacific Surface Mining Solutions,1
+405,2020-02-01,Drills per Hour (TOH),Actual,Month,21597.59964,Geomining Innovations,1
+406,2020-02-01,Drills per Hour (TOH),Actual,Month,204.85356,Deep Earth Exploration Unit,1
+407,2020-02-01,Drills per Hour (TOH),Actual,Month,107.1798,ACME,1
+408,2020-02-01,Drills per Hour (TOH),Actual,Month,4214.30772,Core Extraction Systems,1
+409,2020-02-01,Drills per Hour (TOH),Actual,Month,6459.02664,Mineral Extraction Technologies,1
+410,2020-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5483.81424,Quarrying Ventures,1
+411,2020-02-01,Rate (Mt.EFH Km),Actual,Month,5303.44332,Quarrying Ventures,1
+412,2020-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7099.33584,Geomining Innovations,1
+413,2020-02-01,Rate (Mt.EFH Km),Actual,Month,7410.0,Geomining Innovations,1
+414,2020-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3899.547,Core Extraction Systems,1
+415,2020-02-01,Rate (Mt.EFH Km),Actual,Month,3671.95188,Core Extraction Systems,1
+416,2020-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3853.90272,Mineral Extraction Technologies,1
+417,2020-02-01,Rate (Mt.EFH Km),Actual,Month,3688.92528,Mineral Extraction Technologies,1
+418,2020-02-01,Coal Mined (Mt),Actual,Year-To-Date,12.90612,Deep Earth Exploration Unit,1000000
+419,2020-02-01,Coal Mined (Mt),Actual,Month,6.4908,Deep Earth Exploration Unit,1000000
+420,2020-02-01,Coal Mined (Mt),Plan,Year-To-Date,12.924,Deep Earth Exploration Unit,1000000
+421,2020-03-01,Coal Mined (Mt),Actual,Year-To-Date,3.92064,ACME,1000000
+422,2020-03-01,Coal Mined (Mt),Actual,Month,1.00248,ACME,1000000
+423,2020-03-01,Coal Dry Mining (Mt),Plan,Month,0.34824,ACME,1000000
+424,2020-03-01,Utility (%),Actual,Year-To-Date,56.4,Deep Earth Exploration Unit,1
+425,2020-03-01,Utility (%),Actual,Month,58.8,Deep Earth Exploration Unit,1
+426,2020-03-01,Utility (%),Plan,Year-To-Date,48.27996,Deep Earth Exploration Unit,1
+427,2020-03-01,Utility (%),Plan,Month,56.76,Deep Earth Exploration Unit,1
+428,2020-03-01,Coal Mined (Mt),Plan,Year-To-Date,6.95184,ACME,1000000
+429,2020-03-01,Coal Mined (Mt),Plan,Month,1.59948,ACME,1000000
+430,2020-03-01,Yield (%),Actual,Year-To-Date,40.56,Deep Earth Exploration Unit,1
+431,2020-03-01,Yield (%),Actual,Month,34.68,Deep Earth Exploration Unit,1
+432,2020-03-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+433,2020-03-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+434,2020-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.99628,Deep Earth Exploration Unit,1000000
+435,2020-03-01,Coal Dry Mining (Mt),Actual,Month,1.0218,Deep Earth Exploration Unit,1000000
+436,2020-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+437,2020-03-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+438,2020-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.92196,ACME,1000000
+439,2020-03-01,Coal Dry Mining (Mt),Actual,Month,0.2862,ACME,1000000
+440,2020-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.8148,ACME,1000000
+441,2020-03-01,Drills per Hour (TOH),Actual,Month,31631.20728,Pacific Surface Mining Solutions,1
+442,2020-03-01,Drills per Hour (TOH),Actual,Month,24492.07932,Geomining Innovations,1
+443,2020-03-01,Drills per Hour (TOH),Actual,Month,213.51012,Deep Earth Exploration Unit,1
+444,2020-03-01,Drills per Hour (TOH),Actual,Month,83.05404,ACME,1
+445,2020-03-01,Drills per Hour (TOH),Actual,Month,44103.51132,Rock Solid Enterprises,1
+446,2020-03-01,Drills per Hour (TOH),Actual,Month,4809.38556,Core Extraction Systems,1
+447,2020-03-01,Drills per Hour (TOH),Actual,Month,7239.98544,Mineral Extraction Technologies,1
+448,2020-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5432.65308,Quarrying Ventures,1
+449,2020-03-01,Rate (Mt.EFH Km),Actual,Month,5333.63136,Quarrying Ventures,1
+450,2020-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7436.53848,Geomining Innovations,1
+451,2020-03-01,Rate (Mt.EFH Km),Actual,Month,8090.06724,Geomining Innovations,1
+452,2020-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4108.8306,Core Extraction Systems,1
+453,2020-03-01,Rate (Mt.EFH Km),Actual,Month,4552.26696,Core Extraction Systems,1
+454,2020-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3938.39544,Mineral Extraction Technologies,1
+455,2020-03-01,Rate (Mt.EFH Km),Actual,Month,4084.35216,Mineral Extraction Technologies,1
+456,2020-03-01,Coal Mined (Mt),Actual,Year-To-Date,19.1772,Deep Earth Exploration Unit,1000000
+457,2020-03-01,Coal Mined (Mt),Actual,Month,6.27096,Deep Earth Exploration Unit,1000000
+458,2020-03-01,Coal Mined (Mt),Plan,Year-To-Date,19.8756,Deep Earth Exploration Unit,1000000
+459,2020-04-01,Coal Mined (Mt),Actual,Year-To-Date,5.5368,ACME,1000000
+460,2020-04-01,Coal Mined (Mt),Actual,Month,1.61616,ACME,1000000
+461,2020-04-01,Coal Dry Mining (Mt),Plan,Month,0.25836,ACME,1000000
+462,2020-04-01,Utility (%),Actual,Year-To-Date,43.08,Deep Earth Exploration Unit,1
+463,2020-04-01,Utility (%),Actual,Month,41.64,Deep Earth Exploration Unit,1
+464,2020-04-01,Utility (%),Plan,Year-To-Date,52.98,Deep Earth Exploration Unit,1
+465,2020-04-01,Utility (%),Plan,Month,67.08,Deep Earth Exploration Unit,1
+466,2020-04-01,Coal Mined (Mt),Plan,Year-To-Date,7.07532,ACME,1000000
+467,2020-04-01,Coal Mined (Mt),Plan,Month,1.57128,ACME,1000000
+468,2020-04-01,Yield (%),Actual,Year-To-Date,33.6,Deep Earth Exploration Unit,1
+469,2020-04-01,Yield (%),Actual,Month,40.8,Deep Earth Exploration Unit,1
+470,2020-04-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+471,2020-04-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+472,2020-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.5748,Deep Earth Exploration Unit,1000000
+473,2020-04-01,Coal Dry Mining (Mt),Actual,Month,0.57852,Deep Earth Exploration Unit,1000000
+474,2020-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+475,2020-04-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+476,2020-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.2084,ACME,1000000
+477,2020-04-01,Coal Dry Mining (Mt),Actual,Month,0.28656,ACME,1000000
+478,2020-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.07304,ACME,1000000
+479,2020-04-01,Drills per Hour (TOH),Actual,Month,30878.11932,Pacific Surface Mining Solutions,1
+480,2020-04-01,Drills per Hour (TOH),Actual,Month,25058.97312,Geomining Innovations,1
+481,2020-04-01,Drills per Hour (TOH),Actual,Month,178.30836,Deep Earth Exploration Unit,1
+482,2020-04-01,Drills per Hour (TOH),Actual,Month,144.14952,ACME,1
+483,2020-04-01,Drills per Hour (TOH),Actual,Month,47182.34268,Rock Solid Enterprises,1
+484,2020-04-01,Drills per Hour (TOH),Actual,Month,5263.34184,Core Extraction Systems,1
+485,2020-04-01,Drills per Hour (TOH),Actual,Month,6563.00232,Mineral Extraction Technologies,1
+486,2020-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5202.24084,Quarrying Ventures,1
+487,2020-04-01,Rate (Mt.EFH Km),Actual,Month,4503.32376,Quarrying Ventures,1
+488,2020-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7683.22848,Geomining Innovations,1
+489,2020-04-01,Rate (Mt.EFH Km),Actual,Month,8431.17888,Geomining Innovations,1
+490,2020-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4260.75888,Core Extraction Systems,1
+491,2020-04-01,Rate (Mt.EFH Km),Actual,Month,4767.97944,Core Extraction Systems,1
+492,2020-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3894.86736,Mineral Extraction Technologies,1
+493,2020-04-01,Rate (Mt.EFH Km),Actual,Month,3780.32412,Mineral Extraction Technologies,1
+494,2020-04-01,Coal Mined (Mt),Actual,Year-To-Date,23.66304,Deep Earth Exploration Unit,1000000
+495,2020-04-01,Coal Mined (Mt),Actual,Month,4.48584,Deep Earth Exploration Unit,1000000
+496,2020-04-01,Coal Mined (Mt),Plan,Year-To-Date,26.95092,Deep Earth Exploration Unit,1000000
+497,2020-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7782.93888,Geomining Innovations,1
+498,2020-05-01,Rate (Mt.EFH Km),Actual,Month,8171.99712,Geomining Innovations,1
+499,2020-05-01,Utility (%),Plan,Year-To-Date,57.0,Deep Earth Exploration Unit,1
+500,2020-05-01,Utility (%),Plan,Month,73.08,Deep Earth Exploration Unit,1
+501,2020-05-01,Coal Dry Mining (Mt),Actual,Month,1.5504,Deep Earth Exploration Unit,1000000
+502,2020-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+503,2020-05-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+504,2020-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.63668,ACME,1000000
+505,2020-05-01,Coal Dry Mining (Mt),Actual,Month,0.42828,ACME,1000000
+506,2020-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.42128,ACME,1000000
+507,2020-05-01,Coal Dry Mining (Mt),Plan,Month,0.34824,ACME,1000000
+508,2020-05-01,Utility (%),Actual,Year-To-Date,57.6,Deep Earth Exploration Unit,1
+509,2020-05-01,Utility (%),Actual,Month,58.8,Deep Earth Exploration Unit,1
+510,2020-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4520.16612,Core Extraction Systems,1
+511,2020-05-01,Rate (Mt.EFH Km),Actual,Month,5590.62816,Core Extraction Systems,1
+512,2020-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3983.0796,Mineral Extraction Technologies,1
+513,2020-05-01,Rate (Mt.EFH Km),Actual,Month,4293.08688,Mineral Extraction Technologies,1
+514,2020-05-01,Coal Mined (Mt),Actual,Year-To-Date,31.03836,Deep Earth Exploration Unit,1000000
+515,2020-05-01,Coal Mined (Mt),Actual,Month,7.37544,Deep Earth Exploration Unit,1000000
+516,2020-05-01,Coal Mined (Mt),Plan,Year-To-Date,34.56828,Deep Earth Exploration Unit,1000000
+517,2020-05-01,Coal Mined (Mt),Plan,Month,7.61748,Deep Earth Exploration Unit,1000000
+518,2020-05-01,Coal Mined (Mt),Actual,Year-To-Date,7.15836,ACME,1000000
+519,2020-05-01,Coal Mined (Mt),Actual,Month,1.62156,ACME,1000000
+520,2020-05-01,Coal Mined (Mt),Plan,Year-To-Date,7.61748,ACME,1000000
+521,2020-05-01,Coal Mined (Mt),Plan,Month,1.78884,ACME,1000000
+522,2020-05-01,Yield (%),Actual,Year-To-Date,34.55976,Deep Earth Exploration Unit,1
+523,2020-05-01,Yield (%),Actual,Month,40.45224,Deep Earth Exploration Unit,1
+524,2020-05-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+525,2020-05-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+526,2020-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.12508,Deep Earth Exploration Unit,1000000
+527,2020-05-01,Drills per Hour (TOH),Actual,Month,30423.03984,Pacific Surface Mining Solutions,1
+528,2020-05-01,Drills per Hour (TOH),Actual,Month,12688.8276,Geomining Innovations,1
+529,2020-05-01,Drills per Hour (TOH),Actual,Month,202.07664,Deep Earth Exploration Unit,1
+530,2020-05-01,Drills per Hour (TOH),Actual,Month,138.98616,ACME,1
+531,2020-05-01,Drills per Hour (TOH),Actual,Month,48781.1532,Rock Solid Enterprises,1
+532,2020-05-01,Drills per Hour (TOH),Actual,Month,5254.35576,Core Extraction Systems,1
+533,2020-05-01,Drills per Hour (TOH),Actual,Month,6650.11548,Mineral Extraction Technologies,1
+534,2020-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5105.0724,Quarrying Ventures,1
+535,2020-06-01,Coal Mined (Mt),Actual,Year-To-Date,8.76564,ACME,1000000
+536,2020-06-01,Coal Mined (Mt),Actual,Month,1.60728,ACME,1000000
+537,2020-06-01,Coal Dry Mining (Mt),Plan,Month,0.22464,ACME,1000000
+538,2020-06-01,Utility (%),Actual,Year-To-Date,45.9108,Deep Earth Exploration Unit,1
+539,2020-06-01,Utility (%),Actual,Month,57.77964,Deep Earth Exploration Unit,1
+540,2020-06-01,Utility (%),Plan,Year-To-Date,59.12004,Deep Earth Exploration Unit,1
+541,2020-06-01,Utility (%),Plan,Month,69.72,Deep Earth Exploration Unit,1
+542,2020-06-01,Coal Mined (Mt),Plan,Year-To-Date,7.22472,ACME,1000000
+543,2020-06-01,Coal Mined (Mt),Plan,Month,1.19388,ACME,1000000
+544,2020-06-01,Yield (%),Actual,Year-To-Date,36.12972,Deep Earth Exploration Unit,1
+545,2020-06-01,Yield (%),Actual,Month,43.97916,Deep Earth Exploration Unit,1
+546,2020-06-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+547,2020-06-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+548,2020-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.71604,Deep Earth Exploration Unit,1000000
+549,2020-06-01,Coal Dry Mining (Mt),Actual,Month,1.59096,Deep Earth Exploration Unit,1000000
+550,2020-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+551,2020-06-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+552,2020-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.18784,ACME,1000000
+553,2020-06-01,Coal Dry Mining (Mt),Actual,Month,0.55116,ACME,1000000
+554,2020-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.64592,ACME,1000000
+555,2020-06-01,Drills per Hour (TOH),Actual,Month,29784.90852,Pacific Surface Mining Solutions,1
+556,2020-06-01,Drills per Hour (TOH),Actual,Month,22447.83924,Geomining Innovations,1
+557,2020-06-01,Drills per Hour (TOH),Actual,Month,257.33496,Deep Earth Exploration Unit,1
+558,2020-06-01,Drills per Hour (TOH),Actual,Month,111.91308,ACME,1
+559,2020-06-01,Drills per Hour (TOH),Actual,Month,49704.38688,Rock Solid Enterprises,1
+560,2020-06-01,Drills per Hour (TOH),Actual,Month,4605.41628,Core Extraction Systems,1
+561,2020-06-01,Drills per Hour (TOH),Actual,Month,6473.8254,Mineral Extraction Technologies,1
+562,2020-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5091.44112,Quarrying Ventures,1
+563,2020-06-01,Rate (Mt.EFH Km),Actual,Month,5022.3762,Quarrying Ventures,1
+564,2020-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7922.14176,Geomining Innovations,1
+565,2020-06-01,Rate (Mt.EFH Km),Actual,Month,8627.24268,Geomining Innovations,1
+566,2020-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4750.27632,Core Extraction Systems,1
+567,2020-06-01,Rate (Mt.EFH Km),Actual,Month,5945.52564,Core Extraction Systems,1
+568,2020-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4028.65152,Mineral Extraction Technologies,1
+569,2020-06-01,Rate (Mt.EFH Km),Actual,Month,4241.23608,Mineral Extraction Technologies,1
+570,2020-06-01,Coal Mined (Mt),Actual,Year-To-Date,37.74936,Deep Earth Exploration Unit,1000000
+571,2020-06-01,Coal Mined (Mt),Actual,Month,6.711,Deep Earth Exploration Unit,1000000
+572,2020-06-01,Coal Mined (Mt),Plan,Year-To-Date,41.79312,Deep Earth Exploration Unit,1000000
+573,2020-07-01,Coal Mined (Mt),Actual,Year-To-Date,10.26444,ACME,1000000
+574,2020-07-01,Coal Mined (Mt),Actual,Month,1.4988,ACME,1000000
+575,2020-07-01,Coal Dry Mining (Mt),Plan,Month,0.34824,ACME,1000000
+576,2020-07-01,Utility (%),Actual,Year-To-Date,47.66436,Deep Earth Exploration Unit,1
+577,2020-07-01,Utility (%),Actual,Month,58.18584,Deep Earth Exploration Unit,1
+578,2020-07-01,Utility (%),Plan,Year-To-Date,59.16,Deep Earth Exploration Unit,1
+579,2020-07-01,Utility (%),Plan,Month,59.4,Deep Earth Exploration Unit,1
+580,2020-07-01,Coal Mined (Mt),Plan,Year-To-Date,7.66644,ACME,1000000
+581,2020-07-01,Coal Mined (Mt),Plan,Month,1.70952,ACME,1000000
+582,2020-07-01,Yield (%),Actual,Year-To-Date,36.14688,Deep Earth Exploration Unit,1
+583,2020-07-01,Yield (%),Actual,Month,36.25008,Deep Earth Exploration Unit,1
+584,2020-07-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+585,2020-07-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+586,2020-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,8.13828,Deep Earth Exploration Unit,1000000
+587,2020-07-01,Coal Dry Mining (Mt),Actual,Month,1.42224,Deep Earth Exploration Unit,1000000
+588,2020-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+589,2020-07-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+590,2020-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.75904,ACME,1000000
+591,2020-07-01,Coal Dry Mining (Mt),Actual,Month,0.5712,ACME,1000000
+592,2020-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.99416,ACME,1000000
+593,2020-07-01,Drills per Hour (TOH),Actual,Month,29948.9166,Pacific Surface Mining Solutions,1
+594,2020-07-01,Drills per Hour (TOH),Actual,Month,24453.85632,Geomining Innovations,1
+595,2020-07-01,Drills per Hour (TOH),Actual,Month,265.10496,Deep Earth Exploration Unit,1
+596,2020-07-01,Drills per Hour (TOH),Actual,Month,120.77508,ACME,1
+597,2020-07-01,Drills per Hour (TOH),Actual,Month,49256.69136,Rock Solid Enterprises,1
+598,2020-07-01,Drills per Hour (TOH),Actual,Month,5039.96232,Core Extraction Systems,1
+599,2020-07-01,Drills per Hour (TOH),Actual,Month,7152.09708,Mineral Extraction Technologies,1
+600,2020-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5049.49224,Quarrying Ventures,1
+601,2020-07-01,Rate (Mt.EFH Km),Actual,Month,4803.21204,Quarrying Ventures,1
+602,2020-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7935.13416,Geomining Innovations,1
+603,2020-07-01,Rate (Mt.EFH Km),Actual,Month,8011.39464,Geomining Innovations,1
+604,2020-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4992.34452,Core Extraction Systems,1
+605,2020-07-01,Rate (Mt.EFH Km),Actual,Month,6378.6966,Core Extraction Systems,1
+606,2020-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4056.1446,Mineral Extraction Technologies,1
+607,2020-07-01,Rate (Mt.EFH Km),Actual,Month,4206.86376,Mineral Extraction Technologies,1
+608,2020-07-01,Coal Mined (Mt),Actual,Year-To-Date,44.66388,Deep Earth Exploration Unit,1000000
+609,2020-07-01,Coal Mined (Mt),Actual,Month,6.91452,Deep Earth Exploration Unit,1000000
+610,2020-07-01,Coal Mined (Mt),Plan,Year-To-Date,49.45956,Deep Earth Exploration Unit,1000000
+611,2020-08-01,Coal Mined (Mt),Actual,Year-To-Date,11.86608,ACME,1000000
+612,2020-08-01,Coal Mined (Mt),Actual,Month,1.60164,ACME,1000000
+613,2020-08-01,Coal Dry Mining (Mt),Plan,Month,0.34824,ACME,1000000
+614,2020-08-01,Utility (%),Actual,Year-To-Date,48.96876,Deep Earth Exploration Unit,1
+615,2020-08-01,Utility (%),Actual,Month,58.09932,Deep Earth Exploration Unit,1
+616,2020-08-01,Utility (%),Plan,Year-To-Date,60.285,Deep Earth Exploration Unit,1
+617,2020-08-01,Utility (%),Plan,Month,68.16,Deep Earth Exploration Unit,1
+618,2020-08-01,Coal Mined (Mt),Plan,Year-To-Date,7.66644,ACME,1000000
+619,2020-08-01,Coal Mined (Mt),Plan,Month,1.76376,ACME,1000000
+620,2020-08-01,Yield (%),Actual,Year-To-Date,36.98076,Deep Earth Exploration Unit,1
+621,2020-08-01,Yield (%),Actual,Month,42.81816,Deep Earth Exploration Unit,1
+622,2020-08-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+623,2020-08-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+624,2020-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.58164,Deep Earth Exploration Unit,1000000
+625,2020-08-01,Coal Dry Mining (Mt),Actual,Month,1.44336,Deep Earth Exploration Unit,1000000
+626,2020-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+627,2020-08-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+628,2020-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.2748,ACME,1000000
+629,2020-08-01,Coal Dry Mining (Mt),Actual,Month,0.51576,ACME,1000000
+630,2020-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.34228,ACME,1000000
+631,2020-08-01,Drills per Hour (TOH),Actual,Month,29895.6972,Pacific Surface Mining Solutions,1
+632,2020-08-01,Drills per Hour (TOH),Actual,Month,23593.58616,Geomining Innovations,1
+633,2020-08-01,Drills per Hour (TOH),Actual,Month,269.47272,Deep Earth Exploration Unit,1
+634,2020-08-01,Drills per Hour (TOH),Actual,Month,157.74288,ACME,1
+635,2020-08-01,Drills per Hour (TOH),Actual,Month,49389.98808,Rock Solid Enterprises,1
+636,2020-08-01,Drills per Hour (TOH),Actual,Month,4955.7582,Core Extraction Systems,1
+637,2020-08-01,Drills per Hour (TOH),Actual,Month,6623.68788,Mineral Extraction Technologies,1
+638,2020-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5010.35952,Quarrying Ventures,1
+639,2020-08-01,Rate (Mt.EFH Km),Actual,Month,4741.47924,Quarrying Ventures,1
+640,2020-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7978.42668,Geomining Innovations,1
+641,2020-08-01,Rate (Mt.EFH Km),Actual,Month,8275.83012,Geomining Innovations,1
+642,2020-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5014.31964,Core Extraction Systems,1
+643,2020-08-01,Rate (Mt.EFH Km),Actual,Month,5162.14908,Core Extraction Systems,1
+644,2020-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4028.42928,Mineral Extraction Technologies,1
+645,2020-08-01,Rate (Mt.EFH Km),Actual,Month,3843.9834,Mineral Extraction Technologies,1
+646,2020-08-01,Coal Mined (Mt),Actual,Year-To-Date,52.12344,Deep Earth Exploration Unit,1000000
+647,2020-08-01,Coal Mined (Mt),Actual,Month,7.45956,Deep Earth Exploration Unit,1000000
+648,2020-08-01,Coal Mined (Mt),Plan,Year-To-Date,57.126,Deep Earth Exploration Unit,1000000
+649,2020-09-01,Coal Mined (Mt),Actual,Year-To-Date,13.70244,ACME,1000000
+650,2020-09-01,Coal Mined (Mt),Actual,Month,1.83636,ACME,1000000
+651,2020-09-01,Coal Dry Mining (Mt),Plan,Month,0.33696,ACME,1000000
+652,2020-09-01,Utility (%),Actual,Year-To-Date,49.2,Deep Earth Exploration Unit,1
+653,2020-09-01,Utility (%),Actual,Month,57.6,Deep Earth Exploration Unit,1
+654,2020-09-01,Utility (%),Plan,Year-To-Date,61.11996,Deep Earth Exploration Unit,1
+655,2020-09-01,Utility (%),Plan,Month,67.8,Deep Earth Exploration Unit,1
+656,2020-09-01,Coal Mined (Mt),Plan,Year-To-Date,5.06916,ACME,1000000
+657,2020-09-01,Coal Mined (Mt),Plan,Month,1.80396,ACME,1000000
+658,2020-09-01,Yield (%),Actual,Year-To-Date,37.2,Deep Earth Exploration Unit,1
+659,2020-09-01,Yield (%),Actual,Month,42.0,Deep Earth Exploration Unit,1
+660,2020-09-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+661,2020-09-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+662,2020-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,10.99188,Deep Earth Exploration Unit,1000000
+663,2020-09-01,Coal Dry Mining (Mt),Actual,Month,1.41024,Deep Earth Exploration Unit,1000000
+664,2020-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+665,2020-09-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+666,2020-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.78132,ACME,1000000
+667,2020-09-01,Coal Dry Mining (Mt),Actual,Month,0.50664,ACME,1000000
+668,2020-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.67924,ACME,1000000
+669,2020-09-01,Drills per Hour (TOH),Actual,Month,30009.67236,Pacific Surface Mining Solutions,1
+670,2020-09-01,Drills per Hour (TOH),Actual,Month,20032.47588,Geomining Innovations,1
+671,2020-09-01,Drills per Hour (TOH),Actual,Month,258.48432,Deep Earth Exploration Unit,1
+672,2020-09-01,Drills per Hour (TOH),Actual,Month,143.08392,ACME,1
+673,2020-09-01,Drills per Hour (TOH),Actual,Month,48561.77412,Rock Solid Enterprises,1
+674,2020-09-01,Drills per Hour (TOH),Actual,Month,5488.97676,Core Extraction Systems,1
+675,2020-09-01,Drills per Hour (TOH),Actual,Month,6722.65764,Mineral Extraction Technologies,1
+676,2020-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5016.10944,Quarrying Ventures,1
+677,2020-09-01,Rate (Mt.EFH Km),Actual,Month,5062.8762,Quarrying Ventures,1
+678,2020-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8001.90888,Geomining Innovations,1
+679,2020-09-01,Rate (Mt.EFH Km),Actual,Month,8192.86524,Geomining Innovations,1
+680,2020-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5052.7188,Core Extraction Systems,1
+681,2020-09-01,Rate (Mt.EFH Km),Actual,Month,5359.32432,Core Extraction Systems,1
+682,2020-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4097.47728,Mineral Extraction Technologies,1
+683,2020-09-01,Rate (Mt.EFH Km),Actual,Month,4660.7598,Mineral Extraction Technologies,1
+684,2020-09-01,Coal Mined (Mt),Actual,Year-To-Date,59.11908,Deep Earth Exploration Unit,1000000
+685,2020-09-01,Coal Mined (Mt),Actual,Month,6.99576,Deep Earth Exploration Unit,1000000
+686,2020-09-01,Coal Mined (Mt),Plan,Year-To-Date,62.19516,Deep Earth Exploration Unit,1000000
+687,2020-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5151.35184,Core Extraction Systems,1
+688,2020-10-01,Rate (Mt.EFH Km),Actual,Month,5991.01584,Core Extraction Systems,1
+689,2020-10-01,Utility (%),Actual,Month,49.371,Deep Earth Exploration Unit,1
+690,2020-10-01,Utility (%),Plan,Year-To-Date,61.56,Deep Earth Exploration Unit,1
+691,2020-10-01,Utility (%),Plan,Month,65.52,Deep Earth Exploration Unit,1
+692,2020-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+693,2020-10-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+694,2020-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,4.15452,ACME,1000000
+695,2020-10-01,Coal Dry Mining (Mt),Actual,Month,0.3732,ACME,1000000
+696,2020-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.02748,ACME,1000000
+697,2020-10-01,Coal Dry Mining (Mt),Plan,Month,0.34824,ACME,1000000
+698,2020-10-01,Utility (%),Actual,Year-To-Date,49.2,Deep Earth Exploration Unit,1
+699,2020-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4107.15684,Mineral Extraction Technologies,1
+700,2020-10-01,Rate (Mt.EFH Km),Actual,Month,4192.94112,Mineral Extraction Technologies,1
+701,2020-10-01,Coal Mined (Mt),Actual,Year-To-Date,65.10216,Deep Earth Exploration Unit,1000000
+702,2020-10-01,Coal Mined (Mt),Actual,Month,5.98296,Deep Earth Exploration Unit,1000000
+703,2020-10-01,Coal Mined (Mt),Plan,Year-To-Date,69.50448,Deep Earth Exploration Unit,1000000
+704,2020-10-01,Coal Mined (Mt),Plan,Month,7.30932,Deep Earth Exploration Unit,1000000
+705,2020-10-01,Coal Mined (Mt),Actual,Year-To-Date,15.23604,ACME,1000000
+706,2020-10-01,Coal Mined (Mt),Actual,Month,1.5336,ACME,1000000
+707,2020-10-01,Coal Mined (Mt),Plan,Year-To-Date,7.30932,ACME,1000000
+708,2020-10-01,Coal Mined (Mt),Plan,Month,1.9008,ACME,1000000
+709,2020-10-01,Yield (%),Actual,Year-To-Date,34.68,Deep Earth Exploration Unit,1
+710,2020-10-01,Yield (%),Actual,Month,34.64388,Deep Earth Exploration Unit,1
+711,2020-10-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+712,2020-10-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+713,2020-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,12.38616,Deep Earth Exploration Unit,1000000
+714,2020-10-01,Coal Dry Mining (Mt),Actual,Month,1.39428,Deep Earth Exploration Unit,1000000
+715,2020-10-01,Drills per Hour (TOH),Actual,Month,30615.61164,Pacific Surface Mining Solutions,1
+716,2020-10-01,Drills per Hour (TOH),Actual,Month,25792.14324,Geomining Innovations,1
+717,2020-10-01,Drills per Hour (TOH),Actual,Month,225.94044,Deep Earth Exploration Unit,1
+718,2020-10-01,Drills per Hour (TOH),Actual,Month,123.40128,ACME,1
+719,2020-10-01,Drills per Hour (TOH),Actual,Month,46883.3478,Rock Solid Enterprises,1
+720,2020-10-01,Drills per Hour (TOH),Actual,Month,5346.56436,Core Extraction Systems,1
+721,2020-10-01,Drills per Hour (TOH),Actual,Month,6717.26952,Mineral Extraction Technologies,1
+722,2020-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5004.59064,Quarrying Ventures,1
+723,2020-10-01,Rate (Mt.EFH Km),Actual,Month,4902.7788,Quarrying Ventures,1
+724,2020-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8049.80136,Geomining Innovations,1
+725,2020-11-01,Coal Mined (Mt),Actual,Year-To-Date,16.96416,ACME,1000000
+726,2020-11-01,Coal Mined (Mt),Actual,Month,1.72812,ACME,1000000
+727,2020-11-01,Coal Dry Mining (Mt),Plan,Month,0.33696,ACME,1000000
+728,2020-11-01,Utility (%),Actual,Year-To-Date,48.93636,Deep Earth Exploration Unit,1
+729,2020-11-01,Utility (%),Actual,Month,39.19164,Deep Earth Exploration Unit,1
+730,2020-11-01,Utility (%),Plan,Year-To-Date,61.9854,Deep Earth Exploration Unit,1
+731,2020-11-01,Utility (%),Plan,Month,66.24,Deep Earth Exploration Unit,1
+732,2020-11-01,Coal Mined (Mt),Plan,Year-To-Date,7.41912,ACME,1000000
+733,2020-11-01,Coal Mined (Mt),Plan,Month,1.77552,ACME,1000000
+734,2020-11-01,Yield (%),Actual,Year-To-Date,35.5896,Deep Earth Exploration Unit,1
+735,2020-11-01,Yield (%),Actual,Month,44.60736,Deep Earth Exploration Unit,1
+736,2020-11-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+737,2020-11-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+738,2020-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,14.10504,Deep Earth Exploration Unit,1000000
+739,2020-11-01,Coal Dry Mining (Mt),Actual,Month,1.71888,Deep Earth Exploration Unit,1000000
+740,2020-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+741,2020-11-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+742,2020-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,4.65432,ACME,1000000
+743,2020-11-01,Coal Dry Mining (Mt),Actual,Month,0.49968,ACME,1000000
+744,2020-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.36444,ACME,1000000
+745,2020-11-01,Drills per Hour (TOH),Actual,Month,30943.89504,Pacific Surface Mining Solutions,1
+746,2020-11-01,Drills per Hour (TOH),Actual,Month,24547.69356,Geomining Innovations,1
+747,2020-11-01,Drills per Hour (TOH),Actual,Month,204.1854,Deep Earth Exploration Unit,1
+748,2020-11-01,Drills per Hour (TOH),Actual,Month,141.22596,ACME,1
+749,2020-11-01,Drills per Hour (TOH),Actual,Month,49329.28404,Rock Solid Enterprises,1
+750,2020-11-01,Drills per Hour (TOH),Actual,Month,4904.87652,Core Extraction Systems,1
+751,2020-11-01,Drills per Hour (TOH),Actual,Month,6999.396,Mineral Extraction Technologies,1
+752,2020-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4973.5608,Quarrying Ventures,1
+753,2020-11-01,Rate (Mt.EFH Km),Actual,Month,4658.09052,Quarrying Ventures,1
+754,2020-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8085.39528,Geomining Innovations,1
+755,2020-11-01,Rate (Mt.EFH Km),Actual,Month,8463.96924,Geomining Innovations,1
+756,2020-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5177.61648,Core Extraction Systems,1
+757,2020-11-01,Rate (Mt.EFH Km),Actual,Month,5417.2452,Core Extraction Systems,1
+758,2020-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4136.33328,Mineral Extraction Technologies,1
+759,2020-11-01,Rate (Mt.EFH Km),Actual,Month,4433.67648,Mineral Extraction Technologies,1
+760,2020-11-01,Coal Mined (Mt),Actual,Year-To-Date,71.0634,Deep Earth Exploration Unit,1000000
+761,2020-11-01,Coal Mined (Mt),Actual,Month,5.96124,Deep Earth Exploration Unit,1000000
+762,2020-11-01,Coal Mined (Mt),Plan,Year-To-Date,76.92372,Deep Earth Exploration Unit,1000000
+763,2020-12-01,Coal Mined (Mt),Actual,Year-To-Date,18.39888,ACME,1000000
+764,2020-12-01,Coal Mined (Mt),Actual,Month,1.43472,ACME,1000000
+765,2020-12-01,Coal Dry Mining (Mt),Plan,Month,0.34824,ACME,1000000
+766,2020-12-01,Utility (%),Actual,Year-To-Date,49.15884,Deep Earth Exploration Unit,1
+767,2020-12-01,Utility (%),Actual,Month,51.48,Deep Earth Exploration Unit,1
+768,2020-12-01,Utility (%),Plan,Year-To-Date,62.43996,Deep Earth Exploration Unit,1
+769,2020-12-01,Utility (%),Plan,Month,67.44,Deep Earth Exploration Unit,1
+770,2020-12-01,Coal Mined (Mt),Plan,Year-To-Date,7.66644,ACME,1000000
+771,2020-12-01,Coal Mined (Mt),Plan,Month,1.72368,ACME,1000000
+772,2020-12-01,Yield (%),Actual,Year-To-Date,37.22724,Deep Earth Exploration Unit,1
+773,2020-12-01,Yield (%),Actual,Month,36.95028,Deep Earth Exploration Unit,1
+774,2020-12-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+775,2020-12-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+776,2020-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,15.83088,Deep Earth Exploration Unit,1000000
+777,2020-12-01,Coal Dry Mining (Mt),Actual,Month,1.72584,Deep Earth Exploration Unit,1000000
+778,2020-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.0,Deep Earth Exploration Unit,1000000
+779,2020-12-01,Coal Dry Mining (Mt),Plan,Month,0.0,Deep Earth Exploration Unit,1000000
+780,2020-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.04084,ACME,1000000
+781,2020-12-01,Coal Dry Mining (Mt),Actual,Month,0.38664,ACME,1000000
+782,2020-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.71256,ACME,1000000
+783,2020-12-01,Drills per Hour (TOH),Actual,Month,30987.1872,Pacific Surface Mining Solutions,1
+784,2020-12-01,Drills per Hour (TOH),Actual,Month,33287.8896,Geomining Innovations,1
+785,2020-12-01,Drills per Hour (TOH),Actual,Month,228.09516,Deep Earth Exploration Unit,1
+786,2020-12-01,Drills per Hour (TOH),Actual,Month,127.87656,ACME,1
+787,2020-12-01,Drills per Hour (TOH),Actual,Month,49956.92424,Rock Solid Enterprises,1
+788,2020-12-01,Drills per Hour (TOH),Actual,Month,4922.54256,Core Extraction Systems,1
+789,2020-12-01,Drills per Hour (TOH),Actual,Month,7115.36124,Mineral Extraction Technologies,1
+790,2020-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5014.75452,Quarrying Ventures,1
+791,2020-12-01,Rate (Mt.EFH Km),Actual,Month,5459.9124,Quarrying Ventures,1
+792,2020-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8042.95284,Geomining Innovations,1
+793,2020-12-01,Rate (Mt.EFH Km),Actual,Month,7565.02728,Geomining Innovations,1
+794,2020-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5155.01628,Core Extraction Systems,1
+795,2020-12-01,Rate (Mt.EFH Km),Actual,Month,4946.06352,Core Extraction Systems,1
+796,2020-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4151.08272,Mineral Extraction Technologies,1
+797,2020-12-01,Rate (Mt.EFH Km),Actual,Month,4305.40332,Mineral Extraction Technologies,1
+798,2020-12-01,Coal Mined (Mt),Actual,Year-To-Date,76.03476,Deep Earth Exploration Unit,1000000
+799,2020-12-01,Coal Mined (Mt),Actual,Month,4.97148,Deep Earth Exploration Unit,1000000
+800,2020-12-01,Coal Mined (Mt),Plan,Year-To-Date,84.59016,Deep Earth Exploration Unit,1000000
+801,2021-01-01,Rate (Mt.EFH Km),Actual,Month,4038.66672,Core Extraction Systems,1
+802,2021-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3693.65736,Mineral Extraction Technologies,1
+803,2021-01-01,Utility (%),Plan,Year-To-Date,42.37296,Deep Earth Exploration Unit,1
+804,2021-01-01,Utility (%),Plan,Month,42.37296,Deep Earth Exploration Unit,1
+805,2021-01-01,Coal Dry Mining (Mt),Actual,Month,1.6722,Deep Earth Exploration Unit,1000000
+806,2021-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.40516,Deep Earth Exploration Unit,1000000
+807,2021-01-01,Coal Dry Mining (Mt),Plan,Month,2.40516,Deep Earth Exploration Unit,1000000
+808,2021-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.57312,ACME,1000000
+809,2021-01-01,Coal Dry Mining (Mt),Actual,Month,0.57312,ACME,1000000
+810,2021-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.4218,ACME,1000000
+811,2021-01-01,Coal Dry Mining (Mt),Plan,Month,0.4218,ACME,1000000
+812,2021-01-01,Utility (%),Actual,Year-To-Date,45.85956,Deep Earth Exploration Unit,1
+813,2021-01-01,Utility (%),Actual,Month,45.85956,Deep Earth Exploration Unit,1
+814,2021-01-01,Rate (Mt.EFH Km),Actual,Month,3693.65736,Mineral Extraction Technologies,1
+815,2021-01-01,Coal Mined (Mt),Actual,Year-To-Date,6.83256,Deep Earth Exploration Unit,1000000
+816,2021-01-01,Coal Mined (Mt),Actual,Month,6.83256,Deep Earth Exploration Unit,1000000
+817,2021-01-01,Coal Mined (Mt),Plan,Year-To-Date,7.02156,Deep Earth Exploration Unit,1000000
+818,2021-01-01,Coal Mined (Mt),Plan,Month,7.02156,Deep Earth Exploration Unit,1000000
+819,2021-01-01,Coal Mined (Mt),Actual,Year-To-Date,1.9338,ACME,1000000
+820,2021-01-01,Coal Mined (Mt),Actual,Month,1.9338,ACME,1000000
+821,2021-01-01,Coal Mined (Mt),Plan,Year-To-Date,1.87488,ACME,1000000
+822,2021-01-01,Coal Mined (Mt),Plan,Month,1.87488,ACME,1000000
+823,2021-01-01,Yield (%),Actual,Year-To-Date,38.2398,Deep Earth Exploration Unit,1
+824,2021-01-01,Yield (%),Actual,Month,38.2398,Deep Earth Exploration Unit,1
+825,2021-01-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+826,2021-01-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+827,2021-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.6722,Deep Earth Exploration Unit,1000000
+828,2021-01-01,Drills per Hour (TOH),Actual,Month,31369.46412,Pacific Surface Mining Solutions,1
+829,2021-01-01,Drills per Hour (TOH),Actual,Month,24127.72692,Geomining Innovations,1
+830,2021-01-01,Drills per Hour (TOH),Actual,Month,215.3586,Deep Earth Exploration Unit,1
+831,2021-01-01,Drills per Hour (TOH),Actual,Month,128.38116,ACME,1
+832,2021-01-01,Drills per Hour (TOH),Actual,Month,49352.67396,Rock Solid Enterprises,1
+833,2021-01-01,Drills per Hour (TOH),Actual,Month,4728.12528,Core Extraction Systems,1
+834,2021-01-01,Drills per Hour (TOH),Actual,Month,6616.74012,Mineral Extraction Technologies,1
+835,2021-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5852.1516,Quarrying Ventures,1
+836,2021-01-01,Rate (Mt.EFH Km),Actual,Month,5852.1516,Quarrying Ventures,1
+837,2021-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8217.603,Geomining Innovations,1
+838,2021-01-01,Rate (Mt.EFH Km),Actual,Month,8217.603,Geomining Innovations,1
+839,2021-02-01,Coal Mined (Mt),Actual,Year-To-Date,3.64776,ACME,1000000
+840,2021-02-01,Coal Mined (Mt),Actual,Month,1.71396,ACME,1000000
+841,2021-02-01,Coal Dry Mining (Mt),Plan,Month,0.381,ACME,1000000
+842,2021-02-01,Utility (%),Actual,Year-To-Date,46.3794,Deep Earth Exploration Unit,1
+843,2021-02-01,Utility (%),Actual,Month,46.89924,Deep Earth Exploration Unit,1
+844,2021-02-01,Utility (%),Plan,Year-To-Date,46.35252,Deep Earth Exploration Unit,1
+845,2021-02-01,Utility (%),Plan,Month,50.33208,Deep Earth Exploration Unit,1
+846,2021-02-01,Coal Mined (Mt),Plan,Year-To-Date,3.46428,ACME,1000000
+847,2021-02-01,Coal Mined (Mt),Plan,Month,1.5894,ACME,1000000
+848,2021-02-01,Yield (%),Actual,Year-To-Date,40.37112,Deep Earth Exploration Unit,1
+849,2021-02-01,Yield (%),Actual,Month,42.50244,Deep Earth Exploration Unit,1
+850,2021-02-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+851,2021-02-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+852,2021-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.11112,Deep Earth Exploration Unit,1000000
+853,2021-02-01,Coal Dry Mining (Mt),Actual,Month,1.43892,Deep Earth Exploration Unit,1000000
+854,2021-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.57764,Deep Earth Exploration Unit,1000000
+855,2021-02-01,Coal Dry Mining (Mt),Plan,Month,2.17248,Deep Earth Exploration Unit,1000000
+856,2021-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.03056,ACME,1000000
+857,2021-02-01,Coal Dry Mining (Mt),Actual,Month,0.45756,ACME,1000000
+858,2021-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.80292,ACME,1000000
+859,2021-02-01,Drills per Hour (TOH),Actual,Month,31331.31252,Pacific Surface Mining Solutions,1
+860,2021-02-01,Drills per Hour (TOH),Actual,Month,25226.26104,Geomining Innovations,1
+861,2021-02-01,Drills per Hour (TOH),Actual,Month,206.26044,Deep Earth Exploration Unit,1
+862,2021-02-01,Drills per Hour (TOH),Actual,Month,162.7572,ACME,1
+863,2021-02-01,Drills per Hour (TOH),Actual,Month,49116.15432,Rock Solid Enterprises,1
+864,2021-02-01,Drills per Hour (TOH),Actual,Month,7121.14896,Core Extraction Systems,1
+865,2021-02-01,Drills per Hour (TOH),Actual,Month,6047.64696,Mineral Extraction Technologies,1
+866,2021-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6018.60432,Quarrying Ventures,1
+867,2021-02-01,Rate (Mt.EFH Km),Actual,Month,6198.98472,Quarrying Ventures,1
+868,2021-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7747.03488,Geomining Innovations,1
+869,2021-02-01,Rate (Mt.EFH Km),Actual,Month,7192.53504,Geomining Innovations,1
+870,2021-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3708.0852,Core Extraction Systems,1
+871,2021-02-01,Rate (Mt.EFH Km),Actual,Month,3345.30636,Core Extraction Systems,1
+872,2021-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3511.2918,Mineral Extraction Technologies,1
+873,2021-02-01,Rate (Mt.EFH Km),Actual,Month,3309.38712,Mineral Extraction Technologies,1
+874,2021-02-01,Coal Mined (Mt),Actual,Year-To-Date,12.89268,Deep Earth Exploration Unit,1000000
+875,2021-02-01,Coal Mined (Mt),Actual,Month,6.06,Deep Earth Exploration Unit,1000000
+876,2021-02-01,Coal Mined (Mt),Plan,Year-To-Date,13.36068,Deep Earth Exploration Unit,1000000
+877,2021-03-01,Coal Mined (Mt),Actual,Year-To-Date,5.67624,ACME,1000000
+878,2021-03-01,Coal Mined (Mt),Actual,Month,2.02848,ACME,1000000
+879,2021-03-01,Coal Dry Mining (Mt),Plan,Month,0.4218,ACME,1000000
+880,2021-03-01,Utility (%),Actual,Year-To-Date,47.74428,Deep Earth Exploration Unit,1
+881,2021-03-01,Utility (%),Actual,Month,50.47416,Deep Earth Exploration Unit,1
+882,2021-03-01,Utility (%),Plan,Year-To-Date,47.67036,Deep Earth Exploration Unit,1
+883,2021-03-01,Utility (%),Plan,Month,50.3058,Deep Earth Exploration Unit,1
+884,2021-03-01,Coal Mined (Mt),Plan,Year-To-Date,5.22396,ACME,1000000
+885,2021-03-01,Coal Mined (Mt),Plan,Month,1.75968,ACME,1000000
+886,2021-03-01,Yield (%),Actual,Year-To-Date,38.54412,Deep Earth Exploration Unit,1
+887,2021-03-01,Yield (%),Actual,Month,34.88988,Deep Earth Exploration Unit,1
+888,2021-03-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+889,2021-03-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+890,2021-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.61852,Deep Earth Exploration Unit,1000000
+891,2021-03-01,Coal Dry Mining (Mt),Actual,Month,1.62876,Deep Earth Exploration Unit,1000000
+892,2021-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,6.9828,Deep Earth Exploration Unit,1000000
+893,2021-03-01,Coal Dry Mining (Mt),Plan,Month,2.40516,Deep Earth Exploration Unit,1000000
+894,2021-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.66992,ACME,1000000
+895,2021-03-01,Coal Dry Mining (Mt),Actual,Month,0.63936,ACME,1000000
+896,2021-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.22472,ACME,1000000
+897,2021-03-01,Drills per Hour (TOH),Actual,Month,31519.25088,Pacific Surface Mining Solutions,1
+898,2021-03-01,Drills per Hour (TOH),Actual,Month,24354.46644,Geomining Innovations,1
+899,2021-03-01,Drills per Hour (TOH),Actual,Month,219.90336,Deep Earth Exploration Unit,1
+900,2021-03-01,Drills per Hour (TOH),Actual,Month,143.253,ACME,1
+901,2021-03-01,Drills per Hour (TOH),Actual,Month,49759.17804,Rock Solid Enterprises,1
+902,2021-03-01,Drills per Hour (TOH),Actual,Month,5914.47456,Core Extraction Systems,1
+903,2021-03-01,Drills per Hour (TOH),Actual,Month,6802.87812,Mineral Extraction Technologies,1
+904,2021-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5729.42016,Quarrying Ventures,1
+905,2021-03-01,Rate (Mt.EFH Km),Actual,Month,5222.976,Quarrying Ventures,1
+906,2021-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,7979.0076,Geomining Innovations,1
+907,2021-03-01,Rate (Mt.EFH Km),Actual,Month,8429.52816,Geomining Innovations,1
+908,2021-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3757.94616,Core Extraction Systems,1
+909,2021-03-01,Rate (Mt.EFH Km),Actual,Month,3851.07276,Core Extraction Systems,1
+910,2021-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3697.8858,Mineral Extraction Technologies,1
+911,2021-03-01,Rate (Mt.EFH Km),Actual,Month,4030.40412,Mineral Extraction Technologies,1
+912,2021-03-01,Coal Mined (Mt),Actual,Year-To-Date,19.82292,Deep Earth Exploration Unit,1000000
+913,2021-03-01,Coal Mined (Mt),Actual,Month,6.93024,Deep Earth Exploration Unit,1000000
+914,2021-03-01,Coal Mined (Mt),Plan,Year-To-Date,20.379,Deep Earth Exploration Unit,1000000
+915,2021-04-01,Coal Mined (Mt),Actual,Year-To-Date,7.36212,ACME,1000000
+916,2021-04-01,Coal Mined (Mt),Actual,Month,1.686,ACME,1000000
+917,2021-04-01,Coal Dry Mining (Mt),Plan,Month,0.43548,ACME,1000000
+918,2021-04-01,Utility (%),Actual,Year-To-Date,51.03204,Deep Earth Exploration Unit,1
+919,2021-04-01,Utility (%),Actual,Month,60.89508,Deep Earth Exploration Unit,1
+920,2021-04-01,Utility (%),Plan,Year-To-Date,52.44036,Deep Earth Exploration Unit,1
+921,2021-04-01,Utility (%),Plan,Month,66.7506,Deep Earth Exploration Unit,1
+922,2021-04-01,Coal Mined (Mt),Plan,Year-To-Date,6.91908,ACME,1000000
+923,2021-04-01,Coal Mined (Mt),Plan,Month,1.69512,ACME,1000000
+924,2021-04-01,Yield (%),Actual,Year-To-Date,38.08776,Deep Earth Exploration Unit,1
+925,2021-04-01,Yield (%),Actual,Month,36.71868,Deep Earth Exploration Unit,1
+926,2021-04-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+927,2021-04-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+928,2021-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.04848,Deep Earth Exploration Unit,1000000
+929,2021-04-01,Coal Dry Mining (Mt),Actual,Month,1.64508,Deep Earth Exploration Unit,1000000
+930,2021-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,6.43332,Deep Earth Exploration Unit,1000000
+931,2021-04-01,Coal Dry Mining (Mt),Plan,Month,1.60836,Deep Earth Exploration Unit,1000000
+932,2021-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.29128,ACME,1000000
+933,2021-04-01,Coal Dry Mining (Mt),Actual,Month,0.62136,ACME,1000000
+934,2021-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.6602,ACME,1000000
+935,2021-04-01,Drills per Hour (TOH),Actual,Month,31493.08824,Pacific Surface Mining Solutions,1
+936,2021-04-01,Drills per Hour (TOH),Actual,Month,16120.28952,Geomining Innovations,1
+937,2021-04-01,Drills per Hour (TOH),Actual,Month,214.77132,Deep Earth Exploration Unit,1
+938,2021-04-01,Drills per Hour (TOH),Actual,Month,159.71316,ACME,1
+939,2021-04-01,Drills per Hour (TOH),Actual,Month,50196.44004,Rock Solid Enterprises,1
+940,2021-04-01,Drills per Hour (TOH),Actual,Month,4990.11312,Core Extraction Systems,1
+941,2021-04-01,Drills per Hour (TOH),Actual,Month,6986.1978,Mineral Extraction Technologies,1
+942,2021-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5708.36712,Quarrying Ventures,1
+943,2021-04-01,Rate (Mt.EFH Km),Actual,Month,5649.12276,Quarrying Ventures,1
+944,2021-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8250.99732,Geomining Innovations,1
+945,2021-04-01,Rate (Mt.EFH Km),Actual,Month,9132.07524,Geomining Innovations,1
+946,2021-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3785.60952,Core Extraction Systems,1
+947,2021-04-01,Rate (Mt.EFH Km),Actual,Month,3867.32604,Core Extraction Systems,1
+948,2021-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3650.02536,Mineral Extraction Technologies,1
+949,2021-04-01,Rate (Mt.EFH Km),Actual,Month,3506.56992,Mineral Extraction Technologies,1
+950,2021-04-01,Coal Mined (Mt),Actual,Year-To-Date,27.5772,Deep Earth Exploration Unit,1000000
+951,2021-04-01,Coal Mined (Mt),Actual,Month,7.7544,Deep Earth Exploration Unit,1000000
+952,2021-04-01,Coal Mined (Mt),Plan,Year-To-Date,28.05036,Deep Earth Exploration Unit,1000000
+953,2021-05-01,Coal Mined (Mt),Actual,Year-To-Date,9.25548,ACME,1000000
+954,2021-05-01,Coal Mined (Mt),Actual,Month,1.89336,ACME,1000000
+955,2021-05-01,Coal Dry Mining (Mt),Plan,Month,0.45,ACME,1000000
+956,2021-05-01,Utility (%),Actual,Year-To-Date,51.864,Deep Earth Exploration Unit,1
+957,2021-05-01,Utility (%),Actual,Month,55.74,Deep Earth Exploration Unit,1
+958,2021-05-01,Utility (%),Plan,Year-To-Date,54.3792,Deep Earth Exploration Unit,1
+959,2021-05-01,Utility (%),Plan,Month,62.13468,Deep Earth Exploration Unit,1
+960,2021-05-01,Coal Mined (Mt),Plan,Year-To-Date,8.67084,ACME,1000000
+961,2021-05-01,Coal Mined (Mt),Plan,Month,1.75164,ACME,1000000
+962,2021-05-01,Yield (%),Actual,Year-To-Date,38.532,Deep Earth Exploration Unit,1
+963,2021-05-01,Yield (%),Actual,Month,40.224,Deep Earth Exploration Unit,1
+964,2021-05-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+965,2021-05-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+966,2021-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.4968,Deep Earth Exploration Unit,1000000
+967,2021-05-01,Coal Dry Mining (Mt),Actual,Month,1.69908,Deep Earth Exploration Unit,1000000
+968,2021-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,8.09532,Deep Earth Exploration Unit,1000000
+969,2021-05-01,Coal Dry Mining (Mt),Plan,Month,1.662,Deep Earth Exploration Unit,1000000
+970,2021-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.95968,ACME,1000000
+971,2021-05-01,Coal Dry Mining (Mt),Actual,Month,0.6684,ACME,1000000
+972,2021-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.1102,ACME,1000000
+973,2021-05-01,Drills per Hour (TOH),Actual,Month,31636.74168,Pacific Surface Mining Solutions,1
+974,2021-05-01,Drills per Hour (TOH),Actual,Month,28980.47136,Geomining Innovations,1
+975,2021-05-01,Drills per Hour (TOH),Actual,Month,193.28244,Deep Earth Exploration Unit,1
+976,2021-05-01,Drills per Hour (TOH),Actual,Month,155.59848,ACME,1
+977,2021-05-01,Drills per Hour (TOH),Actual,Month,47247.20928,Rock Solid Enterprises,1
+978,2021-05-01,Drills per Hour (TOH),Actual,Month,4952.26464,Core Extraction Systems,1
+979,2021-05-01,Drills per Hour (TOH),Actual,Month,6676.185,Mineral Extraction Technologies,1
+980,2021-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5418.92604,Quarrying Ventures,1
+981,2021-05-01,Rate (Mt.EFH Km),Actual,Month,4350.59844,Quarrying Ventures,1
+982,2021-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8255.37732,Geomining Innovations,1
+983,2021-05-01,Rate (Mt.EFH Km),Actual,Month,8274.63096,Geomining Innovations,1
+984,2021-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3886.38336,Core Extraction Systems,1
+985,2021-05-01,Rate (Mt.EFH Km),Actual,Month,4263.7818,Core Extraction Systems,1
+986,2021-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3721.1268,Mineral Extraction Technologies,1
+987,2021-05-01,Rate (Mt.EFH Km),Actual,Month,4002.89844,Mineral Extraction Technologies,1
+988,2021-05-01,Coal Mined (Mt),Actual,Year-To-Date,34.59276,Deep Earth Exploration Unit,1000000
+989,2021-05-01,Coal Mined (Mt),Actual,Month,7.01556,Deep Earth Exploration Unit,1000000
+990,2021-05-01,Coal Mined (Mt),Plan,Year-To-Date,35.97744,Deep Earth Exploration Unit,1000000
+991,2021-06-01,Coal Mined (Mt),Plan,Month,6.52044,Deep Earth Exploration Unit,1000000
+992,2021-06-01,Coal Mined (Mt),Actual,Month,2.15868,ACME,1000000
+993,2021-06-01,Coal Dry Mining (Mt),Plan,Month,0.34836,ACME,1000000
+994,2021-06-01,Utility (%),Actual,Year-To-Date,50.988,Deep Earth Exploration Unit,1
+995,2021-06-01,Utility (%),Actual,Month,46.596,Deep Earth Exploration Unit,1
+996,2021-06-01,Utility (%),Plan,Year-To-Date,55.54524,Deep Earth Exploration Unit,1
+997,2021-06-01,Utility (%),Plan,Month,61.37556,Deep Earth Exploration Unit,1
+998,2021-06-01,Coal Mined (Mt),Plan,Year-To-Date,10.11096,ACME,1000000
+999,2021-06-01,Coal Mined (Mt),Plan,Month,1.44012,ACME,1000000
+1000,2021-06-01,Yield (%),Actual,Year-To-Date,38.436,Deep Earth Exploration Unit,1
+1001,2021-06-01,Yield (%),Actual,Month,37.872,Deep Earth Exploration Unit,1
+1002,2021-06-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1003,2021-06-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1004,2021-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.94704,Deep Earth Exploration Unit,1000000
+1005,2021-06-01,Coal Dry Mining (Mt),Actual,Month,0.45024,Deep Earth Exploration Unit,1000000
+1006,2021-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,8.97096,Deep Earth Exploration Unit,1000000
+1007,2021-06-01,Coal Dry Mining (Mt),Plan,Month,0.87564,Deep Earth Exploration Unit,1000000
+1008,2021-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.58512,ACME,1000000
+1009,2021-06-01,Coal Dry Mining (Mt),Actual,Month,0.62544,ACME,1000000
+1010,2021-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.45856,ACME,1000000
+1011,2021-06-01,Drills per Hour (TOH),Actual,Month,30964.71264,Pacific Surface Mining Solutions,1
+1012,2021-06-01,Drills per Hour (TOH),Actual,Month,25747.83552,Geomining Innovations,1
+1013,2021-06-01,Drills per Hour (TOH),Actual,Month,158.26788,Deep Earth Exploration Unit,1
+1014,2021-06-01,Drills per Hour (TOH),Actual,Month,135.88224,ACME,1
+1015,2021-06-01,Drills per Hour (TOH),Actual,Month,48376.05204,Rock Solid Enterprises,1
+1016,2021-06-01,Drills per Hour (TOH),Actual,Month,7131.56712,Core Extraction Systems,1
+1017,2021-06-01,Drills per Hour (TOH),Actual,Month,6773.409,Mineral Extraction Technologies,1
+1018,2021-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5360.78304,Quarrying Ventures,1
+1019,2021-06-01,Rate (Mt.EFH Km),Actual,Month,5078.943,Quarrying Ventures,1
+1020,2021-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8086.50168,Geomining Innovations,1
+1021,2021-06-01,Rate (Mt.EFH Km),Actual,Month,7141.52772,Geomining Innovations,1
+1022,2021-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3848.72892,Core Extraction Systems,1
+1023,2021-06-01,Rate (Mt.EFH Km),Actual,Month,3664.1028,Core Extraction Systems,1
+1024,2021-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3890.56692,Mineral Extraction Technologies,1
+1025,2021-06-01,Rate (Mt.EFH Km),Actual,Month,4760.34948,Mineral Extraction Technologies,1
+1026,2021-06-01,Coal Mined (Mt),Actual,Year-To-Date,37.32408,Deep Earth Exploration Unit,1000000
+1027,2021-06-01,Coal Mined (Mt),Actual,Month,2.7312,Deep Earth Exploration Unit,1000000
+1028,2021-07-01,Coal Mined (Mt),Plan,Month,7.74852,Deep Earth Exploration Unit,1000000
+1029,2021-07-01,Coal Mined (Mt),Actual,Year-To-Date,13.1274,ACME,1000000
+1030,2021-07-01,Coal Dry Mining (Mt),Plan,Month,0.45,ACME,1000000
+1031,2021-07-01,Utility (%),Actual,Year-To-Date,48.024,Deep Earth Exploration Unit,1
+1032,2021-07-01,Utility (%),Actual,Month,30.9,Deep Earth Exploration Unit,1
+1033,2021-07-01,Utility (%),Plan,Year-To-Date,56.16468,Deep Earth Exploration Unit,1
+1034,2021-07-01,Utility (%),Plan,Month,59.88096,Deep Earth Exploration Unit,1
+1035,2021-07-01,Coal Mined (Mt),Actual,Month,1.71312,ACME,1000000
+1036,2021-07-01,Coal Mined (Mt),Plan,Year-To-Date,11.97108,ACME,1000000
+1037,2021-07-01,Coal Mined (Mt),Plan,Month,1.86012,ACME,1000000
+1038,2021-07-01,Yield (%),Actual,Year-To-Date,38.208,Deep Earth Exploration Unit,1
+1039,2021-07-01,Yield (%),Actual,Month,31.656,Deep Earth Exploration Unit,1
+1040,2021-07-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1041,2021-07-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1042,2021-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.94704,Deep Earth Exploration Unit,1000000
+1043,2021-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,10.63284,Deep Earth Exploration Unit,1000000
+1044,2021-07-01,Coal Dry Mining (Mt),Plan,Month,1.662,Deep Earth Exploration Unit,1000000
+1045,2021-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,4.18992,ACME,1000000
+1046,2021-07-01,Coal Dry Mining (Mt),Actual,Month,0.6048,ACME,1000000
+1047,2021-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.90844,ACME,1000000
+1048,2021-07-01,Drills per Hour (TOH),Actual,Month,31368.88008,Pacific Surface Mining Solutions,1
+1049,2021-07-01,Drills per Hour (TOH),Actual,Month,26642.12004,Geomining Innovations,1
+1050,2021-07-01,Drills per Hour (TOH),Actual,Month,109.80384,Deep Earth Exploration Unit,1
+1051,2021-07-01,Drills per Hour (TOH),Actual,Month,114.2322,ACME,1
+1052,2021-07-01,Drills per Hour (TOH),Actual,Month,49461.27624,Rock Solid Enterprises,1
+1053,2021-07-01,Drills per Hour (TOH),Actual,Month,4798.13412,Core Extraction Systems,1
+1054,2021-07-01,Drills per Hour (TOH),Actual,Month,6270.54636,Mineral Extraction Technologies,1
+1055,2021-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5274.09108,Quarrying Ventures,1
+1056,2021-07-01,Rate (Mt.EFH Km),Actual,Month,4783.52292,Quarrying Ventures,1
+1057,2021-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8210.31672,Geomining Innovations,1
+1058,2021-07-01,Rate (Mt.EFH Km),Actual,Month,9000.61824,Geomining Innovations,1
+1059,2021-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3880.88844,Core Extraction Systems,1
+1060,2021-07-01,Rate (Mt.EFH Km),Actual,Month,4065.04992,Core Extraction Systems,1
+1061,2021-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4021.88184,Mineral Extraction Technologies,1
+1062,2021-07-01,Rate (Mt.EFH Km),Actual,Month,4786.79232,Mineral Extraction Technologies,1
+1063,2021-07-01,Coal Mined (Mt),Actual,Year-To-Date,37.32408,Deep Earth Exploration Unit,1000000
+1064,2021-08-01,Coal Mined (Mt),Plan,Month,7.59516,Deep Earth Exploration Unit,1000000
+1065,2021-08-01,Coal Mined (Mt),Actual,Year-To-Date,15.16608,ACME,1000000
+1066,2021-08-01,Coal Dry Mining (Mt),Plan,Month,0.45,ACME,1000000
+1067,2021-08-01,Utility (%),Actual,Year-To-Date,44.976,Deep Earth Exploration Unit,1
+1068,2021-08-01,Utility (%),Actual,Month,24.336,Deep Earth Exploration Unit,1
+1069,2021-08-01,Utility (%),Plan,Year-To-Date,56.48256,Deep Earth Exploration Unit,1
+1070,2021-08-01,Utility (%),Plan,Month,58.7076,Deep Earth Exploration Unit,1
+1071,2021-08-01,Coal Mined (Mt),Actual,Month,2.03868,ACME,1000000
+1072,2021-08-01,Coal Mined (Mt),Plan,Year-To-Date,13.6866,ACME,1000000
+1073,2021-08-01,Coal Mined (Mt),Plan,Month,1.71552,ACME,1000000
+1074,2021-08-01,Yield (%),Actual,Year-To-Date,38.232,Deep Earth Exploration Unit,1
+1075,2021-08-01,Yield (%),Actual,Month,38.484,Deep Earth Exploration Unit,1
+1076,2021-08-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1077,2021-08-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1078,2021-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.94704,Deep Earth Exploration Unit,1000000
+1079,2021-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,12.14448,Deep Earth Exploration Unit,1000000
+1080,2021-08-01,Coal Dry Mining (Mt),Plan,Month,1.51164,Deep Earth Exploration Unit,1000000
+1081,2021-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,4.9746,ACME,1000000
+1082,2021-08-01,Coal Dry Mining (Mt),Actual,Month,0.78468,ACME,1000000
+1083,2021-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.35844,ACME,1000000
+1084,2021-08-01,Drills per Hour (TOH),Actual,Month,31810.03476,Pacific Surface Mining Solutions,1
+1085,2021-08-01,Drills per Hour (TOH),Actual,Month,25440.24672,Geomining Innovations,1
+1086,2021-08-01,Drills per Hour (TOH),Actual,Month,99.09564,Deep Earth Exploration Unit,1
+1087,2021-08-01,Drills per Hour (TOH),Actual,Month,132.42384,ACME,1
+1088,2021-08-01,Drills per Hour (TOH),Actual,Month,49885.8498,Rock Solid Enterprises,1
+1089,2021-08-01,Drills per Hour (TOH),Actual,Month,4686.47016,Core Extraction Systems,1
+1090,2021-08-01,Drills per Hour (TOH),Actual,Month,6474.81576,Mineral Extraction Technologies,1
+1091,2021-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5363.55132,Quarrying Ventures,1
+1092,2021-08-01,Rate (Mt.EFH Km),Actual,Month,5959.24452,Quarrying Ventures,1
+1093,2021-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8233.61112,Geomining Innovations,1
+1094,2021-08-01,Rate (Mt.EFH Km),Actual,Month,8405.5914,Geomining Innovations,1
+1095,2021-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3860.15772,Core Extraction Systems,1
+1096,2021-08-01,Rate (Mt.EFH Km),Actual,Month,3707.59464,Core Extraction Systems,1
+1097,2021-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4110.2562,Mineral Extraction Technologies,1
+1098,2021-08-01,Rate (Mt.EFH Km),Actual,Month,4708.03476,Mineral Extraction Technologies,1
+1099,2021-08-01,Coal Mined (Mt),Actual,Year-To-Date,37.4394,Deep Earth Exploration Unit,1000000
+1100,2021-08-01,Coal Mined (Mt),Actual,Month,0.11532,Deep Earth Exploration Unit,1000000
+1101,2021-09-01,Coal Mined (Mt),Actual,Year-To-Date,17.29332,ACME,1000000
+1102,2021-09-01,Coal Mined (Mt),Actual,Month,2.12724,ACME,1000000
+1103,2021-09-01,Coal Dry Mining (Mt),Plan,Month,0.43548,ACME,1000000
+1104,2021-09-01,Utility (%),Actual,Year-To-Date,43.056,Deep Earth Exploration Unit,1
+1105,2021-09-01,Utility (%),Actual,Month,27.588,Deep Earth Exploration Unit,1
+1106,2021-09-01,Utility (%),Plan,Year-To-Date,57.51336,Deep Earth Exploration Unit,1
+1107,2021-09-01,Utility (%),Plan,Month,65.76012,Deep Earth Exploration Unit,1
+1108,2021-09-01,Coal Mined (Mt),Plan,Year-To-Date,15.45168,ACME,1000000
+1109,2021-09-01,Coal Mined (Mt),Plan,Month,1.7652,ACME,1000000
+1110,2021-09-01,Yield (%),Actual,Year-To-Date,38.76,Deep Earth Exploration Unit,1
+1111,2021-09-01,Yield (%),Actual,Month,46.26,Deep Earth Exploration Unit,1
+1112,2021-09-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1113,2021-09-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1114,2021-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,11.42028,Deep Earth Exploration Unit,1000000
+1115,2021-09-01,Coal Dry Mining (Mt),Actual,Month,1.47324,Deep Earth Exploration Unit,1000000
+1116,2021-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,13.75284,Deep Earth Exploration Unit,1000000
+1117,2021-09-01,Coal Dry Mining (Mt),Plan,Month,1.60836,Deep Earth Exploration Unit,1000000
+1118,2021-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.65104,ACME,1000000
+1119,2021-09-01,Coal Dry Mining (Mt),Actual,Month,0.67632,ACME,1000000
+1120,2021-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.79392,ACME,1000000
+1121,2021-09-01,Drills per Hour (TOH),Actual,Month,31578.876,Pacific Surface Mining Solutions,1
+1122,2021-09-01,Drills per Hour (TOH),Actual,Month,30507.06684,Geomining Innovations,1
+1123,2021-09-01,Drills per Hour (TOH),Actual,Month,128.47056,Deep Earth Exploration Unit,1
+1124,2021-09-01,Drills per Hour (TOH),Actual,Month,161.83644,ACME,1
+1125,2021-09-01,Drills per Hour (TOH),Actual,Month,50308.79868,Rock Solid Enterprises,1
+1126,2021-09-01,Drills per Hour (TOH),Actual,Month,4855.5024,Core Extraction Systems,1
+1127,2021-09-01,Drills per Hour (TOH),Actual,Month,6767.592,Mineral Extraction Technologies,1
+1128,2021-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5397.11976,Quarrying Ventures,1
+1129,2021-09-01,Rate (Mt.EFH Km),Actual,Month,5658.76452,Quarrying Ventures,1
+1130,2021-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8478.20424,Geomining Innovations,1
+1131,2021-09-01,Rate (Mt.EFH Km),Actual,Month,10596.30048,Geomining Innovations,1
+1132,2021-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3809.39364,Core Extraction Systems,1
+1133,2021-09-01,Rate (Mt.EFH Km),Actual,Month,3399.84024,Core Extraction Systems,1
+1134,2021-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4199.92044,Mineral Extraction Technologies,1
+1135,2021-09-01,Rate (Mt.EFH Km),Actual,Month,4912.4196,Mineral Extraction Technologies,1
+1136,2021-09-01,Coal Mined (Mt),Actual,Year-To-Date,43.20096,Deep Earth Exploration Unit,1000000
+1137,2021-09-01,Coal Mined (Mt),Actual,Month,5.76168,Deep Earth Exploration Unit,1000000
+1138,2021-09-01,Coal Mined (Mt),Plan,Year-To-Date,65.51292,Deep Earth Exploration Unit,1000000
+1139,2021-10-01,Coal Mined (Mt),Actual,Year-To-Date,19.179,ACME,1000000
+1140,2021-10-01,Coal Mined (Mt),Actual,Month,1.8858,ACME,1000000
+1141,2021-10-01,Coal Dry Mining (Mt),Plan,Month,0.33384,ACME,1000000
+1142,2021-10-01,Utility (%),Actual,Year-To-Date,42.384,Deep Earth Exploration Unit,1
+1143,2021-10-01,Utility (%),Actual,Month,36.492,Deep Earth Exploration Unit,1
+1144,2021-10-01,Utility (%),Plan,Year-To-Date,58.44804,Deep Earth Exploration Unit,1
+1145,2021-10-01,Utility (%),Plan,Month,66.85956,Deep Earth Exploration Unit,1
+1146,2021-10-01,Coal Mined (Mt),Plan,Year-To-Date,16.67088,ACME,1000000
+1147,2021-10-01,Coal Mined (Mt),Plan,Month,1.2192,ACME,1000000
+1148,2021-10-01,Yield (%),Actual,Year-To-Date,38.736,Deep Earth Exploration Unit,1
+1149,2021-10-01,Yield (%),Actual,Month,38.568,Deep Earth Exploration Unit,1
+1150,2021-10-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1151,2021-10-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1152,2021-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,13.4538,Deep Earth Exploration Unit,1000000
+1153,2021-10-01,Coal Dry Mining (Mt),Actual,Month,2.03364,Deep Earth Exploration Unit,1000000
+1154,2021-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,15.41472,Deep Earth Exploration Unit,1000000
+1155,2021-10-01,Coal Dry Mining (Mt),Plan,Month,1.662,Deep Earth Exploration Unit,1000000
+1156,2021-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.24672,ACME,1000000
+1157,2021-10-01,Coal Dry Mining (Mt),Actual,Month,0.59568,ACME,1000000
+1158,2021-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.12776,ACME,1000000
+1159,2021-10-01,Drills per Hour (TOH),Actual,Month,31663.25376,Pacific Surface Mining Solutions,1
+1160,2021-10-01,Drills per Hour (TOH),Actual,Month,35001.89496,Geomining Innovations,1
+1161,2021-10-01,Drills per Hour (TOH),Actual,Month,170.59596,Deep Earth Exploration Unit,1
+1162,2021-10-01,Drills per Hour (TOH),Actual,Month,145.9128,ACME,1
+1163,2021-10-01,Drills per Hour (TOH),Actual,Month,50316.85092,Rock Solid Enterprises,1
+1164,2021-10-01,Drills per Hour (TOH),Actual,Month,4515.54492,Core Extraction Systems,1
+1165,2021-10-01,Drills per Hour (TOH),Actual,Month,6785.90532,Mineral Extraction Technologies,1
+1166,2021-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5343.108,Quarrying Ventures,1
+1167,2021-10-01,Rate (Mt.EFH Km),Actual,Month,4888.3416,Quarrying Ventures,1
+1168,2021-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8479.7814,Geomining Innovations,1
+1169,2021-10-01,Rate (Mt.EFH Km),Actual,Month,8494.21932,Geomining Innovations,1
+1170,2021-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3758.05236,Core Extraction Systems,1
+1171,2021-10-01,Rate (Mt.EFH Km),Actual,Month,3310.99248,Core Extraction Systems,1
+1172,2021-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4267.07064,Mineral Extraction Technologies,1
+1173,2021-10-01,Rate (Mt.EFH Km),Actual,Month,4798.14516,Mineral Extraction Technologies,1
+1174,2021-10-01,Coal Mined (Mt),Actual,Year-To-Date,49.2318,Deep Earth Exploration Unit,1000000
+1175,2021-10-01,Coal Mined (Mt),Actual,Month,6.03072,Deep Earth Exploration Unit,1000000
+1176,2021-10-01,Coal Mined (Mt),Plan,Year-To-Date,73.44,Deep Earth Exploration Unit,1000000
+1177,2021-11-01,Coal Mined (Mt),Actual,Year-To-Date,20.77968,ACME,1000000
+1178,2021-11-01,Coal Mined (Mt),Actual,Month,1.60068,ACME,1000000
+1179,2021-11-01,Coal Dry Mining (Mt),Plan,Month,0.43548,ACME,1000000
+1180,2021-11-01,Utility (%),Actual,Year-To-Date,41.748,Deep Earth Exploration Unit,1
+1181,2021-11-01,Utility (%),Actual,Month,35.376,Deep Earth Exploration Unit,1
+1182,2021-11-01,Utility (%),Plan,Year-To-Date,59.23956,Deep Earth Exploration Unit,1
+1183,2021-11-01,Utility (%),Plan,Month,67.15548,Deep Earth Exploration Unit,1
+1184,2021-11-01,Coal Mined (Mt),Plan,Year-To-Date,18.19104,ACME,1000000
+1185,2021-11-01,Coal Mined (Mt),Plan,Month,1.52016,ACME,1000000
+1186,2021-11-01,Yield (%),Actual,Year-To-Date,39.132,Deep Earth Exploration Unit,1
+1187,2021-11-01,Yield (%),Actual,Month,42.024,Deep Earth Exploration Unit,1
+1188,2021-11-01,Yield (%),Plan,Year-To-Date,45.27276,Deep Earth Exploration Unit,1
+1189,2021-11-01,Yield (%),Plan,Month,42.0,Deep Earth Exploration Unit,1
+1190,2021-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,14.86068,Deep Earth Exploration Unit,1000000
+1191,2021-11-01,Coal Dry Mining (Mt),Actual,Month,1.40688,Deep Earth Exploration Unit,1000000
+1192,2021-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,17.02308,Deep Earth Exploration Unit,1000000
+1193,2021-11-01,Coal Dry Mining (Mt),Plan,Month,1.60836,Deep Earth Exploration Unit,1000000
+1194,2021-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.83892,ACME,1000000
+1195,2021-11-01,Coal Dry Mining (Mt),Actual,Month,0.59232,ACME,1000000
+1196,2021-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.56324,ACME,1000000
+1197,2021-11-01,Drills per Hour (TOH),Actual,Month,31568.45772,Pacific Surface Mining Solutions,1
+1198,2021-11-01,Drills per Hour (TOH),Actual,Month,33167.0088,Geomining Innovations,1
+1199,2021-11-01,Drills per Hour (TOH),Actual,Month,180.95004,Deep Earth Exploration Unit,1
+1200,2021-11-01,Drills per Hour (TOH),Actual,Month,122.13144,ACME,1
+1201,2021-11-01,Drills per Hour (TOH),Actual,Month,50236.57104,Rock Solid Enterprises,1
+1202,2021-11-01,Drills per Hour (TOH),Actual,Month,4100.2026,Core Extraction Systems,1
+1203,2021-11-01,Drills per Hour (TOH),Actual,Month,7156.64592,Mineral Extraction Technologies,1
+1204,2021-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5314.72752,Quarrying Ventures,1
+1205,2021-11-01,Rate (Mt.EFH Km),Actual,Month,5038.47864,Quarrying Ventures,1
+1206,2021-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8663.2926,Geomining Innovations,1
+1207,2021-11-01,Rate (Mt.EFH Km),Actual,Month,10525.59324,Geomining Innovations,1
+1208,2021-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3741.97728,Core Extraction Systems,1
+1209,2021-11-01,Rate (Mt.EFH Km),Actual,Month,3570.26556,Core Extraction Systems,1
+1210,2021-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4249.7058,Mineral Extraction Technologies,1
+1211,2021-11-01,Rate (Mt.EFH Km),Actual,Month,4089.849,Mineral Extraction Technologies,1
+1212,2021-11-01,Coal Mined (Mt),Actual,Year-To-Date,54.27012,Deep Earth Exploration Unit,1000000
+1213,2021-11-01,Coal Mined (Mt),Actual,Month,5.03832,Deep Earth Exploration Unit,1000000
+1214,2021-11-01,Coal Mined (Mt),Plan,Year-To-Date,81.11136,Deep Earth Exploration Unit,1000000
+1215,2021-12-01,Coal Mined (Mt),Actual,Year-To-Date,22.57956,ACME,1000000
+1216,2021-12-01,Coal Mined (Mt),Actual,Month,1.79988,ACME,1000000
+1217,2021-12-01,Coal Dry Mining (Mt),Plan,Month,0.45,ACME,1000000
+1218,2021-12-01,Utility (%),Actual,Year-To-Date,41.796,Deep Earth Exploration Unit,1
+1219,2021-12-01,Utility (%),Actual,Month,42.372,Deep Earth Exploration Unit,1
+1220,2021-12-01,Utility (%),Plan,Year-To-Date,60.02532,Deep Earth Exploration Unit,1
+1221,2021-12-01,Utility (%),Plan,Month,68.66844,Deep Earth Exploration Unit,1
+1222,2021-12-01,Coal Mined (Mt),Plan,Year-To-Date,19.9428,ACME,1000000
+1223,2021-12-01,Coal Mined (Mt),Plan,Month,1.75164,ACME,1000000
+1224,2021-12-01,Yield (%),Actual,Year-To-Date,38.88,Deep Earth Exploration Unit,1
+1225,2021-12-01,Yield (%),Actual,Month,36.348,Deep Earth Exploration Unit,1
+1226,2021-12-01,Yield (%),Plan,Year-To-Date,45.0,Deep Earth Exploration Unit,1
+1227,2021-12-01,Yield (%),Plan,Month,42.0,Deep Earth Exploration Unit,1
+1228,2021-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,16.605,Deep Earth Exploration Unit,1000000
+1229,2021-12-01,Coal Dry Mining (Mt),Actual,Month,1.74432,Deep Earth Exploration Unit,1000000
+1230,2021-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,18.68508,Deep Earth Exploration Unit,1000000
+1231,2021-12-01,Coal Dry Mining (Mt),Plan,Month,1.662,Deep Earth Exploration Unit,1000000
+1232,2021-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,7.48992,ACME,1000000
+1233,2021-12-01,Coal Dry Mining (Mt),Actual,Month,0.65088,ACME,1000000
+1234,2021-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,5.01324,ACME,1000000
+1235,2021-12-01,Drills per Hour (TOH),Actual,Month,31611.05592,Pacific Surface Mining Solutions,1
+1236,2021-12-01,Drills per Hour (TOH),Actual,Month,34815.14676,Geomining Innovations,1
+1237,2021-12-01,Drills per Hour (TOH),Actual,Month,188.85684,Deep Earth Exploration Unit,1
+1238,2021-12-01,Drills per Hour (TOH),Actual,Month,146.27856,ACME,1
+1239,2021-12-01,Drills per Hour (TOH),Actual,Month,49921.35276,Rock Solid Enterprises,1
+1240,2021-12-01,Drills per Hour (TOH),Actual,Month,4179.45648,Core Extraction Systems,1
+1241,2021-12-01,Drills per Hour (TOH),Actual,Month,6539.8656,Mineral Extraction Technologies,1
+1242,2021-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5319.6528,Quarrying Ventures,1
+1243,2021-12-01,Rate (Mt.EFH Km),Actual,Month,5370.81468,Quarrying Ventures,1
+1244,2021-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,8640.26532,Geomining Innovations,1
+1245,2021-12-01,Rate (Mt.EFH Km),Actual,Month,8399.061,Geomining Innovations,1
+1246,2021-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3748.11624,Core Extraction Systems,1
+1247,2021-12-01,Rate (Mt.EFH Km),Actual,Month,3817.78716,Core Extraction Systems,1
+1248,2021-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4255.13916,Mineral Extraction Technologies,1
+1249,2021-12-01,Rate (Mt.EFH Km),Actual,Month,4308.80208,Mineral Extraction Technologies,1
+1250,2021-12-01,Coal Mined (Mt),Actual,Year-To-Date,60.72624,Deep Earth Exploration Unit,1000000
+1251,2021-12-01,Coal Mined (Mt),Actual,Month,6.45612,Deep Earth Exploration Unit,1000000
+1252,2021-12-01,Coal Mined (Mt),Plan,Year-To-Date,89.03844,Deep Earth Exploration Unit,1000000
+1253,2022-01-01,Coal Mined (Mt),Actual,Year-To-Date,1.6266,ACME,1000000
+1254,2022-01-01,Coal Mined (Mt),Actual,Month,1.6266,ACME,1000000
+1255,2022-01-01,Coal Dry Mining (Mt),Plan,Month,0.43752,ACME,1000000
+1256,2022-01-01,Utility (%),Actual,Year-To-Date,45.96,Deep Earth Exploration Unit,1
+1257,2022-01-01,Utility (%),Actual,Month,45.96,Deep Earth Exploration Unit,1
+1258,2022-01-01,Utility (%),Plan,Year-To-Date,67.29924,Deep Earth Exploration Unit,1
+1259,2022-01-01,Utility (%),Plan,Month,67.29924,Deep Earth Exploration Unit,1
+1260,2022-01-01,Coal Mined (Mt),Plan,Year-To-Date,1.68204,ACME,1000000
+1261,2022-01-01,Coal Mined (Mt),Plan,Month,1.68204,ACME,1000000
+1262,2022-01-01,Yield (%),Actual,Year-To-Date,34.416,Deep Earth Exploration Unit,1
+1263,2022-01-01,Yield (%),Actual,Month,34.416,Deep Earth Exploration Unit,1
+1264,2022-01-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1265,2022-01-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1266,2022-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.911,Deep Earth Exploration Unit,1000000
+1267,2022-01-01,Coal Dry Mining (Mt),Actual,Month,1.911,Deep Earth Exploration Unit,1000000
+1268,2022-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.25532,Deep Earth Exploration Unit,1000000
+1269,2022-01-01,Coal Dry Mining (Mt),Plan,Month,1.25532,Deep Earth Exploration Unit,1000000
+1270,2022-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.58584,ACME,1000000
+1271,2022-01-01,Coal Dry Mining (Mt),Actual,Month,0.58584,ACME,1000000
+1272,2022-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.43752,ACME,1000000
+1273,2022-01-01,Drills per Hour (TOH),Actual,Month,1198.12356,Drill & Blast Division,1
+1274,2022-01-01,Drills per Hour (TOH),Actual,Month,31565.20176,Pacific Surface Mining Solutions,1
+1275,2022-01-01,Drills per Hour (TOH),Actual,Month,35202.27588,Geomining Innovations,1
+1276,2022-01-01,Drills per Hour (TOH),Actual,Month,218.17404,Deep Earth Exploration Unit,1
+1277,2022-01-01,Drills per Hour (TOH),Actual,Month,136.7202,ACME,1
+1278,2022-01-01,Drills per Hour (TOH),Actual,Month,49144.071,Rock Solid Enterprises,1
+1279,2022-01-01,Drills per Hour (TOH),Actual,Month,4710.83376,Core Extraction Systems,1
+1280,2022-01-01,Drills per Hour (TOH),Actual,Month,5236.6278,Mineral Extraction Technologies,1
+1281,2022-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5509.2996,Geomining Innovations,1
+1282,2022-01-01,Rate (Mt.EFH Km),Actual,Month,5509.2996,Geomining Innovations,1
+1283,2022-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3820.43616,Core Extraction Systems,1
+1284,2022-01-01,Rate (Mt.EFH Km),Actual,Month,3820.43616,Core Extraction Systems,1
+1285,2022-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4710.66912,Mineral Extraction Technologies,1
+1286,2022-01-01,Rate (Mt.EFH Km),Actual,Month,4710.66912,Mineral Extraction Technologies,1
+1287,2022-01-01,Coal Mined (Mt),Actual,Year-To-Date,7.52448,Deep Earth Exploration Unit,1000000
+1288,2022-01-01,Coal Mined (Mt),Actual,Month,7.52448,Deep Earth Exploration Unit,1000000
+1289,2022-01-01,Coal Mined (Mt),Plan,Year-To-Date,0.57084,Deep Earth Exploration Unit,1000000
+1290,2022-02-01,Coal Mined (Mt),Actual,Year-To-Date,3.15852,ACME,1000000
+1291,2022-02-01,Coal Mined (Mt),Actual,Month,1.53204,ACME,1000000
+1292,2022-02-01,Coal Dry Mining (Mt),Plan,Month,0.39516,ACME,1000000
+1293,2022-02-01,Utility (%),Actual,Year-To-Date,48.924,Deep Earth Exploration Unit,1
+1294,2022-02-01,Utility (%),Actual,Month,52.2,Deep Earth Exploration Unit,1
+1295,2022-02-01,Utility (%),Plan,Year-To-Date,69.74352,Deep Earth Exploration Unit,1
+1296,2022-02-01,Utility (%),Plan,Month,72.1878,Deep Earth Exploration Unit,1
+1297,2022-02-01,Coal Mined (Mt),Plan,Year-To-Date,3.26736,ACME,1000000
+1298,2022-02-01,Coal Mined (Mt),Plan,Month,1.58544,ACME,1000000
+1299,2022-02-01,Yield (%),Actual,Year-To-Date,36.132,Deep Earth Exploration Unit,1
+1300,2022-02-01,Yield (%),Actual,Month,37.596,Deep Earth Exploration Unit,1
+1301,2022-02-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1302,2022-02-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1303,2022-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.7728,Deep Earth Exploration Unit,1000000
+1304,2022-02-01,Coal Dry Mining (Mt),Actual,Month,1.86168,Deep Earth Exploration Unit,1000000
+1305,2022-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.43024,Deep Earth Exploration Unit,1000000
+1306,2022-02-01,Coal Dry Mining (Mt),Plan,Month,1.17492,Deep Earth Exploration Unit,1000000
+1307,2022-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.10364,ACME,1000000
+1308,2022-02-01,Coal Dry Mining (Mt),Actual,Month,0.5178,ACME,1000000
+1309,2022-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.83256,ACME,1000000
+1310,2022-02-01,Drills per Hour (TOH),Actual,Month,911.05068,Drill & Blast Division,1
+1311,2022-02-01,Drills per Hour (TOH),Actual,Month,31979.84976,Pacific Surface Mining Solutions,1
+1312,2022-02-01,Drills per Hour (TOH),Actual,Month,34684.02552,Geomining Innovations,1
+1313,2022-02-01,Drills per Hour (TOH),Actual,Month,255.48564,Deep Earth Exploration Unit,1
+1314,2022-02-01,Drills per Hour (TOH),Actual,Month,130.28184,ACME,1
+1315,2022-02-01,Drills per Hour (TOH),Actual,Month,49752.22044,Rock Solid Enterprises,1
+1316,2022-02-01,Drills per Hour (TOH),Actual,Month,3729.62556,Core Extraction Systems,1
+1317,2022-02-01,Drills per Hour (TOH),Actual,Month,6195.33756,Mineral Extraction Technologies,1
+1318,2022-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5702.46216,Geomining Innovations,1
+1319,2022-02-01,Rate (Mt.EFH Km),Actual,Month,5911.58016,Geomining Innovations,1
+1320,2022-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3554.70108,Core Extraction Systems,1
+1321,2022-02-01,Rate (Mt.EFH Km),Actual,Month,3248.0508,Core Extraction Systems,1
+1322,2022-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4902.7218,Mineral Extraction Technologies,1
+1323,2022-02-01,Rate (Mt.EFH Km),Actual,Month,5106.05172,Mineral Extraction Technologies,1
+1324,2022-02-01,Coal Mined (Mt),Actual,Year-To-Date,14.35536,Deep Earth Exploration Unit,1000000
+1325,2022-02-01,Coal Mined (Mt),Actual,Month,6.83088,Deep Earth Exploration Unit,1000000
+1326,2022-02-01,Coal Mined (Mt),Plan,Year-To-Date,1.10232,Deep Earth Exploration Unit,1000000
+1327,2022-03-01,Coal Mined (Mt),Actual,Year-To-Date,4.48992,ACME,1000000
+1328,2022-03-01,Coal Mined (Mt),Actual,Month,1.3314,ACME,1000000
+1329,2022-03-01,Coal Dry Mining (Mt),Plan,Month,0.43752,ACME,1000000
+1330,2022-03-01,Utility (%),Actual,Year-To-Date,50.004,Deep Earth Exploration Unit,1
+1331,2022-03-01,Utility (%),Actual,Month,52.056,Deep Earth Exploration Unit,1
+1332,2022-03-01,Utility (%),Plan,Year-To-Date,70.0104,Deep Earth Exploration Unit,1
+1333,2022-03-01,Utility (%),Plan,Month,70.54416,Deep Earth Exploration Unit,1
+1334,2022-03-01,Coal Mined (Mt),Plan,Year-To-Date,5.09592,ACME,1000000
+1335,2022-03-01,Coal Mined (Mt),Plan,Month,1.82844,ACME,1000000
+1336,2022-03-01,Yield (%),Actual,Year-To-Date,43.152,Deep Earth Exploration Unit,1
+1337,2022-03-01,Yield (%),Actual,Month,52.656,Deep Earth Exploration Unit,1
+1338,2022-03-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1339,2022-03-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1340,2022-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.87808,Deep Earth Exploration Unit,1000000
+1341,2022-03-01,Coal Dry Mining (Mt),Actual,Month,2.1054,Deep Earth Exploration Unit,1000000
+1342,2022-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.78636,Deep Earth Exploration Unit,1000000
+1343,2022-03-01,Coal Dry Mining (Mt),Plan,Month,1.35612,Deep Earth Exploration Unit,1000000
+1344,2022-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.68228,ACME,1000000
+1345,2022-03-01,Coal Dry Mining (Mt),Actual,Month,0.57864,ACME,1000000
+1346,2022-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.27008,ACME,1000000
+1347,2022-03-01,Drills per Hour (TOH),Actual,Month,1070.39724,Drill & Blast Division,1
+1348,2022-03-01,Drills per Hour (TOH),Actual,Month,31883.50308,Pacific Surface Mining Solutions,1
+1349,2022-03-01,Drills per Hour (TOH),Actual,Month,34601.81532,Geomining Innovations,1
+1350,2022-03-01,Drills per Hour (TOH),Actual,Month,258.96576,Deep Earth Exploration Unit,1
+1351,2022-03-01,Drills per Hour (TOH),Actual,Month,121.23432,ACME,1
+1352,2022-03-01,Drills per Hour (TOH),Actual,Month,50150.60388,Rock Solid Enterprises,1
+1353,2022-03-01,Drills per Hour (TOH),Actual,Month,4491.14376,Core Extraction Systems,1
+1354,2022-03-01,Drills per Hour (TOH),Actual,Month,6364.82688,Mineral Extraction Technologies,1
+1355,2022-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1356,2022-03-01,Rate (Mt.EFH Km),Actual,Month,5234.49372,Geomining Innovations,1
+1357,2022-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3512.76396,Core Extraction Systems,1
+1358,2022-03-01,Rate (Mt.EFH Km),Actual,Month,3428.23464,Core Extraction Systems,1
+1359,2022-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5431.39284,Mineral Extraction Technologies,1
+1360,2022-03-01,Rate (Mt.EFH Km),Actual,Month,6408.52596,Mineral Extraction Technologies,1
+1361,2022-03-01,Coal Mined (Mt),Actual,Year-To-Date,22.22052,Deep Earth Exploration Unit,1000000
+1362,2022-03-01,Coal Mined (Mt),Actual,Month,7.86516,Deep Earth Exploration Unit,1000000
+1363,2022-03-01,Coal Mined (Mt),Plan,Year-To-Date,1.73676,Deep Earth Exploration Unit,1000000
+1364,2022-04-01,Coal Mined (Mt),Actual,Year-To-Date,6.09756,ACME,1000000
+1365,2022-04-01,Coal Mined (Mt),Actual,Month,1.60752,ACME,1000000
+1366,2022-04-01,Coal Dry Mining (Mt),Plan,Month,0.28224,ACME,1000000
+1367,2022-04-01,Utility (%),Actual,Year-To-Date,51.9,Deep Earth Exploration Unit,1
+1368,2022-04-01,Utility (%),Actual,Month,57.576,Deep Earth Exploration Unit,1
+1369,2022-04-01,Utility (%),Plan,Year-To-Date,69.77904,Deep Earth Exploration Unit,1
+1370,2022-04-01,Utility (%),Plan,Month,69.08472,Deep Earth Exploration Unit,1
+1371,2022-04-01,Coal Mined (Mt),Plan,Year-To-Date,6.27552,ACME,1000000
+1372,2022-04-01,Coal Mined (Mt),Plan,Month,1.1796,ACME,1000000
+1373,2022-04-01,Yield (%),Actual,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1374,2022-04-01,Yield (%),Actual,Month,50.556,Deep Earth Exploration Unit,1
+1375,2022-04-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1376,2022-04-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1377,2022-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,7.88184,Deep Earth Exploration Unit,1000000
+1378,2022-04-01,Coal Dry Mining (Mt),Actual,Month,2.00364,Deep Earth Exploration Unit,1000000
+1379,2022-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,5.10228,Deep Earth Exploration Unit,1000000
+1380,2022-04-01,Coal Dry Mining (Mt),Plan,Month,1.31592,Deep Earth Exploration Unit,1000000
+1381,2022-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.15904,ACME,1000000
+1382,2022-04-01,Coal Dry Mining (Mt),Actual,Month,0.47676,ACME,1000000
+1383,2022-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.55232,ACME,1000000
+1384,2022-04-01,Drills per Hour (TOH),Actual,Month,1150.656,Drill & Blast Division,1
+1385,2022-04-01,Drills per Hour (TOH),Actual,Month,31683.7404,Pacific Surface Mining Solutions,1
+1386,2022-04-01,Drills per Hour (TOH),Actual,Month,35475.77076,Geomining Innovations,1
+1387,2022-04-01,Drills per Hour (TOH),Actual,Month,273.13452,Deep Earth Exploration Unit,1
+1388,2022-04-01,Drills per Hour (TOH),Actual,Month,114.22452,ACME,1
+1389,2022-04-01,Drills per Hour (TOH),Actual,Month,49259.1666,Rock Solid Enterprises,1
+1390,2022-04-01,Drills per Hour (TOH),Actual,Month,4277.52288,Core Extraction Systems,1
+1391,2022-04-01,Drills per Hour (TOH),Actual,Month,7194.0,Mineral Extraction Technologies,1
+1392,2022-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1393,2022-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3520.31016,Core Extraction Systems,1
+1394,2022-04-01,Rate (Mt.EFH Km),Actual,Month,3545.80092,Core Extraction Systems,1
+1395,2022-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5672.63724,Mineral Extraction Technologies,1
+1396,2022-04-01,Rate (Mt.EFH Km),Actual,Month,6369.39012,Mineral Extraction Technologies,1
+1397,2022-04-01,Coal Mined (Mt),Actual,Year-To-Date,30.01608,Deep Earth Exploration Unit,1000000
+1398,2022-04-01,Coal Mined (Mt),Actual,Month,7.79544,Deep Earth Exploration Unit,1000000
+1399,2022-04-01,Coal Mined (Mt),Plan,Year-To-Date,2.28144,Deep Earth Exploration Unit,1000000
+1400,2022-05-01,Coal Mined (Mt),Actual,Year-To-Date,7.95132,ACME,1000000
+1401,2022-05-01,Coal Mined (Mt),Actual,Month,1.85388,ACME,1000000
+1402,2022-05-01,Coal Dry Mining (Mt),Plan,Month,0.43752,ACME,1000000
+1403,2022-05-01,Utility (%),Actual,Year-To-Date,52.872,Deep Earth Exploration Unit,1
+1404,2022-05-01,Utility (%),Actual,Month,56.628,Deep Earth Exploration Unit,1
+1405,2022-05-01,Utility (%),Plan,Year-To-Date,70.0302,Deep Earth Exploration Unit,1
+1406,2022-05-01,Utility (%),Plan,Month,71.03496,Deep Earth Exploration Unit,1
+1407,2022-05-01,Coal Mined (Mt),Plan,Year-To-Date,8.14056,ACME,1000000
+1408,2022-05-01,Coal Mined (Mt),Plan,Month,1.86504,ACME,1000000
+1409,2022-05-01,Yield (%),Actual,Year-To-Date,45.78,Deep Earth Exploration Unit,1
+1410,2022-05-01,Yield (%),Actual,Month,46.392,Deep Earth Exploration Unit,1
+1411,2022-05-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1412,2022-05-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1413,2022-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.82404,Deep Earth Exploration Unit,1000000
+1414,2022-05-01,Coal Dry Mining (Mt),Actual,Month,1.9422,Deep Earth Exploration Unit,1000000
+1415,2022-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,6.4584,Deep Earth Exploration Unit,1000000
+1416,2022-05-01,Coal Dry Mining (Mt),Plan,Month,1.35612,Deep Earth Exploration Unit,1000000
+1417,2022-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.8236,ACME,1000000
+1418,2022-05-01,Coal Dry Mining (Mt),Actual,Month,0.66456,ACME,1000000
+1419,2022-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.98984,ACME,1000000
+1420,2022-05-01,Drills per Hour (TOH),Actual,Month,1094.48124,Drill & Blast Division,1
+1421,2022-05-01,Drills per Hour (TOH),Actual,Month,31893.27744,Pacific Surface Mining Solutions,1
+1422,2022-05-01,Drills per Hour (TOH),Actual,Month,43613.91372,Geomining Innovations,1
+1423,2022-05-01,Drills per Hour (TOH),Actual,Month,256.641,Deep Earth Exploration Unit,1
+1424,2022-05-01,Drills per Hour (TOH),Actual,Month,143.3784,ACME,1
+1425,2022-05-01,Drills per Hour (TOH),Actual,Month,46203.38004,Rock Solid Enterprises,1
+1426,2022-05-01,Drills per Hour (TOH),Actual,Month,4972.509,Core Extraction Systems,1
+1427,2022-05-01,Drills per Hour (TOH),Actual,Month,6756.4326,Mineral Extraction Technologies,1
+1428,2022-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1429,2022-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3468.39252,Core Extraction Systems,1
+1430,2022-05-01,Rate (Mt.EFH Km),Actual,Month,3215.70252,Core Extraction Systems,1
+1431,2022-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5464.1214,Mineral Extraction Technologies,1
+1432,2022-05-01,Rate (Mt.EFH Km),Actual,Month,4679.51928,Mineral Extraction Technologies,1
+1433,2022-05-01,Coal Mined (Mt),Actual,Year-To-Date,38.02632,Deep Earth Exploration Unit,1000000
+1434,2022-05-01,Coal Mined (Mt),Actual,Month,8.01036,Deep Earth Exploration Unit,1000000
+1435,2022-05-01,Coal Mined (Mt),Plan,Year-To-Date,3.05796,Deep Earth Exploration Unit,1000000
+1436,2022-06-01,Coal Mined (Mt),Actual,Year-To-Date,9.95712,ACME,1000000
+1437,2022-06-01,Coal Mined (Mt),Actual,Month,2.0058,ACME,1000000
+1438,2022-06-01,Coal Dry Mining (Mt),Plan,Month,0.42336,ACME,1000000
+1439,2022-06-01,Utility (%),Actual,Year-To-Date,50.124,Deep Earth Exploration Unit,1
+1440,2022-06-01,Utility (%),Actual,Month,36.312,Deep Earth Exploration Unit,1
+1441,2022-06-01,Utility (%),Plan,Year-To-Date,70.0614,Deep Earth Exploration Unit,1
+1442,2022-06-01,Utility (%),Plan,Month,70.21764,Deep Earth Exploration Unit,1
+1443,2022-06-01,Coal Mined (Mt),Plan,Year-To-Date,9.91008,ACME,1000000
+1444,2022-06-01,Coal Mined (Mt),Plan,Month,1.76952,ACME,1000000
+1445,2022-06-01,Yield (%),Actual,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1446,2022-06-01,Yield (%),Actual,Month,44.748,Deep Earth Exploration Unit,1
+1447,2022-06-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1448,2022-06-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1449,2022-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,11.70864,Deep Earth Exploration Unit,1000000
+1450,2022-06-01,Coal Dry Mining (Mt),Actual,Month,1.8846,Deep Earth Exploration Unit,1000000
+1451,2022-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,7.77432,Deep Earth Exploration Unit,1000000
+1452,2022-06-01,Coal Dry Mining (Mt),Plan,Month,1.31592,Deep Earth Exploration Unit,1000000
+1453,2022-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.71364,ACME,1000000
+1454,2022-06-01,Coal Dry Mining (Mt),Actual,Month,0.89004,ACME,1000000
+1455,2022-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.4132,ACME,1000000
+1456,2022-06-01,Drills per Hour (TOH),Actual,Month,998.52312,Drill & Blast Division,1
+1457,2022-06-01,Drills per Hour (TOH),Actual,Month,31914.66264,Pacific Surface Mining Solutions,1
+1458,2022-06-01,Drills per Hour (TOH),Actual,Month,36458.82648,Geomining Innovations,1
+1459,2022-06-01,Drills per Hour (TOH),Actual,Month,166.8648,Deep Earth Exploration Unit,1
+1460,2022-06-01,Drills per Hour (TOH),Actual,Month,151.27476,ACME,1
+1461,2022-06-01,Drills per Hour (TOH),Actual,Month,50197.68684,Rock Solid Enterprises,1
+1462,2022-06-01,Drills per Hour (TOH),Actual,Month,5015.73312,Core Extraction Systems,1
+1463,2022-06-01,Drills per Hour (TOH),Actual,Month,6969.82884,Mineral Extraction Technologies,1
+1464,2022-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1465,2022-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3598.53108,Core Extraction Systems,1
+1466,2022-06-01,Rate (Mt.EFH Km),Actual,Month,4393.13976,Core Extraction Systems,1
+1467,2022-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5556.46212,Mineral Extraction Technologies,1
+1468,2022-06-01,Rate (Mt.EFH Km),Actual,Month,6010.91484,Mineral Extraction Technologies,1
+1469,2022-06-01,Coal Mined (Mt),Actual,Year-To-Date,45.67788,Deep Earth Exploration Unit,1000000
+1470,2022-06-01,Coal Mined (Mt),Actual,Month,7.65156,Deep Earth Exploration Unit,1000000
+1471,2022-06-01,Coal Mined (Mt),Plan,Year-To-Date,1.64592,Deep Earth Exploration Unit,1000000
+1472,2022-07-01,Coal Mined (Mt),Actual,Year-To-Date,12.0054,ACME,1000000
+1473,2022-07-01,Coal Mined (Mt),Actual,Month,2.04828,ACME,1000000
+1474,2022-07-01,Coal Dry Mining (Mt),Plan,Month,0.43752,ACME,1000000
+1475,2022-07-01,Utility (%),Actual,Year-To-Date,50.028,Deep Earth Exploration Unit,1
+1476,2022-07-01,Utility (%),Actual,Month,49.488,Deep Earth Exploration Unit,1
+1477,2022-07-01,Utility (%),Plan,Year-To-Date,68.43276,Deep Earth Exploration Unit,1
+1478,2022-07-01,Utility (%),Plan,Month,58.66092,Deep Earth Exploration Unit,1
+1479,2022-07-01,Coal Mined (Mt),Plan,Year-To-Date,11.81172,ACME,1000000
+1480,2022-07-01,Coal Mined (Mt),Plan,Month,1.90164,ACME,1000000
+1481,2022-07-01,Yield (%),Actual,Year-To-Date,46.752,Deep Earth Exploration Unit,1
+1482,2022-07-01,Yield (%),Actual,Month,53.004,Deep Earth Exploration Unit,1
+1483,2022-07-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1484,2022-07-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1485,2022-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,13.74972,Deep Earth Exploration Unit,1000000
+1486,2022-07-01,Coal Dry Mining (Mt),Actual,Month,2.0412,Deep Earth Exploration Unit,1000000
+1487,2022-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,9.13044,Deep Earth Exploration Unit,1000000
+1488,2022-07-01,Coal Dry Mining (Mt),Plan,Month,1.35612,Deep Earth Exploration Unit,1000000
+1489,2022-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,4.54668,ACME,1000000
+1490,2022-07-01,Coal Dry Mining (Mt),Actual,Month,0.83304,ACME,1000000
+1491,2022-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.8506,ACME,1000000
+1492,2022-07-01,Drills per Hour (TOH),Actual,Month,850.33788,Drill & Blast Division,1
+1493,2022-07-01,Drills per Hour (TOH),Actual,Month,31701.83736,Pacific Surface Mining Solutions,1
+1494,2022-07-01,Drills per Hour (TOH),Actual,Month,36504.58164,Geomining Innovations,1
+1495,2022-07-01,Drills per Hour (TOH),Actual,Month,235.5972,Deep Earth Exploration Unit,1
+1496,2022-07-01,Drills per Hour (TOH),Actual,Month,118.70208,ACME,1
+1497,2022-07-01,Drills per Hour (TOH),Actual,Month,50352.60468,Rock Solid Enterprises,1
+1498,2022-07-01,Drills per Hour (TOH),Actual,Month,4649.45628,Core Extraction Systems,1
+1499,2022-07-01,Drills per Hour (TOH),Actual,Month,6777.79404,Mineral Extraction Technologies,1
+1500,2022-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1501,2022-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3766.0656,Core Extraction Systems,1
+1502,2022-07-01,Rate (Mt.EFH Km),Actual,Month,4915.22988,Core Extraction Systems,1
+1503,2022-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5682.54516,Mineral Extraction Technologies,1
+1504,2022-07-01,Rate (Mt.EFH Km),Actual,Month,6405.0636,Mineral Extraction Technologies,1
+1505,2022-07-01,Coal Mined (Mt),Actual,Year-To-Date,51.76476,Deep Earth Exploration Unit,1000000
+1506,2022-07-01,Coal Mined (Mt),Actual,Month,6.08676,Deep Earth Exploration Unit,1000000
+1507,2022-07-01,Coal Mined (Mt),Plan,Year-To-Date,1.99416,Deep Earth Exploration Unit,1000000
+1508,2022-08-01,Coal Mined (Mt),Actual,Year-To-Date,13.83816,ACME,1000000
+1509,2022-08-01,Coal Mined (Mt),Actual,Month,1.83276,ACME,1000000
+1510,2022-08-01,Coal Dry Mining (Mt),Plan,Month,0.43752,ACME,1000000
+1511,2022-08-01,Utility (%),Actual,Year-To-Date,50.628,Deep Earth Exploration Unit,1
+1512,2022-08-01,Utility (%),Actual,Month,54.708,Deep Earth Exploration Unit,1
+1513,2022-08-01,Utility (%),Plan,Year-To-Date,68.484,Deep Earth Exploration Unit,1
+1514,2022-08-01,Utility (%),Plan,Month,68.84232,Deep Earth Exploration Unit,1
+1515,2022-08-01,Coal Mined (Mt),Plan,Year-To-Date,13.67676,ACME,1000000
+1516,2022-08-01,Coal Mined (Mt),Plan,Month,1.86504,ACME,1000000
+1517,2022-08-01,Yield (%),Actual,Year-To-Date,47.592,Deep Earth Exploration Unit,1
+1518,2022-08-01,Yield (%),Actual,Month,52.248,Deep Earth Exploration Unit,1
+1519,2022-08-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1520,2022-08-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1521,2022-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,15.5502,Deep Earth Exploration Unit,1000000
+1522,2022-08-01,Coal Dry Mining (Mt),Actual,Month,1.80048,Deep Earth Exploration Unit,1000000
+1523,2022-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,10.49016,Deep Earth Exploration Unit,1000000
+1524,2022-08-01,Coal Dry Mining (Mt),Plan,Month,1.35972,Deep Earth Exploration Unit,1000000
+1525,2022-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.16588,ACME,1000000
+1526,2022-08-01,Coal Dry Mining (Mt),Actual,Month,0.6192,ACME,1000000
+1527,2022-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.28812,ACME,1000000
+1528,2022-08-01,Drills per Hour (TOH),Actual,Month,1023.75564,Drill & Blast Division,1
+1529,2022-08-01,Drills per Hour (TOH),Actual,Month,31916.40396,Pacific Surface Mining Solutions,1
+1530,2022-08-01,Drills per Hour (TOH),Actual,Month,36570.01776,Geomining Innovations,1
+1531,2022-08-01,Drills per Hour (TOH),Actual,Month,266.74896,Deep Earth Exploration Unit,1
+1532,2022-08-01,Drills per Hour (TOH),Actual,Month,149.95848,ACME,1
+1533,2022-08-01,Drills per Hour (TOH),Actual,Month,48164.4384,Rock Solid Enterprises,1
+1534,2022-08-01,Drills per Hour (TOH),Actual,Month,1380.1416,Core Extraction Systems,1
+1535,2022-08-01,Drills per Hour (TOH),Actual,Month,6651.48168,Mineral Extraction Technologies,1
+1536,2022-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1537,2022-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3925.80516,Core Extraction Systems,1
+1538,2022-08-01,Rate (Mt.EFH Km),Actual,Month,5184.96516,Core Extraction Systems,1
+1539,2022-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5792.10336,Mineral Extraction Technologies,1
+1540,2022-08-01,Rate (Mt.EFH Km),Actual,Month,6534.53628,Mineral Extraction Technologies,1
+1541,2022-08-01,Coal Mined (Mt),Actual,Year-To-Date,58.47924,Deep Earth Exploration Unit,1000000
+1542,2022-08-01,Coal Mined (Mt),Actual,Month,6.71448,Deep Earth Exploration Unit,1000000
+1543,2022-08-01,Coal Mined (Mt),Plan,Year-To-Date,2.34228,Deep Earth Exploration Unit,1000000
+1544,2022-09-01,Coal Mined (Mt),Actual,Year-To-Date,15.882,ACME,1000000
+1545,2022-09-01,Coal Mined (Mt),Actual,Month,2.04384,ACME,1000000
+1546,2022-09-01,Coal Dry Mining (Mt),Plan,Month,0.42336,ACME,1000000
+1547,2022-09-01,Utility (%),Actual,Year-To-Date,50.232,Deep Earth Exploration Unit,1
+1548,2022-09-01,Utility (%),Actual,Month,47.088,Deep Earth Exploration Unit,1
+1549,2022-09-01,Utility (%),Plan,Year-To-Date,70.09752,Deep Earth Exploration Unit,1
+1550,2022-09-01,Utility (%),Plan,Month,83.00604,Deep Earth Exploration Unit,1
+1551,2022-09-01,Coal Mined (Mt),Plan,Year-To-Date,15.41088,ACME,1000000
+1552,2022-09-01,Coal Mined (Mt),Plan,Month,1.734,ACME,1000000
+1553,2022-09-01,Yield (%),Actual,Year-To-Date,47.976,Deep Earth Exploration Unit,1
+1554,2022-09-01,Yield (%),Actual,Month,51.288,Deep Earth Exploration Unit,1
+1555,2022-09-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1556,2022-09-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1557,2022-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,17.22012,Deep Earth Exploration Unit,1000000
+1558,2022-09-01,Coal Dry Mining (Mt),Actual,Month,1.66992,Deep Earth Exploration Unit,1000000
+1559,2022-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,11.8026,Deep Earth Exploration Unit,1000000
+1560,2022-09-01,Coal Dry Mining (Mt),Plan,Month,1.31244,Deep Earth Exploration Unit,1000000
+1561,2022-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.89284,ACME,1000000
+1562,2022-09-01,Coal Dry Mining (Mt),Actual,Month,0.72696,ACME,1000000
+1563,2022-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.71148,ACME,1000000
+1564,2022-09-01,Drills per Hour (TOH),Actual,Month,941.9028,Drill & Blast Division,1
+1565,2022-09-01,Drills per Hour (TOH),Actual,Month,31696.39116,Pacific Surface Mining Solutions,1
+1566,2022-09-01,Drills per Hour (TOH),Actual,Month,33631.60872,Geomining Innovations,1
+1567,2022-09-01,Drills per Hour (TOH),Actual,Month,227.01444,Deep Earth Exploration Unit,1
+1568,2022-09-01,Drills per Hour (TOH),Actual,Month,110.19372,ACME,1
+1569,2022-09-01,Drills per Hour (TOH),Actual,Month,48348.10656,Rock Solid Enterprises,1
+1570,2022-09-01,Drills per Hour (TOH),Actual,Month,4824.21852,Core Extraction Systems,1
+1571,2022-09-01,Drills per Hour (TOH),Actual,Month,7202.49816,Mineral Extraction Technologies,1
+1572,2022-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1573,2022-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4020.657,Core Extraction Systems,1
+1574,2022-09-01,Rate (Mt.EFH Km),Actual,Month,4876.40688,Core Extraction Systems,1
+1575,2022-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5845.20564,Mineral Extraction Technologies,1
+1576,2022-09-01,Rate (Mt.EFH Km),Actual,Month,6278.65404,Mineral Extraction Technologies,1
+1577,2022-09-01,Coal Mined (Mt),Actual,Year-To-Date,66.45768,Deep Earth Exploration Unit,1000000
+1578,2022-09-01,Coal Mined (Mt),Actual,Month,7.97844,Deep Earth Exploration Unit,1000000
+1579,2022-09-01,Coal Mined (Mt),Plan,Year-To-Date,2.67924,Deep Earth Exploration Unit,1000000
+1580,2022-10-01,Coal Mined (Mt),Actual,Year-To-Date,18.12792,ACME,1000000
+1581,2022-10-01,Coal Mined (Mt),Actual,Month,2.24604,ACME,1000000
+1582,2022-10-01,Coal Dry Mining (Mt),Plan,Month,0.36696,ACME,1000000
+1583,2022-10-01,Utility (%),Actual,Year-To-Date,50.46,Deep Earth Exploration Unit,1
+1584,2022-10-01,Utility (%),Actual,Month,52.392,Deep Earth Exploration Unit,1
+1585,2022-10-01,Utility (%),Plan,Year-To-Date,71.62788,Deep Earth Exploration Unit,1
+1586,2022-10-01,Utility (%),Plan,Month,85.40052,Deep Earth Exploration Unit,1
+1587,2022-10-01,Coal Mined (Mt),Plan,Year-To-Date,16.97508,ACME,1000000
+1588,2022-10-01,Coal Mined (Mt),Plan,Month,1.5642,ACME,1000000
+1589,2022-10-01,Yield (%),Actual,Year-To-Date,47.892,Deep Earth Exploration Unit,1
+1590,2022-10-01,Yield (%),Actual,Month,47.328,Deep Earth Exploration Unit,1
+1591,2022-10-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1592,2022-10-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1593,2022-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,18.66432,Deep Earth Exploration Unit,1000000
+1594,2022-10-01,Coal Dry Mining (Mt),Actual,Month,1.4442,Deep Earth Exploration Unit,1000000
+1595,2022-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,13.16232,Deep Earth Exploration Unit,1000000
+1596,2022-10-01,Coal Dry Mining (Mt),Plan,Month,1.35972,Deep Earth Exploration Unit,1000000
+1597,2022-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.77028,ACME,1000000
+1598,2022-10-01,Coal Dry Mining (Mt),Actual,Month,0.87744,ACME,1000000
+1599,2022-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.07832,ACME,1000000
+1600,2022-10-01,Drills per Hour (TOH),Actual,Month,1197.40068,Drill & Blast Division,1
+1601,2022-10-01,Drills per Hour (TOH),Actual,Month,31596.072,Pacific Surface Mining Solutions,1
+1602,2022-10-01,Drills per Hour (TOH),Actual,Month,31766.70672,Geomining Innovations,1
+1603,2022-10-01,Drills per Hour (TOH),Actual,Month,255.53244,Deep Earth Exploration Unit,1
+1604,2022-10-01,Drills per Hour (TOH),Actual,Month,129.29196,ACME,1
+1605,2022-10-01,Drills per Hour (TOH),Actual,Month,45631.73604,Rock Solid Enterprises,1
+1606,2022-10-01,Drills per Hour (TOH),Actual,Month,5317.55268,Core Extraction Systems,1
+1607,2022-10-01,Drills per Hour (TOH),Actual,Month,6674.18376,Mineral Extraction Technologies,1
+1608,2022-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1609,2022-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4062.65136,Core Extraction Systems,1
+1610,2022-10-01,Rate (Mt.EFH Km),Actual,Month,4450.75488,Core Extraction Systems,1
+1611,2022-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5935.07832,Mineral Extraction Technologies,1
+1612,2022-10-01,Rate (Mt.EFH Km),Actual,Month,6731.97336,Mineral Extraction Technologies,1
+1613,2022-10-01,Coal Mined (Mt),Actual,Year-To-Date,73.6008,Deep Earth Exploration Unit,1000000
+1614,2022-10-01,Coal Mined (Mt),Actual,Month,7.143,Deep Earth Exploration Unit,1000000
+1615,2022-10-01,Coal Mined (Mt),Plan,Year-To-Date,3.02748,Deep Earth Exploration Unit,1000000
+1616,2022-11-01,Coal Mined (Mt),Actual,Year-To-Date,20.29428,ACME,1000000
+1617,2022-11-01,Coal Mined (Mt),Actual,Month,2.16636,ACME,1000000
+1618,2022-11-01,Coal Dry Mining (Mt),Plan,Month,0.42336,ACME,1000000
+1619,2022-11-01,Utility (%),Actual,Year-To-Date,50.916,Deep Earth Exploration Unit,1
+1620,2022-11-01,Utility (%),Actual,Month,55.548,Deep Earth Exploration Unit,1
+1621,2022-11-01,Utility (%),Plan,Year-To-Date,72.66228,Deep Earth Exploration Unit,1
+1622,2022-11-01,Utility (%),Plan,Month,83.00604,Deep Earth Exploration Unit,1
+1623,2022-11-01,Coal Mined (Mt),Plan,Year-To-Date,18.8154,ACME,1000000
+1624,2022-11-01,Coal Mined (Mt),Plan,Month,1.84032,ACME,1000000
+1625,2022-11-01,Yield (%),Actual,Year-To-Date,47.46,Deep Earth Exploration Unit,1
+1626,2022-11-01,Yield (%),Actual,Month,42.48,Deep Earth Exploration Unit,1
+1627,2022-11-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1628,2022-11-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1629,2022-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,20.01708,Deep Earth Exploration Unit,1000000
+1630,2022-11-01,Coal Dry Mining (Mt),Actual,Month,1.35276,Deep Earth Exploration Unit,1000000
+1631,2022-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,14.47476,Deep Earth Exploration Unit,1000000
+1632,2022-11-01,Coal Dry Mining (Mt),Plan,Month,1.31244,Deep Earth Exploration Unit,1000000
+1633,2022-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,7.62408,ACME,1000000
+1634,2022-11-01,Coal Dry Mining (Mt),Actual,Month,0.8538,ACME,1000000
+1635,2022-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.50168,ACME,1000000
+1636,2022-11-01,Drills per Hour (TOH),Actual,Month,1010.77176,Drill & Blast Division,1
+1637,2022-11-01,Drills per Hour (TOH),Actual,Month,31940.87712,Pacific Surface Mining Solutions,1
+1638,2022-11-01,Drills per Hour (TOH),Actual,Month,29796.7302,Geomining Innovations,1
+1639,2022-11-01,Drills per Hour (TOH),Actual,Month,266.76396,Deep Earth Exploration Unit,1
+1640,2022-11-01,Drills per Hour (TOH),Actual,Month,136.23528,ACME,1
+1641,2022-11-01,Drills per Hour (TOH),Actual,Month,48131.34192,Rock Solid Enterprises,1
+1642,2022-11-01,Drills per Hour (TOH),Actual,Month,4714.94796,Core Extraction Systems,1
+1643,2022-11-01,Drills per Hour (TOH),Actual,Month,6942.14664,Mineral Extraction Technologies,1
+1644,2022-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1645,2022-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4103.13084,Core Extraction Systems,1
+1646,2022-11-01,Rate (Mt.EFH Km),Actual,Month,4526.79528,Core Extraction Systems,1
+1647,2022-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5997.89304,Mineral Extraction Technologies,1
+1648,2022-11-01,Rate (Mt.EFH Km),Actual,Month,6638.34096,Mineral Extraction Technologies,1
+1649,2022-11-01,Coal Mined (Mt),Actual,Year-To-Date,80.73108,Deep Earth Exploration Unit,1000000
+1650,2022-11-01,Coal Mined (Mt),Actual,Month,7.13028,Deep Earth Exploration Unit,1000000
+1651,2022-11-01,Coal Mined (Mt),Plan,Year-To-Date,3.36444,Deep Earth Exploration Unit,1000000
+1652,2022-12-01,Coal Mined (Mt),Actual,Year-To-Date,21.26364,ACME,1000000
+1653,2022-12-01,Coal Mined (Mt),Actual,Month,0.96936,ACME,1000000
+1654,2022-12-01,Coal Dry Mining (Mt),Plan,Month,0.43752,ACME,1000000
+1655,2022-12-01,Utility (%),Actual,Year-To-Date,51.144,Deep Earth Exploration Unit,1
+1656,2022-12-01,Utility (%),Actual,Month,53.556,Deep Earth Exploration Unit,1
+1657,2022-12-01,Utility (%),Plan,Year-To-Date,73.70916,Deep Earth Exploration Unit,1
+1658,2022-12-01,Utility (%),Plan,Month,85.2258,Deep Earth,1
+1659,2022-12-01,Coal Mined (Mt),Plan,Year-To-Date,20.71704,ACME,1000000
+1660,2022-12-01,Coal Mined (Mt),Plan,Month,1.90164,ACME,1000000
+1661,2022-12-01,Yield (%),Actual,Year-To-Date,47.364,Deep Earth Exploration Unit,1
+1662,2022-12-01,Yield (%),Actual,Month,46.644,Deep Earth Exploration Unit,1
+1663,2022-12-01,Yield (%),Plan,Year-To-Date,39.6,Deep Earth Exploration Unit,1
+1664,2022-12-01,Yield (%),Plan,Month,39.6,Deep Earth Exploration Unit,1
+1665,2022-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,21.42336,Deep Earth Exploration Unit,1000000
+1666,2022-12-01,Coal Dry Mining (Mt),Actual,Month,1.40628,Deep Earth Exploration Unit,1000000
+1667,2022-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,15.90048,Deep Earth Exploration Unit,1000000
+1668,2022-12-01,Coal Dry Mining (Mt),Plan,Month,1.42584,Deep Earth Exploration Unit,1000000
+1669,2022-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,7.8774,ACME,1000000
+1670,2022-12-01,Coal Dry Mining (Mt),Actual,Month,0.25332,ACME,1000000
+1671,2022-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.9392,ACME,1000000
+1672,2022-12-01,Drills per Hour (TOH),Actual,Month,1099.64952,Drill & Blast Division,1
+1673,2022-12-01,Drills per Hour (TOH),Actual,Month,31663.24488,Pacific Surface Mining Solutions,1
+1674,2022-12-01,Drills per Hour (TOH),Actual,Month,31257.39708,Geomining Innovations,1
+1675,2022-12-01,Drills per Hour (TOH),Actual,Month,246.09936,Deep Earth Exploration Unit,1
+1676,2022-12-01,Drills per Hour (TOH),Actual,Month,77.08536,ACME,1
+1677,2022-12-01,Drills per Hour (TOH),Actual,Month,49127.25348,Rock Solid Enterprises,1
+1678,2022-01-12,Drills per Hour (TOH),Actual,Month,4725.83484,Core Extraction Systems,1
+1679,2022-12-01,Drills per Hour (TOH),Actual,Month,6920.46276,Mineral Extraction Technologies,1
+1680,2022-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,5535.30876,Geomining Innovations,1
+1681,2022-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4081.54116,Core Extraction Systems,1
+1682,2022-12-01,Rate (Mt.EFH Km),Actual,Month,3841.977,Core Extraction Systems,1
+1683,2022-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6002.13084,Mineral Extraction Technologies,1
+1684,2022-12-01,Rate (Mt.EFH Km),Actual,Month,6048.0462,Mineral Extraction Technologies,1
+1685,2022-12-01,Coal Mined (Mt),Actual,Year-To-Date,87.32028,Deep Earth Exploration Unit,1000000
+1686,2022-12-01,Coal Mined (Mt),Actual,Month,6.5892,Deep Earth Exploration Unit,1000000
+1687,2022-12-01,Coal Mined (Mt),Plan,Year-To-Date,3.71256,Deep Earth Exploration Unit,1000000
+1688,2023-01-01,Coal Mined (Mt),Plan,Year-To-Date,7.809,Deep Earth Exploration Unit,1000000
+1689,2023-01-01,Coal Mined (Mt),Plan,Month,7.809,Deep Earth Exploration Unit,1000000
+1690,2023-01-01,Coal Dry Mining (Mt),Plan,Month,0.7734,ACME,1000000
+1691,2023-01-01,Utility (%),Actual,Year-To-Date,43.404,Deep Earth Exploration Unit,1
+1692,2023-01-01,Utility (%),Actual,Month,43.404,Deep Earth Exploration Unit,1
+1693,2023-01-01,Utility (%),Plan,Year-To-Date,46.752,Deep Earth Exploration Unit,1
+1694,2023-01-01,Utility (%),Plan,Month,46.752,Deep Earth Exploration Unit,1
+1695,2023-01-01,Coal Mined (Mt),Actual,Year-To-Date,2.47884,ACME,1000000
+1696,2023-01-01,Coal Mined (Mt),Actual,Month,2.47884,ACME,1000000
+1697,2023-01-01,Coal Mined (Mt),Plan,Year-To-Date,2.07768,ACME,1000000
+1698,2023-01-01,Coal Mined (Mt),Plan,Month,2.07768,ACME,1000000
+1699,2023-01-01,Yield (%),Actual,Year-To-Date,39.084,Deep Earth Exploration Unit,1
+1700,2023-01-01,Yield (%),Actual,Month,39.084,Deep Earth Exploration Unit,1
+1701,2023-01-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1702,2023-01-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1703,2023-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.44,Deep Earth Exploration Unit,1000000
+1704,2023-01-01,Coal Dry Mining (Mt),Actual,Month,1.44,Deep Earth Exploration Unit,1000000
+1705,2023-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.7734,ACME,1000000
+1706,2023-01-01,Coal Dry Mining (Mt),Actual,Month,0.7734,ACME,1000000
+1707,2023-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.7734,ACME,1000000
+1708,2023-01-01,Drills per Hour (TOH),Actual,Month,504.669,Drill & Blast Division,1
+1709,2023-01-01,Drills per Hour (TOH),Actual,Month,31478.5878,Pacific Surface Mining Solutions,1
+1710,2023-01-01,Drills per Hour (TOH),Actual,Month,28968.75372,Geomining Innovations,1
+1711,2023-01-01,Drills per Hour (TOH),Actual,Month,237.91824,Deep Earth Exploration Unit,1
+1712,2023-01-01,Drills per Hour (TOH),Actual,Month,146.41944,ACME,1
+1713,2023-01-01,Drills per Hour (TOH),Actual,Month,46668.32844,Rock Solid Enterprises,1
+1714,2023-01-01,Drills per Hour (TOH),Actual,Month,4194.2394,Core Extraction Systems,1
+1715,2023-01-01,Drills per Hour (TOH),Actual,Month,6704.90388,Mineral Extraction Technologies,1
+1716,2023-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3378.8802,Core Extraction Systems,1
+1717,2023-01-01,Rate (Mt.EFH Km),Actual,Month,3378.8802,Core Extraction Systems,1
+1718,2023-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4225.87968,Mineral Extraction Technologies,1
+1719,2023-01-01,Rate (Mt.EFH Km),Actua,Month,4225.87968,Mineral Extraction Technologies,1
+1720,2023-01-01,Coal Mined (Mt),Actual,Year-To-Date,8.05944,Deep Earth Exploration Unit,1000000
+1721,2023-02-01,Coal Mined (Mt),Plan,Year-To-Date,14.91096,Deep Earth Exploration Unit,1000000
+1722,2023-02-01,Coal Mined (Mt),Plan,Month,7.10196,Deep Earth Exploration Unit,1000000
+1723,2023-02-01,Coal Dry Mining (Mt),Plan,Month,0.5616,ACME,1000000
+1724,2023-02-01,Utility (%),Actual,Year-To-Date,42.168,Deep Earth Exploration Unit,1
+1725,2023-02-01,Utility (%),Actual,Month,40.8,Deep Earth Exploration Unit,1
+1726,2023-02-01,Utility (%),Plan,Year-To-Date,47.22,Deep Earth Exploration Unit,1
+1727,2023-02-01,Utility (%),Plan,Month,47.748,Deep Earth Exploration Unit,1
+1728,2023-02-01,Coal Mined (Mt),Actual,Year-To-Date,4.245,ACME,1000000
+1729,2023-02-01,Coal Mined (Mt),Actual,Month,1.76616,ACME,1000000
+1730,2023-02-01,Coal Mined (Mt),Plan,Year-To-Date,3.30432,ACME,1000000
+1731,2023-02-01,Coal Mined (Mt),Plan,Month,1.22664,ACME,1000000
+1732,2023-02-01,Yield (%),Actual,Year-To-Date,37.176,Deep Earth Exploration Unit,1
+1733,2023-02-01,Yield (%),Actual,Month,34.872,Deep Earth Exploration Unit,1
+1734,2023-02-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1735,2023-02-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1736,2023-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.41776,Deep Earth Exploration Unit,1000000
+1737,2023-02-01,Coal Dry Mining (Mt),Actual,Month,0.97776,Deep Earth Exploration Unit,1000000
+1738,2023-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.25724,ACME,1000000
+1739,2023-02-01,Coal Dry Mining (Mt),Actual,Month,0.48384,ACME,1000000
+1740,2023-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.335,ACME,1000000
+1741,2023-02-01,Drills per Hour (TOH),Actual,Month,916.75368,Drill & Blast Division,1
+1742,2023-02-01,Drills per Hour (TOH),Actual,Month,31050.7086,Pacific Surface Mining Solutions,1
+1743,2023-02-01,Drills per Hour (TOH),Actual,Month,31820.08776,Geomining Innovations,1
+1744,2023-02-01,Drills per Hour (TOH),Actual,Month,203.44224,Deep Earth Exploration Unit,1
+1745,2023-02-01,Drills per Hour (TOH),Actual,Month,175.23816,ACME,1
+1746,2023-02-01,Drills per Hour (TOH),Actual,Month,48228.69144,Rock Solid Enterprises,1
+1747,2023-02-01,Drills per Hour (TOH),Actual,Month,4681.3044,Core Extraction Systems,1
+1748,2023-02-01,Drills per Hour (TOH),Actual,Month,6613.8582,Mineral Extraction Technologies,1
+1749,2023-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3508.9758,Core Extraction Systems,1
+1750,2023-02-01,Rate (Mt.EFH Km),Actual,Month,3653.01024,Core Extraction Systems,1
+1751,2023-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4248.38184,Mineral Extraction Technologies,1
+1752,2023-02-01,Rate (Mt.EFH Km),Actual,Month,4270.99536,Mineral Extraction Technologies,1
+1753,2023-02-01,Coal Mined (Mt),Actual,Year-To-Date,14.16372,Deep Earth Exploration Unit,1000000
+1754,2023-03-01,Coal Mined (Mt),Plan,Year-To-Date,23.21592,Deep Earth Exploration Unit,1000000
+1755,2023-03-01,Coal Mined (Mt),Plan,Month,8.30496,Deep Earth Exploration Unit,1000000
+1756,2023-03-01,Coal Dry Mining (Mt),Plan,Month,0.5616,ACME,1000000
+1757,2023-03-01,Utility (%),Actual,Year-To-Date,44.496,Deep Earth Exploration Unit,1
+1758,2023-03-01,Utility (%),Actual,Month,48.912,Deep Earth Exploration Unit,1
+1759,2023-03-01,Utility (%),Plan,Year-To-Date,47.4,Deep Earth Exploration Unit,1
+1760,2023-03-01,Utility (%),Plan,Month,47.748,Deep Earth Exploration Unit,1
+1761,2023-03-01,Coal Mined (Mt),Actual,Year-To-Date,6.44424,ACME,1000000
+1762,2023-03-01,Coal Mined (Mt),Actual,Month,2.19936,ACME,1000000
+1763,2023-03-01,Coal Mined (Mt),Plan,Year-To-Date,5.45112,ACME,1000000
+1764,2023-03-01,Coal Mined (Mt),Plan,Month,2.1468,ACME,1000000
+1765,2023-03-01,Yield (%),Actual,Year-To-Date,36.228,Deep Earth Exploration Unit,1
+1766,2023-03-01,Yield (%),Actual,Month,34.488,Deep Earth Exploration Unit,1
+1767,2023-03-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1768,2023-03-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1769,2023-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.81708,Deep Earth Exploration Unit,1000000
+1770,2023-03-01,Coal Dry Mining (Mt),Actual,Month,1.39932,Deep Earth Exploration Unit,1000000
+1771,2023-03-01,Coal Dry Mining (Mt),Actual,Year-To-Date,1.85892,ACME,1000000
+1772,2023-03-01,Coal Dry Mining (Mt),Actual,Month,0.60156,ACME,1000000
+1773,2023-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.8966,ACME,1000000
+1774,2023-03-01,Drills per Hour (TOH),Actual,Month,460.07124,Drill & Blast Division,1
+1775,2023-03-01,Drills per Hour (TOH),Actual,Month,31883.69868,Pacific Surface Mining Solutions,1
+1776,2023-03-01,Drills per Hour (TOH),Actual,Month,36608.56356,Geomining Innovations,1
+1777,2023-03-01,Drills per Hour (TOH),Actual,Month,223.43112,Deep Earth Exploration Unit,1
+1778,2023-03-01,Drills per Hour (TOH),Actual,Month,158.52048,ACME,1
+1779,2023-03-01,Drills per Hour (TOH),Actual,Month,45394.79256,Rock Solid Enterprises,1
+1780,2023-03-01,Drills per Hour (TOH),Actual,Month,4926.36576,Core Extraction Systems,1
+1781,2023-03-01,Drills per Hour (TOH),Actual,Month,6941.2578,Mineral Extraction Technologies,1
+1782,2023-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3571.45872,Core Extraction Systems,1
+1783,2023-03-01,Rate (Mt.EFH Km),Actual,Month,3690.37788,Core Extraction Systems,1
+1784,2023-03-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4269.27096,Mineral Extraction Technologies,1
+1785,2023-03-01,Rate (Mt.EFH Km),Actual,Month,4304.33532,Mineral Extraction Technologies,1
+1786,2023-03-01,Coal Mined (Mt),Actual,Year-To-Date,22.0872,Deep Earth Exploration Unit,1000000
+1787,2023-04-01,Coal Mined (Mt),Plan,Year-To-Date,31.11216,Deep Earth Exploration Unit,1000000
+1788,2023-04-01,Coal Mined (Mt),Plan,Month,7.89624,Deep Earth Exploration Unit,1000000
+1789,2023-04-01,Coal Dry Mining (Mt),Plan,Month,0.5166,ACME,1000000
+1790,2023-04-01,Utility (%),Actual,Year-To-Date,46.128,Deep Earth Exploration Unit,1
+1791,2023-04-01,Utility (%),Actual,Month,51.048,Deep Earth Exploration Unit,1
+1792,2023-04-01,Utility (%),Plan,Year-To-Date,50.724,Deep Earth Exploration Unit,1
+1793,2023-04-01,Utility (%),Plan,Month,60.672,Deep Earth  Unit,1
+1794,2023-04-01,Coal Mined (Mt),Actual,Year-To-Date,8.5476,ACME,1000000
+1795,2023-04-01,Coal Mined (Mt),Actual,Month,2.10324,ACME,1000000
+1796,2023-04-01,Coal Mined (Mt),Plan,Year-To-Date,7.65972,ACME,1000000
+1797,2023-04-01,Coal Mined (Mt),Plan,Month,2.2086,ACME,1000000
+1798,2023-04-01,Yield (%),Actual,Year-To-Date,37.932,Deep Earth Exploration Unit,1
+1799,2023-04-01,Yield (%),Actual,Month,43.656,Deep Earth Exploration Unit,1
+1800,2023-04-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1801,2019-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,6568.82856,Geomining Innovations,1
+1802,2019-03-01,Rate (Mt.EFH Km),Actual,Month,2732.90304,Mineral Extraction Technologies,1
+1803,2019-04-01,Rate (Mt.EFH Km),Actual,Month,3311.22744,Mineral Extraction Technologies,1
+1804,2019-05-01,Coal Mined (Mt),Actual,Month,6.61716,Deep Earth Exploration Unit,1000000
+1805,2019-06-01,Coal Mined (Mt),Plan,Month,1.296,ACME,1000000
+1806,2019-07-01,Coal Mined (Mt),Actual,Month,6.67668,Deep Earth Exploration Unit,1000000
+1807,2019-08-01,Coal Mined (Mt),Actual,Month,6.9936,Deep Earth Exploration Unit,1000000
+1808,2019-09-01,Coal Mined (Mt),Actual,Month,7.16064,Deep Earth Exploration Unit,1000000
+1809,2019-10-01,Coal Mined (Mt),Actual,Month,7.39836,Deep Earth Exploration Unit,1000000
+1810,2019-11-01,Coal Mined (Mt),Actual,Month,4.33896,Deep Earth Exploration Unit,1000000
+1811,2019-12-01,Coal Mined (Mt),Actual,Year-To-Date,72.57348,Deep Earth Exploration Unit,1000000
+1812,2020-01-01,Rate (Mt.EFH Km),Actual,Month,5652.5484,Quarrying Ventures,1
+1813,2020-02-01,Coal Mined (Mt),Plan,Month,6.432,Deep Earth Exploration Unit,1000000
+1814,2020-03-01,Coal Mined (Mt),Plan,Month,6.9516,Deep Earth Exploration Unit,1000000
+1815,2020-04-01,Coal Mined (Mt),Plan,Month,7.07532,Deep Earth Exploration Unit,1000000
+1816,2020-05-01,Rate (Mt.EFH Km),Actual,Month,4725.80184,Quarrying Ventures,1
+1817,2020-06-01,Coal Mined (Mt),Plan,Month,7.22472,Deep Earth Exploration Unit,1000000
+1818,2020-07-01,Coal Mined (Mt),Plan,Month,7.66644,Deep Earth Exploration Unit,1000000
+1819,2020-08-01,Coal Mined (Mt),Plan,Month,7.66644,Deep Earth Exploration Unit,1000000
+1820,2020-09-01,Coal Mined (Mt),Plan,Month,5.06916,Deep Earth Exploration Unit,1000000
+1821,2020-10-01,Rate (Mt.EFH Km),Actual,Month,8472.47616,Geomining Innovations,1
+1822,2020-11-01,Coal Mined (Mt),Plan,Month,7.41912,Deep Earth Exploration Unit,1000000
+1823,2020-12-01,Coal Mined (Mt),Plan,Month,7.66644,Deep Earth Exploration Unit,1000000
+1824,2021-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4038.66672,Core Extraction Systems,1
+1825,2021-02-01,Coal Mined (Mt),Plan,Month,6.33912,Deep Earth Exploration Unit,1000000
+1826,2021-03-01,Coal Mined (Mt),Plan,Month,7.01832,Deep Earth Exploration Unit,1000000
+1827,2021-04-01,Coal Mined (Mt),Plan,Month,7.67136,Deep Earth Exploration Unit,1000000
+1828,2021-05-01,Coal Mined (Mt),Plan,Month,7.92708,Deep Earth Exploration Unit,1000000
+1829,2021-06-01,Coal Mined (Mt),Plan,Year-To-Date,42.49788,Deep Earth Exploration Unit,1000000
+1830,2021-07-01,Coal Mined (Mt),Plan,Year-To-Date,50.2464,Deep Earth Exploration Unit,1000000
+1831,2021-08-01,Coal Mined (Mt),Plan,Year-To-Date,57.84156,Deep Earth Exploration Unit,1000000
+1832,2021-09-01,Coal Mined (Mt),Plan,Month,7.67136,Deep Earth Exploration Unit,1000000
+1833,2021-10-01,Coal Mined (Mt),Plan,Month,7.92708,Deep Earth Exploration Unit,1000000
+1834,2021-11-01,Coal Mined (Mt),Plan,Month,7.67136,Deep Earth Exploration Unit,1000000
+1835,2021-12-01,Coal Mined (Mt),Plan,Month,7.92708,Deep Earth Exploration Unit,1000000
+1836,2022-01-01,Coal Mined (Mt),Plan,Month,0.24108,Deep Earth Exploration Unit,1000000
+1837,2022-02-01,Coal Mined (Mt),Plan,Month,0.22548,Deep Earth Exploration Unit,1000000
+1838,2022-03-01,Coal Mined (Mt),Plan,Month,0.34824,Deep Earth Exploration Unit,1000000
+1839,2022-04-01,Coal Mined (Mt),Plan,Month,0.25836,Deep Earth Exploration Unit,1000000
+1840,2022-05-01,Coal Mined (Mt),Plan,Month,0.34944,Deep Earth Exploration Unit,1000000
+1841,2022-06-01,Coal Mined (Mt),Plan,Month,0.27504,Deep Earth Exploration Unit,1000000
+1842,2022-07-01,Coal Mined (Mt),Plan,Month,0.52848,Deep Earth Exploration Unit,1000000
+1843,2022-08-01,Coal Mined (Mt),Plan,Month,0.71508,Deep Earth Exploration Unit,1000000
+1844,2022-09-01,Coal Mined (Mt),Plan,Month,0.87696,Deep Earth Exploration Unit,1000000
+1845,2022-10-01,Coal Mined (Mt),Plan,Month,1.05936,Deep Earth Exploration Unit,1000000
+1846,2022-11-01,Coal Mined (Mt),Plan,Month,1.20132,Deep Earth Exploration Unit,1000000
+1847,2022-12-01,Coal Mined (Mt),Plan,Month,1.46688,Deep Earth Exploration Unit,1000000
+1848,2023-01-01,Coal Mined (Mt),Actual,Month,8.05944,Deep Earth Exploration Unit,1000000
+1849,2023-02-01,Coal Mined (Mt),Actual,Month,6.10428,Deep Earth Exploration Unit,1000000
+1850,2023-03-01,Coal Mined (Mt),Actual,Month,7.92348,Deep Earth Exploration Unit,1000000
+1851,2023-04-01,Coal Mined (Mt),Actual,Month,8.22516,Deep Earth Exploration Unit,1000000
+1852,2023-05-01,Coal Mined (Mt),Plan,Month,7.6818,Deep Earth Exploration Unit,1000000
+1853,2023-06-01,Coal Mined (Mt),Plan,Month,7.77996,Deep Earth Exploration Unit,1000000
+1854,2023-07-01,Coal Mined (Mt),Plan,Month,5.78244,Deep Earth Exploration Unit,1000000
+1855,2023-08-01,Coal Mined (Mt),Plan,Month,7.86972,Deep Earth Exploration Unit,1000000
+1856,2023-09-01,Coal Mined (Mt),Plan,Month,8.10828,Deep Earth Exploration Unit,1000000
+1857,2023-10-01,Coal Mined (Mt),Plan,Month,7.93944,Deep Earth Exploration Unit,1000000
+1858,2023-11-01,Coal Mined (Mt),Plan,Month,7.98384,Deep Earth Exploration Unit,1000000
+1859,2023-12-01,Rate (Mt.EFH Km),Actual,Month,4520.637,Mineral Extraction Technologies,1
+1860,2024-01-01,Rate (Mt.EFH Km),Actual,Month,3635.81808,Core Extraction Systems,1
+1861,2024-02-01,Rate (Mt.EFH Km),Actual,Month,3376.64244,Core Extraction Systems,1
+1862,2024-03-01,Coal Dry Mining (Mt),Plan,Month,0.44436,ACME,1000000
+1863,2024-04-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1864,2024-05-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1865,2024-06-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1866,2024-07-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1867,2024-08-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1868,2024-09-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1869,2024-10-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1870,2024-11-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1871,2024-12-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+1872,2023-04-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1873,2023-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.3772,Deep Earth Exploration Unit,1000000
+1874,2023-04-01,Coal Dry Mining (Mt),Actual,Month,1.56024,Deep Earth Exploration Unit,1000000
+1875,2023-04-01,Coal Dry Mining (Mt),Actual,Year-To-Date,2.45568,ACME,1000000
+1876,2023-04-01,Coal Dry Mining (Mt),Actual,Month,0.59676,ACME,1000000
+1877,2023-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,2.4132,ACME,1000000
+1878,2023-04-01,Drills per Hour (TOH),Actual,Month,565.89276,Drill & Blast Division,1
+1879,2023-04-01,Drills per Hour (TOH),Actual,Month,30763.9662,Pacific Surface Mining Solutions,1
+1880,2023-04-01,Drills per Hour (TOH),Actual,Month,30647.43312,Geomining Innovations,1
+1881,2023-04-01,Drills per Hour (TOH),Actual,Month,236.4216,Deep Earth Exploration Unit,1
+1882,2023-04-01,Drills per Hour (TOH),Actual,Month,136.34376,ACME,1
+1883,2023-04-01,Drills per Hour (TOH),Actual,Month,47914.88244,Rock Solid Enterprises,1
+1884,2023-04-01,Drills per Hour (TOH),Actual,Month,5101.6572,Core Extraction Systems,1
+1885,2023-04-01,Drills per Hour (TOH),Actual,Month,7073.15616,Mineral Extraction Technologies,1
+1886,2023-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3727.52196,Core Extraction Systems,1
+1887,2023-04-01,Rate (Mt.EFH Km),Actual,Month,4164.3048,Core Extraction Systems,1
+1888,2023-04-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4488.2928,Mineral Extraction Technologies,1
+1889,2023-04-01,(Mt.EFH Km),Actual,Month,5105.95284,Mineral Extraction Technologies,1
+1890,2023-04-01,Coal Mined (Mt),Actual,Year-To-Date,30.31224,Deep Earth Exploration Unit,1000000
+1891,2023-05-01,Coal Mined (Mt),Actual,Year-To-Date,10.63104,ACME,1000000
+1892,2023-05-01,Coal Mined (Mt),Actual,Month,2.08356,ACME,1000000
+1893,2023-05-01,Coal Dry Mining (Mt),Plan,Month,0.6696,ACME,1000000
+1894,2023-05-01,Utility (%),Actual,Year-To-Date,46.752,Deep Earth Exploration Unit,1
+1895,2023-05-01,Utility (%),Actual,Month,49.176,Deep Earth Exploration Unit,1
+1896,2023-05-01,Utility (%),Plan,Year-To-Date,52.764,Deep Earth Exploration Unit,1
+1897,2023-05-01,Utility (%),Plan,Month,60.672,Deep Earth Exploration Unit,1
+1898,2023-05-01,Coal Mined (Mt),Plan,Year-To-Date,9.90708,ACME,1000000
+1899,2023-05-01,Coal Mined (Mt),Plan,Month,2.24736,ACME,1000000
+1900,2023-05-01,Yield (%),Actual,Year-To-Date,38.352,Deep Earth Exploration Unit,1
+1901,2023-05-01,Yield (%),Actual,Month,40.164,Deep Earth Exploration Unit,1
+1902,2023-05-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1903,2023-05-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1904,2023-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,7.10508,Deep Earth Exploration Unit,1000000
+1905,2023-05-01,Coal Dry Mining (Mt),Actual,Month,1.72776,Deep Earth Exploration Unit,1000000
+1906,2023-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.96864,Deep Earth Exploration Unit,1000000
+1907,2023-05-01,Coal Dry Mining (Mt),Plan,Month,0.96864,Deep Earth Exploration Unit,1000000
+1908,2023-05-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.10188,ACME,1000000
+1909,2023-05-01,Coal Dry Mining (Mt),Actual,Month,0.6462,ACME,1000000
+1910,2023-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.0828,ACME,1000000
+1911,2023-05-01,Drills per Hour (TOH),Actual,Month,478.36128,Drill & Blast Division,1
+1912,2023-05-01,Drills per Hour (TOH),Actual,Month,31653.1152,Pacific Surface Mining Solutions,1
+1913,2023-05-01,Drills per Hour (TOH),Actual,Month,20073.68832,Geomining Innovations,1
+1914,2023-05-01,Drills per Hour (TOH),Actual,Month,239.23632,Deep Earth Exploration Unit,1
+1915,2023-05-01,Drills per Hour (TOH),Actual,Month,132.95724,ACME,1
+1916,2023-05-01,Drills per Hour (TOH),Actual,Month,49401.79536,Rock Solid Enterprises,1
+1917,2023-05-01,Drills per Hour (TOH),Actual,Month,4686.56616,Core Extraction Systems,1
+1918,2023-05-01,Drills per Hour (TOH),Actual,Month,6937.06104,Mineral Extraction Technologies,1
+1919,2023-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3829.08528,Core Extraction Systems,1
+1920,2023-05-01,Rate (Mt.EFH Km),Actual,Month,4174.81284,Core Extraction Systems,1
+1921,2023-05-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4652.3418,Mineral Extraction Technologies,1
+1922,2023-05-01,Rate (Mt.EFH Km),Actual,Month,5258.80704,Mineral Extraction Technologies,1
+1923,2023-05-01,Coal Mined (Mt),Actual,Year-To-Date,38.4492,Deep Earth Exploration Unit,1000000
+1924,2023-05-01,Coal Mined (Mt),Actual,Month,8.13684,Deep Earth Exploration Unit,1000000
+1925,2023-05-01,Coal Mined (Mt),Plan,Year-To-Date,38.79384,Deep Earth Exploration Unit,1000000
+1926,2023-06-01,Coal Mined (Mt),Actual,Year-To-Date,12.20088,ACME,1000000
+1927,2023-06-01,Coal Mined (Mt),Actual,Month,1.56972,ACME,1000000
+1928,2023-06-01,Coal Dry Mining (Mt),Plan,Month,0.50412,ACME,1000000
+1929,2023-06-01,Utility (%),Actual,Year-To-Date,47.748,Deep Earth Exploration Unit,1
+1930,2023-06-01,Utility (%),Actual,Month,52.728,Deep Earth Exploration Unit,1
+1931,2023-06-01,Utility (%),Plan,Year-To-Date,54.072,Deep Earth Exploration Unit,1
+1932,2023-06-01,Utility (%),Plan,Month,60.672,Deep Earth Exploration Unit,1
+1933,2023-06-01,Coal Mined (Mt),Plan,Year-To-Date,12.08196,ACME,1000000
+1934,2023-06-01,Coal Mined (Mt),Plan,Month,2.17488,ACME,1000000
+1935,2023-06-01,Yield (%),Actual,Year-To-Date,39.084,Deep Earth Exploration Unit,1
+1936,2023-06-01,Yield (%),Actual,Month,42.396,Deep Earth Exploration Unit,1
+1937,2023-06-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1938,2023-06-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1939,2023-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,8.54256,Deep Earth Exploration Unit,1000000
+1940,2023-06-01,Coal Dry Mining (Mt),Actual,Month,1.43844,Deep Earth Exploration Unit,1000000
+1941,2023-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.87552,Deep Earth Exploration Unit,1000000
+1942,2023-06-01,Coal Dry Mining (Mt),Plan,Month,2.90676,Deep Earth Exploration Unit,1000000
+1943,2023-06-01,Coal Dry Mining (Mt),Actual,Year-To-Date,3.60612,ACME,1000000
+1944,2023-06-01,Coal Dry Mining (Mt),Actual,Month,0.50412,ACME,1000000
+1945,2023-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,3.58692,ACME,1000000
+1946,2023-06-01,Drills per Hour (TOH),Actual,Month,454.63464,Drill & Blast Division,1
+1947,2023-06-01,Drills per Hour (TOH),Actual,Month,31566.87204,Pacific Surface Mining Solutions,1
+1948,2023-06-01,Drills per Hour (TOH),Actual,Month,20707.569,Geomining Innovations,1
+1949,2023-06-01,Drills per Hour (TOH),Actual,Month,252.62772,Deep Earth Exploration Unit,1
+1950,2023-06-01,Drills per Hour (TOH),Actual,Month,145.28508,ACME,1
+1951,2023-06-01,Drills per Hour (TOH),Actual,Month,49653.10968,Rock Solid Enterprises,1
+1952,2023-06-01,Drills per Hour (TOH),Actual,Month,4861.89192,Core Extraction Systems,1
+1953,2023-06-01,Drills per Hour (TOH),Actual,Month,7018.6686,Mineral Extraction Technologies,1
+1954,2023-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3858.64836,Core Extraction Systems,1
+1955,2023-06-01,Rate (Mt.EFH Km),Actual,Month,,Core Extraction Systems,1
+1956,2023-06-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4734.3948,Mineral Extraction Technologies,1
+1957,2023-06-01,Rate (Mt.EFH Km),Actual,Month,5132.63256,Mineral Extraction Technologies,1
+1958,2023-06-01,Coal Mined (Mt),Actual,Year-To-Date,46.35852,Deep Earth Exploration Unit,1000000
+1959,2023-06-01,Coal Mined (Mt),Actual,Month,7.90932,Deep Earth Exploration Unit,1000000
+1960,2023-06-01,Coal Mined (Mt),Plan,Year-To-Date,46.57392,Deep Earth Exploration Unit,1000000
+1961,2023-07-01,Coal Mined (Mt),Actual,Year-To-Date,13.96368,ACME,1000000
+1962,2023-07-01,Coal Mined (Mt),Actual,Month,1.76292,ACME,1000000
+1963,2023-07-01,Coal Dry Mining (Mt),Plan,Month,0.6594,ACME,1000000
+1964,2023-07-01,Utility (%),Actual,Year-To-Date,47.244,Deep Earth Exploration Unit,1
+1965,2023-07-01,Utility (%),Actual,Month,44.292,Deep Earth Exploration Unit,1
+1966,2023-07-01,Utility (%),Plan,Year-To-Date,53.856,Deep Earth Exploration Unit,1
+1967,2023-07-01,Utility (%),Plan,Month,52.572,Deep Earth Exploration Unit,1
+1968,2023-07-01,Coal Mined (Mt),Plan,Year-To-Date,14.0856,ACME,1000000
+1969,2023-07-01,Coal Mined (Mt),Plan,Month,2.00364,ACME,1000000
+1970,2023-07-01,Yield (%),Actual,Year-To-Date,39.12,Deep Earth Exploration Unit,1
+1971,2023-07-01,Yield (%),Actual,Month,39.312,Deep Earth Exploration Unit,1
+1972,2023-07-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+1973,2023-07-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+1974,2023-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,9.78288,Deep Earth Exploration Unit,1000000
+1975,2023-07-01,Coal Dry Mining (Mt),Actual,Month,1.24032,Deep Earth Exploration Unit,1000000
+1976,2023-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,6.41352,Deep Earth Exploration Unit,1000000
+1977,2023-07-01,Coal Dry Mining (Mt),Plan,Month,2.538,Deep Earth Exploration Unit,1000000
+1978,2023-07-01,Coal Dry Mining (Mt),Actual,Year-To-Date,4.26552,ACME,1000000
+1979,2023-07-01,Coal Dry Mining (Mt),Actual,Month,0.6594,ACME,1000000
+1980,2023-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,4.24632,ACME,1000000
+1981,2023-07-01,Drills per Hour (TOH),Actual,Month,470.94216,Drill & Blast Division,1
+1982,2023-07-01,Drills per Hour (TOH),Actual,Month,31321.23348,Pacific Surface Mining Solutions,1
+1983,2023-07-01,Drills per Hour (TOH),Actual,Month,20066.88252,Geomining Innovations,1
+1984,2023-07-01,Drills per Hour (TOH),Actual,Month,228.02016,Deep Earth Exploration Unit,1
+1985,2023-07-01,Drills per Hour (TOH),Actual,Month,156.45312,ACME,1
+1986,2023-07-01,Drills per Hour (TOH),Actual,Month,49108.9362,Rock Solid Enterprises,1
+1987,2023-07-01,Drills per Hour (TOH),Actual,Month,4719.91968,Core Extraction Systems,1
+1988,2023-07-01,Drills per Hour (TOH),Actual,Month,5712.93576,Mineral Extraction Technologies,1
+1989,2023-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3353.16132,Geomining Innovations,1
+1990,2023-07-01,Rate (Mt.EFH Km),Actual,Month,3353.16132,Geomining Innovations,1
+1991,2023-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3910.66284,Core Extraction Systems,1
+1992,2023-07-01,Rate (Mt.EFH Km),Actual,Month,4187.39184,Core Extraction Systems,1
+1993,2023-07-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4867.5978,Mineral Extraction Technologies,1
+1994,2023-07-01,Rate (Mt.EFH Km),Actual,Month,5608.16604,Mineral Extraction Technologies,1
+1995,2023-07-01,Coal Mined (Mt),Actual,Year-To-Date,51.88056,Deep Earth Exploration Unit,1000000
+1996,2023-07-01,Coal Mined (Mt),Actual,Month,5.52216,Deep Earth Exploration Unit,1000000
+1997,2023-07-01,Coal Mined (Mt),Plan,Year-To-Date,52.35624,Deep Earth Exploration Unit,1000000
+1998,2023-08-01,Coal Mined (Mt),Actual,Year-To-Date,15.99612,ACME,1000000
+1999,2023-08-01,Coal Mined (Mt),Actual,Month,2.03244,ACME,1000000
+2000,2023-08-01,Coal Dry Mining (Mt),Plan,Month,0.77292,ACME,1000000
+2001,2023-08-01,Utility (%),Actual,Year-To-Date,46.896,Deep Earth Exploration Unit,1
+2002,2023-08-01,Utility (%),Actual,Month,44.556,Deep Earth Exploration Unit,1
+2003,2023-08-01,Utility (%),Plan,Year-To-Date,54.732,Deep Earth Exploration Unit,1
+2004,2023-08-01,Utility (%),Plan,Month,60.672,Deep Earth Exploration Unit,1
+2005,2023-08-01,Coal Mined (Mt),Plan,Year-To-Date,16.19376,ACME,1000000
+2006,2023-08-01,Coal Mined (Mt),Plan,Month,2.10816,ACME,1000000
+2007,2023-08-01,Yield (%),Actual,Year-To-Date,38.652,Deep Earth Exploration Unit,1
+2008,2023-08-01,Yield (%),Actual,Month,35.784,Deep Earth Exploration Unit,1
+2009,2023-08-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+2010,2023-08-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+2011,2023-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,11.24364,Deep Earth Exploration Unit,1000000
+2012,2023-08-01,Coal Dry Mining (Mt),Actual,Month,1.50636,Deep Earth Exploration Unit,1000000
+2013,2023-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,9.41832,Deep Earth Exploration Unit,1000000
+2014,2023-08-01,Coal Dry Mining (Mt),Plan,Month,3.0048,Deep Earth Exploration Unit,1000000
+2015,2023-08-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.03844,ACME,1000000
+2016,2023-08-01,Coal Dry Mining (Mt),Actual,Month,0.77292,ACME,1000000
+2017,2023-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,5.01924,ACME,1000000
+2018,2023-08-01,Drills per Hour (TOH),Actual,Month,547.94532,Drill & Blast Division,1
+2019,2023-08-01,Drills per Hour (TOH),Actual,Month,31557.648,Pacific Surface Mining Solutions,1
+2020,2023-08-01,Drills per Hour (TOH),Actual,Month,30741.11052,Geomining Innovations,1
+2021,2023-08-01,Drills per Hour (TOH),Actual,Month,219.69144,Deep Earth Exploration Unit,1
+2022,2023-08-01,Drills per Hour (TOH),Actual,Month,163.09512,ACME,1
+2023,2023-08-01,Drills per Hour (TOH),Actual,Month,49458.85428,Rock Solid Enterprises,1
+2024,2023-08-01,Drills per Hour (TOH),Actual,Month,4094.16072,Core Extraction Systems,1
+2025,2023-08-01,Drills per Hour (TOH),Actual,Month,6818.30244,Mineral Extraction Technologies,1
+2026,2023-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3199.70292,Geomining Innovations,1
+2027,2023-08-01,Rate (Mt.EFH Km),Actual,Month,3046.24452,Geomining Innovations,1
+2028,2023-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3925.30476,Core Extraction Systems,1
+2029,2023-08-01,Rate (Mt.EFH Km),Actual,Month,4017.8442,Core Extraction Systems,1
+2030,2023-08-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4898.64672,Mineral Extraction Technologies,1
+2031,2023-08-01,Rate (Mt.EFH Km),Actual,Month,5095.27104,Mineral Extraction Technologies,1
+2032,2023-08-01,Coal Mined (Mt),Actual,Year-To-Date,59.22204,Deep Earth Exploration Unit,1000000
+2033,2023-08-01,Coal Mined (Mt),Actual,Month,7.34148,Deep Earth Exploration Unit,1000000
+2034,2023-08-01,Coal Mined (Mt),Plan,Year-To-Date,60.22596,Deep Earth Exploration Unit,1000000
+2035,2023-09-01,Coal Mined (Mt),Actual,Year-To-Date,17.7672,ACME,1000000
+2036,2023-09-01,Coal Mined (Mt),Actual,Month,1.77108,ACME,1000000
+2037,2023-09-01,Coal Dry Mining (Mt),Plan,Month,0.68616,ACME,1000000
+2038,2023-09-01,Utility (%),Actual,Year-To-Date,47.88,Deep Earth Exploration Unit,1
+2039,2023-09-01,Utility (%),Actual,Month,55.812,Deep Earth Exploration Unit,1
+2040,2023-09-01,Utility (%),Plan,Year-To-Date,55.38,Deep Earth Exploration Unit,1
+2041,2023-09-01,Utility (%),Plan,Month,60.672,Deep Earth Exploration Unit,1
+2042,2023-09-01,Coal Mined (Mt),Plan,Year-To-Date,18.26748,ACME,1000000
+2043,2023-09-01,Coal Mined (Mt),Plan,Month,2.07384,ACME,1000000
+2044,2023-09-01,Yield (%),Actual,Year-To-Date,38.856,Deep Earth Exploration Unit,1
+2045,2023-09-01,Yield (%),Actual,Month,40.404,Deep Earth Exploration Unit,1
+2046,2023-09-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+2047,2023-09-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+2048,2023-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,12.35904,Deep Earth Exploration Unit,1000000
+2049,2023-09-01,Coal Dry Mining (Mt),Actual,Month,1.06884,Deep Earth Exploration Unit,1000000
+2050,2023-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,12.32628,Deep Earth Exploration Unit,1000000
+2051,2023-09-01,Coal Dry Mining (Mt),Plan,Month,2.90784,Deep Earth Exploration Unit,1000000
+2052,2023-09-01,Coal Dry Mining (Mt),Actual,Year-To-Date,5.7246,ACME,1000000
+2053,2023-09-01,Coal Dry Mining (Mt),Actual,Month,0.68616,ACME,1000000
+2054,2023-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,5.70552,ACME,1000000
+2055,2023-09-01,Drills per Hour (TOH),Actual,Month,543.5898,Drill & Blast Division,1
+2056,2023-09-01,Drills per Hour (TOH),Actual,Month,31025.40744,Pacific Surface Mining Solutions,1
+2057,2023-09-01,Drills per Hour (TOH),Actual,Month,31223.63412,Geomining Innovations,1
+2058,2023-09-01,Drills per Hour (TOH),Actual,Month,257.1354,Deep Earth Exploration Unit,1
+2059,2023-09-01,Drills per Hour (TOH),Actual,Month,156.79704,ACME,1
+2060,2023-09-01,Drills per Hour (TOH),Actual,Month,49527.321,Rock Solid Enterprises,1
+2061,2023-09-01,Drills per Hour (TOH),Actual,Month,4986.72024,Core Extraction Systems,1
+2062,2023-09-01,Drills per Hour (TOH),Actual,Month,7179.73116,Mineral Extraction Technologies,1
+2063,2023-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3075.28608,Geomining Innovations,1
+2064,2023-09-01,Rate (Mt.EFH Km),Actual,Month,2818.15788,Geomining Innovations,1
+2065,2023-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3880.06716,Core Extraction Systems,1
+2066,2023-09-01,Rate (Mt.EFH Km),Actual,Month,3529.47108,Core Extraction Systems,1
+2067,2023-09-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4918.42944,Mineral Extraction Technologies,1
+2068,2023-09-01,Rate (Mt.EFH Km),Actual,Month,5068.15392,Mineral Extraction Technologies,1
+2069,2023-09-01,Coal Mined (Mt),Actual,Year-To-Date,66.62268,Deep Earth Exploration Unit,1000000
+2070,2023-09-01,Coal Mined (Mt),Actual,Month,7.40064,Deep Earth Exploration Unit,1000000
+2071,2023-09-01,Coal Mined (Mt),Plan,Year-To-Date,68.33424,Deep Earth Exploration Unit,1000000
+2072,2023-10-01,Coal Mined (Mt),Actual,Year-To-Date,19.23228,ACME,1000000
+2073,2023-10-01,Coal Mined (Mt),Actual,Month,1.46508,ACME,1000000
+2074,2023-10-01,Coal Dry Mining (Mt),Plan,Month,0.53916,ACME,1000000
+2075,2023-10-01,Utility (%),Actual,Year-To-Date,48.696,Deep Earth Exploration Unit,1
+2076,2023-10-01,Utility (%),Actual,Month,55.956,Deep Earth Exploration Unit,1
+2077,2023-10-01,Utility (%),Plan,Year-To-Date,55.92,Deep Earth Exploration Unit,1
+2078,2023-10-01,Utility (%),Plan,Month,60.672,Deep Earth Exploration Unit,1
+2079,2023-10-01,Coal Mined (Mt),Plan,Year-To-Date,20.1174,ACME,1000000
+2080,2023-10-01,Coal Mined (Mt),Plan,Month,1.84992,ACME,1000000
+2081,2023-10-01,Yield (%),Actual,Year-To-Date,39.384,Deep Earth Exploration Unit,1
+2082,2023-10-01,Yield (%),Actual,Month,43.872,Deep Earth Exploration Unit,1
+2083,2023-10-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+2084,2023-10-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+2085,2023-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,13.2588,Deep Earth Exploration Unit,1000000
+2086,2023-10-01,Coal Dry Mining (Mt),Actual,Month,0.89976,Deep Earth Exploration Unit,1000000
+2087,2023-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,15.18564,Deep Earth Exploration Unit,1000000
+2088,2023-10-01,Coal Dry Mining (Mt),Plan,Month,2.85936,Deep Earth Exploration Unit,1000000
+2089,2023-10-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.21924,ACME,1000000
+2090,2023-10-01,Coal Dry Mining (Mt),Actual,Month,0.49464,ACME,1000000
+2091,2023-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,6.24468,ACME,1000000
+2092,2023-10-01,Drills per Hour (TOH),Actual,Month,590.32524,Drill & Blast Division,1
+2093,2023-10-01,Drills per Hour (TOH),Actual,Month,31271.8158,Pacific Surface Mining Solutions,1
+2094,2023-10-01,Drills per Hour (TOH),Actual,Month,29269.35,Geomining Innovations,1
+2095,2023-10-01,Drills per Hour (TOH),Actual,Month,261.79968,Deep Earth Exploration Unit,1
+2096,2023-10-01,Drills per Hour (TOH),Actual,Month,149.78736,ACME,1
+2097,2023-10-01,Drills per Hour (TOH),Actual,Month,49625.7804,Rock Solid Enterprises,1
+2098,2023-10-01,Drills per Hour (TOH),Actual,Month,5103.52512,Core Extraction Systems,1
+2099,2023-10-01,Drills per Hour (TOH),Actual,Month,6920.17812,Mineral Extraction Technologies,1
+2100,2023-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,2985.10224,Geomining Innovations,1
+2101,2023-10-01,Rate (Mt.EFH Km),Actual,Month,2717.46012,Geomining Innovations,1
+2102,2023-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3882.0444,Core Extraction Systems,1
+2103,2023-10-01,Rate (Mt.EFH Km),Actual,Month,3898.79436,Core Extraction Systems,1
+2104,2023-10-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4918.11216,Mineral Extraction Technologies,1
+2105,2023-10-01,Rate (Mt.EFH Km),Actual,Month,4915.464,Mineral Extraction Technologies,1
+2106,2023-10-01,Coal Mined (Mt),Actual,Year-To-Date,73.94868,Deep Earth Exploration Unit,1000000
+2107,2023-10-01,Coal Mined (Mt),Actual,Month,7.326,Deep Earth Exploration Unit,1000000
+2108,2023-10-01,Coal Mined (Mt),Plan,Year-To-Date,76.27368,Deep Earth Exploration Unit,1000000
+2109,2023-11-01,Coal Mined (Mt),Actual,Year-To-Date,20.91,ACME,1000000
+2110,2023-11-01,Coal Mined (Mt),Actual,Month,1.6776,ACME,1000000
+2111,2023-11-01,Coal Dry Mining (Mt),Plan,Month,0.62208,ACME,1000000
+2112,2023-11-01,Utility (%),Actual,Year-To-Date,48.996,Deep Earth Exploration Unit,1
+2113,2023-11-01,Utility (%),Actual,Month,52.056,Deep Earth Exploration Unit,1
+2114,2023-11-01,Utility (%),Plan,Year-To-Date,56.52,Deep Earth Exploration Unit,1
+2115,2023-11-01,Utility (%),Plan,Month,62.664,Deep Earth Exploration Unit,1
+2116,2023-11-01,Coal Mined (Mt),Plan,Year-To-Date,22.32624,ACME,1000000
+2117,2023-11-01,Coal Mined (Mt),Plan,Mont,2.20884,ACME,1000000
+2118,2023-11-01,Yield (%),Actual,Year-To-Date,39.444,Deep Earth Exploration Unit,1
+2119,2023-11-01,Yield (%),Actual,Month,40.248,Deep Earth Exploration Unit,1
+2120,2023-11-01,Yield (%),Plan,Year-To-Date,45.6,Deep Earth Exploration Unit,1
+2121,2023-11-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+2122,2023-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,14.19492,Deep Earth Exploration Unit,1000000
+2123,2023-11-01,Coal Dry Mining (Mt),Actual,Month,0.93612,Deep Earth Exploration Unit,1000000
+2124,2023-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,18.09348,Deep Earth Exploration Unit,1000000
+2125,2023-11-01,Coal Dry Mining (Mt),Plan,Month,2.90784,Deep Earth Exploration Unit,1000000
+2126,2023-11-01,Coal Dry Mining (Mt),Actual,Year-To-Date,6.80004,ACME,1000000
+2127,2023-11-01,Coal Dry Mining (Mt),Actual,Month,0.5808,ACME,1000000
+2128,2023-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,6.86676,ACME,1000000
+2129,2023-11-01,Drills per Hour (TOH),Actual,Month,601.46892,Drill & Blast Division,1
+2130,2023-11-01,Drills per Hour (TOH),Actual,Month,31605.04632,Pacific Surface Mining Solutions,1
+2131,2023-11-01,Drills per Hour (TOH),Actual,Month,30787.09932,Geomining Innovations,1
+2132,2023-11-01,Drills per Hour (TOH),Actual,Month,250.09584,Deep Earth Exploration Unit,1
+2133,2023-11-01,Drills per Hour (TOH),Actual,Month,150.8208,ACME,1
+2134,2023-11-01,Drills per Hour (TOH),Actual,Month,48645.243,Rock Solid Enterprises,1
+2135,2023-11-01,Drills per Hour (TOH),Actual,Month,5116.46244,Core Extraction Systems,1
+2136,2023-11-01,Drills per Hour (TOH),Actual,Month,6942.5574,Mineral Extraction Technologies,1
+2137,2023-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,2885.32296,Geomining Innovations,1
+2138,2023-11-01,Rate (Mt.EFH Km),Actual,Month,2476.79508,Geomining Innovations,1
+2139,2023-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3877.89912,Core Extraction Systems,1
+2140,2023-11-01,Rate (Mt.EFH Km),Actual,Month,3837.32916,Core Extraction Systems,1
+2141,2023-11-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4902.87516,Mineral Extraction Technologies,1
+2142,2023-11-01,Rate (Mt.EFH Km),Actual,Month,4756.67556,Mineral Extraction Technologies,1
+2143,2023-11-01,Coal Mined (Mt),Actual,Year-To-Date,81.47676,Deep Earth Exploration Unit,1000000
+2144,2023-11-01,Coal Mined (Mt),Actual,Month,7.52808,Deep Earth Exploration Unit,1000000
+2145,2023-11-01,Coal Mined (Mt),Plan,Year-To-Date,84.25752,Deep Earth Exploration Unit,1000000
+2146,2023-12-01,Coal Mined (Mt),Actual,Year-To-Date,88.7646,Deep Earth Exploration Unit,1000000
+2147,2023-12-01,Coal Mined (Mt),Actual,Month,7.28784,Deep Earth Exploration Unit,1000000
+2148,2023-12-01,Coal Dry Mining (Mt),Plan,Month,0.64284,ACME,1000000
+2149,2023-12-01,Utility (%),Actual,Year-To-Date,49.38,Deep Earth Exploration Unit,1
+2150,2023-12-01,Utility (%),Actual,Month,53.448,Deep Earth Exploration Unit,1
+2151,2023-12-01,Utility (%),Plan,Year-To-Date,56.796,Deep Earth Exploration Unit,1
+2152,2023-12-01,Utility (%),Plan,Month,59.676,Deep Earth Exploration Unit,1
+2153,2023-12-01,Coal Mined $&$!,Plan,Year-To-Date,92.63604,Deep Earth Exploration Unit,1000000
+2154,2023-12-01,Coal Mined (Mt),Plan,Month,8.37852,Deep Earth Exploration Unit,1000000
+2155,2023-12-01,Coal Mined (Mt),Actual,Month,2.028,ACME,1000000
+2156,2023-12-01,Coal Mined (Mt),Plan,Year-To-Date,24.57384,ACME,1000000
+2157,2023-12-01,Coal Mined (Mt),Plan,Month,2.2476,ACME,1000000
+2158,2023-12-01,Yield (%),Actual,Month,40.908,Deep Earth Exploration Unit,1
+2159,2023-12-01,Yield (%),Plan,Month,45.6,Deep Earth Exploration Unit,1
+2160,2023-12-01,Coal Dry Mining (Mt),Actual,Year-To-Date,14.79864,Deep Earth Exploration Unit,1000000
+2161,2023-12-01,Coal Dry Mining (Mt),Actual,Month,0.6036,Deep Earth Exploration Unit,1000000
+2162,2023-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,21.09828,Deep Earth Exploration Unit,1000000
+2163,2023-12-01,Coal Dry Mining (Mt),Plan,Month,3.0048,Deep Earth Exploration Unit,1000000
+2164,2023-12-01,Coal Dry Mining (Mt),Actual,Month,0.62316,ACME,1000000
+2165,2023-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,7.50948,ACME,1000000
+2166,2023-12-01,Drills per Hour (TOH),Actual,Month,629.24148,Drill & Blast Division,1
+2167,2023-12-01,Drills per Hour (TOH),Actual,Month,31457.49312,Pacific Surface Mining Solutions,1
+2168,2023-12-01,Drills per Hour (TOH),Actual,Month,30967.41768,Geomining Innovations,1
+2169,2023-12-01,Drills per Hour (TOH),Actual,Month,246.3042,Deep Earth Exploration Unit,1
+2170,2023-12-01,Drills per Hour (TOH),Actual,Month,137.301,ACME,1
+2171,2023-12-01,Drills per Hour (TOH),Actual,Month,48288.45948,Rock Solid Enterprises,1
+2172,2023-12-01,Drills per Hour (TOH),Actual,Month,5382.27816,Core Extraction Systems,1
+2173,2023-12-01,Drills per Hour (TOH),Actual,Month,7026.69156,Mineral Extraction Technologies,1
+2174,2023-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,2794.9068,Geomining Innovations,1
+2175,2023-12-01,Rate (Mt.EFH Km),Actual,Month,2348.53824,Geomining Innovations,1
+2176,2023-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3836.1546,Core Extraction Systems,1
+2177,2023-12-01,Rate (Mt.EFH Km),Actual,Month,3400.37904,Core Extraction Systems,1
+2178,2023-12-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4869.46164,Mineral Extraction Technologies,1
+2179,2024-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4286.69112,Mineral Extraction Technologies,1
+2180,2024-01-01,Rate (Mt.EFH Km),Actual,Month,4286.69112,Mineral Extraction Technologies,1
+2181,2024-01-01,Coal Dry Mining (Mt),Plan,Month,0.6696,ACME,1000000
+2182,2024-01-01,Utility (%),Actual,Year-To-Date,51.336,Deep Earth Exploration Unit,1
+2183,2024-01-01,Utility (%),Actual,Month,51.336,Deep Earth Exploration Unit,1
+2184,2024-01-01,Utility (%),Plan,Year-To-Date,54.18,Deep Earth Exploration Unit,1
+2185,2024-01-01,Utility (%),Plan,Month,54.18,Deep Earth Exploration Unit,1
+2186,2024-01-01,Coal Mined (Mt),Actual,Year-To-Date,5.2488,Deep Earth Exploration Unit,1000000
+2187,2024-01-01,Coal Mined (Mt),Actual,Month,5.2488,Deep Earth Exploration Unit,1000000
+2188,2024-01-01,Coal Mined (Mt),Plan,Year-To-Date,6.47148,Deep Earth Exploration Unit,1000000
+2189,2024-01-01,Coal Mined (Mt),Plan,Month,6.47148,Deep Earth Exploration Unit,1000000
+2190,2024-01-01,Coal Mined (Mt),Actual,Year-To-Date,2.11512,ACME,1000000
+2191,2024-01-01,Coal Mined (Mt),Actual,Month,2.11512,ACME,1000000
+2192,2024-01-01,Yield (%),Actual,Year-To-Date,38.988,Deep Earth Exploration Unit,1
+2193,2024-01-01,Yield (%),Actual,Month,38.988,Deep Earth Exploration Unit,1
+2194,2024-01-01,Yield (%),Plan,Year-To-Date,44.4,Deep Earth Exploration Unit,1
+2195,2024-01-01,Yield (%),Plan,Month,44.4,Deep Earth Exploration Unit,1
+2196,2024-01-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.59832,ACME,1000000
+2197,2024-01-01,Coal Dry Mining (Mt),Actual,Month,0.59832,ACME,1000000
+2198,2024-01-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.6696,ACME,1000000
+2199,2024-01-01,Drills per Hour (TOH),Actual,Month,680.61096,Drill & Blast Division,1
+2200,2024-01-01,Drills per Hour (TOH),Actual,Month,31437.59928,Pacific Surface Mining Solutions,1
+2201,2024-01-01,Drills per Hour (TOH),Actual,Month,32861.4348,Geomining Innovations,1
+2202,2024-01-01,Drills per Hour (TOH),Actual,Month,253.27308,Deep Earth Exploration Unit,1
+2203,2024-01-01,Drills per Hour (TOH),Actual,Month,147.02688,ACME,1
+2204,2024-01-01,Drills per Hour (TOH),Actual,Month,44964.3546,Rock Solid Enterprises,1
+2205,2024-01-01,Drills per Hour (TOH),Actual,Month,5008.13448,Core Extraction Systems,1
+2206,2024-01-01,Drills per Hour (TOH),Actual,Month,6140.2668,Mineral Extraction Technologies,1
+2207,2024-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3387.63492,Geomining Innovations,1
+2208,2024-01-01,Rate (Mt.EFH Km),Actual,Month,3387.63492,Geomining Innovations,1
+2209,2024-01-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3635.81808,Core Extraction Systems,1
+2210,2024-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,4502.01324,Mineral Extraction Technologies,1
+2211,2024-02-01,Rate (Mt.EFH Km),Actual,Month,4729.55676,Mineral Extraction Technologies,1
+2212,2024-02-01,Coal Dry Mining (Mt),Plan,Month,0.3024,ACME,1000000
+2213,2024-02-01,Utility (%),Actual,Year-To-Date,50.88,Deep Earth Exploration Unit,1
+2214,2024-02-01,Utility (%),Actual,Month,50.4,Deep Earth Exploration Unit,1
+2215,2024-02-01,Utility (%),Plan,Year-To-Date,54.18,Deep Earth Exploration Unit,1
+2216,2024-02-01,Utility (%),Plan,Month,54.18,Deep Earth Exploration Unit,1
+2217,2024-02-01,Coal Mined (Mt),Actual,Year-To-Date,10.49508,Deep Earth Exploration Unit,1000000
+2218,2024-02-01,Coal Mined (Mt),Actual,Month,5.24628,Deep Earth Exploration Unit,1000000
+2219,2024-02-01,Coal Mined (Mt),Plan,Year-To-Date,12.41856,Deep Earth Exploration Unit,1000000
+2220,2024-02-01,Coal Mined (Mt),Plan,Month,5.94708,Deep Earth Exploration Unit,1000000
+2221,2024-02-01,Coal Mined (Mt),Actual,Year-To-Date,3.50472,ACME,1000000
+2222,2024-02-01,Coal Mined (Mt),Actual,Month,1.38972,ACME,1000000
+2223,2024-02-01,Yield (%),Actual,Year-To-Date,38.448,Deep Earth Exploration Unit,1
+2224,2024-02-01,Yield (%),Actual,Month,37.812,Deep Earth Exploration Unit,1
+2225,2024-02-01,Yield (%),Plan,Year-To-Date,44.4,Deep Earth Exploration Unit,1
+2226,2024-02-01,Yield (%),Plan,Month,44.4,Deep Earth Exploration Unit,1
+2227,2024-02-01,Coal Dry Mining (Mt),Actual,Year-To-Date,0.9234,ACME,1000000
+2228,2024-02-01,Coal Dry Mining (Mt),Actual,Month,0.32496,ACME,1000000
+2229,2024-02-01,Coal Dry Mining (Mt),Plan,Year-To-Date,0.972,ACME,1000000
+2230,2024-02-01,Drills per Hour (TOH),Actual,Month,11816.09136,Drill & Blast Division,1
+2231,2024-02-01,Drills per Hour (TOH),Actual,Month,31569.06732,Pacific Surface Mining Solutions,1
+2232,2024-02-01,Drills per Hour (TOH),Actual,Month,31806.83544,Geomining Innovations,1
+2233,2024-02-01,Drills per Hour (TOH),Actual,Month,238.66164,Deep Earth Exploration Unit,1
+2234,2024-02-01,Drills per Hour (TOH),Actual,Month,163.38564,ACME,1
+2235,2024-02-01,Drills per Hour (TOH),Actual,Month,47195.06388,Rock Solid Enterprises,1
+2236,2024-02-01,Drills per Hour (TOH),Actual,Month,5030.44356,Core Extraction Systems,1
+2237,2024-02-01,Drills per Hour (TOH),Actual,Month,6990.54324,Mineral Extraction Technologies,1
+2238,2024-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,2898.22812,Geomining Innovations,1
+2239,2024-02-01,Rate (Mt.EFH Km),Actual,Month,2375.06892,Geomining Innovations,1
+2240,2024-02-01,Rate (Mt.EFH Km),Actual,Year-To-Date,3508.93608,Core Extraction Systems,1
+2241,2024-03-01,Coal Mined (Mt),Plan,Year-To-Date,18.93912,Deep Earth Exploration Unit,1000000
+2242,2024-03-01,Coal Mined (Mt),Plan,Month,6.52056,Deep Earth Exploration Unit,1000000
+2243,2024-03-01,Utility (%),Plan,Year-To-Date,54.18,Deep Earth Exploration Unit,1
+2244,2024-03-01,Utility (%),Plan,Month,54.18,Deep Earth Exploration Unit,1
+2245,2024-03-01,Yield (%),Plan,Year-To-Date,44.4,Deep Earth Exploration Unit,1
+2246,2024-03-01,Yield (%),Plan,Month,44.4,Deep Earth Exploration Unit,1
+2247,2024-03-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2248,2024-04-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2249,2024-05-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2250,2024-06-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2251,2024-07-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2252,2024-08-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2253,2024-09-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2254,2024-10-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2255,2024-11-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
+2256,2024-12-01,Coal Dry Mining (Mt),Plan,Year-To-Date,1.41636,ACME,1000000
