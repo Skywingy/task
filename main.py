@@ -2,6 +2,9 @@ import psycopg2
 import yaml
 import logging
 import pandas as pd
+import schedule
+import time
+from datetime import datetime
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -102,6 +105,17 @@ def create_stored_procedure(conn):
     except psycopg2.Error as e:
         logging.error("Error creating stored procedure: %s", e)
 
+# Function to execute the stored procedure
+def execute_stored_proc(conn):
+    try:
+        cursor = conn.cursor()
+
+        # Execute the stored procedure
+        cursor.callproc('populate_dim_date')
+        conn.commit()
+        print("Stored procedure executed successfully!")
+    except psycopg2.Error as e:
+        print("Error executing stored procedure:", e)
 
 # Main function
 def main(config_file='config.yml'):
@@ -123,11 +137,18 @@ def main(config_file='config.yml'):
     # 5. Create stored procedure to populate "dim date" table
     create_stored_procedure(conn)
 
-    # 6. Close connection
+    # 6.Execute the stored procedure
+    execute_stored_proc(conn)
+
+    # 7. Close connection
     conn.close()
 
     logging.info("Connection closed.")
 
+# Schedule the execution of the script every day at 01:00
+# schedule.every().day.at("01:00").do(main)
+
+# Run the scheduler
 
 if __name__ == "__main__":
     main()
